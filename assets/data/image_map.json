@@ -974,7 +974,12 @@
         "Ethiopia": "assets/logos/upstreams/ethiopia.webp",
         "S\u00e3o Tom\u00e9 and Pr\u00edncipe": "assets/logos/upstreams/s\u00e3o-tom\u00e9-and-pr\u00edncipe.webp",
         "Antoine Mayoral": "assets/logos/upstreams/antoine-mayoral.webp",
-        "Aleksa Ciric": "assets/logos/upstreams/aleksa-ciric.webp"
+        "Aleksa Ciric": "assets/logos/upstreams/aleksa-ciric.webp",
+        "Inaki Monte De La Torre": "assets/logos/upstreams/inaki-monte-de-la-torre.webp",
+        "Alan Ton": "assets/logos/upstreams/alan-ton.webp",
+        "Christopher Rodi": "assets/logos/upstreams/christopher-rodi.webp",
+        "Elena Goodman": "assets/logos/upstreams/elena-goodman.webp",
+        "Alina Shcherbinina": "assets/logos/upstreams/alina-shcherbinina.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1122,6 +1127,7 @@
         "Championship": "assets/logos/leagues/championship.webp",
         "Liga AUF Uruguaya, Apertura": "assets/logos/leagues/liga-auf-uruguaya-apertura.webp",
         "Pakistan Super League": "assets/logos/leagues/pakistan-super-league.webp",
-        "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp"
+        "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp",
+        "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp"
     }
 }
