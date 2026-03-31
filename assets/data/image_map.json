@@ -922,7 +922,15 @@
         "Mitchell Deames": "assets/logos/upstreams/mitchell-deames.webp",
         "Houston Jacques": "assets/logos/upstreams/houston-jacques.webp",
         "Elizabeth Fauchet": "assets/logos/upstreams/elizabeth-fauchet.webp",
-        "Savanna Ly-Nguyen": "assets/logos/upstreams/savanna-ly-nguyen.webp"
+        "Savanna Ly-Nguyen": "assets/logos/upstreams/savanna-ly-nguyen.webp",
+        "Vse Falcons Prague": "assets/logos/upstreams/vse-falcons-prague.webp",
+        "United Hradec Kralove": "assets/logos/upstreams/united-hradec-kralove.webp",
+        "Laia Petretic": "assets/logos/upstreams/laia-petretic.webp",
+        "Joao Domingues": "assets/logos/upstreams/joao-domingues.webp",
+        "Xavi Palomar": "assets/logos/upstreams/xavi-palomar.webp",
+        "Mili Poljicak": "assets/logos/upstreams/mili-poljicak.webp",
+        "Rio Grande Valley Vipers": "assets/logos/upstreams/rio-grande-valley-vipers.webp",
+        "Austin Spurs": "assets/logos/upstreams/austin-spurs.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1063,6 +1071,7 @@
         "AHL": "assets/logos/leagues/ahl.webp",
         "Tour Championship": "assets/logos/leagues/tour-championship.webp",
         "Australia - NPL - Victoria": "assets/logos/leagues/australia-npl-victoria.webp",
-        "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp"
+        "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp",
+        "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp"
     }
 }
