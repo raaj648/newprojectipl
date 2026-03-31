@@ -518,55 +518,26 @@
     "header": [
       {
         "title": "Schedule",
-        "url": "/#schedule",
+        "url": "/#ipl-2026-schedule-wrapper",
         "highlight": true
       },
       {
-        "title": "Features",
-        "url": "/#features",
-        "highlight": false
+        "title": "Teams",
+        "url": "/#teams",
+        "highlight": true
       },
       {
-        "title": "FAQs",
+        "title": "Venues",
+        "url": "/#venues",
+        "highlight": true
+      },
+      {
+        "title": "FAQS",
         "url": "/#faqs",
-        "highlight": false
-      },
-      {
-        "title": "Who We Are",
-        "url": "/about",
-        "highlight": false
+        "highlight": true
       }
     ],
-    "hero": [
-      {
-        "title": "🏈 NFL",
-        "url": "/nfl-streams/"
-      },
-      {
-        "title": "🏀 NBA",
-        "url": "/nba-streams/"
-      },
-      {
-        "title": "🏆 NCAA",
-        "url": "/ncaa-streams/"
-      },
-      {
-        "title": "⚾ MLB",
-        "url": "/mlb-streams/"
-      },
-      {
-        "title": "🏒 NHL",
-        "url": "/nhl-streams/"
-      },
-      {
-        "title": "🥊 UFC",
-        "url": "/ufc-streams/"
-      },
-      {
-        "title": "🏆 Formula 1",
-        "url": "/formula-1-streams/"
-      }
-    ],
+    "hero": [],
     "footer_links": [
       {
         "title": "NFL",
