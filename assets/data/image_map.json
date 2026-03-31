@@ -1010,7 +1010,21 @@
         "Kolie Allen": "assets/logos/upstreams/kolie-allen.webp",
         "Serafima Elizarova": "assets/logos/upstreams/serafima-elizarova.webp",
         "Sofia Johnson": "assets/logos/upstreams/sofia-johnson.webp",
-        "Jensen Diianni": "assets/logos/upstreams/jensen-diianni.webp"
+        "Jensen Diianni": "assets/logos/upstreams/jensen-diianni.webp",
+        "AEL Limassol B.C.": "assets/logos/upstreams/ael-limassol-bc.webp",
+        "Enosis Neon Paralimni": "assets/logos/upstreams/enosis-neon-paralimni.webp",
+        "Bertanu Valmieras BS": "assets/logos/upstreams/bertanu-valmieras-bs.webp",
+        "RSU/VEF Riga": "assets/logos/upstreams/rsuvef-riga.webp",
+        "Chattanooga FC": "assets/logos/upstreams/chattanooga-fc.webp",
+        "Tennessee Tempo FC": "assets/logos/upstreams/tennessee-tempo-fc.webp",
+        "Richmond Kickers": "assets/logos/upstreams/richmond-kickers.webp",
+        "Loudoun United FC": "assets/logos/upstreams/loudoun-united-fc.webp",
+        "Lexington SC": "assets/logos/upstreams/lexington-sc.webp",
+        "Louisville City FC": "assets/logos/upstreams/louisville-city-fc.webp",
+        "Vermont Green FC": "assets/logos/upstreams/vermont-green-fc.webp",
+        "Westchester SC": "assets/logos/upstreams/westchester-sc.webp",
+        "Flint City Bucks": "assets/logos/upstreams/flint-city-bucks.webp",
+        "Detroit City FC": "assets/logos/upstreams/detroit-city-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1159,6 +1173,7 @@
         "Liga AUF Uruguaya, Apertura": "assets/logos/leagues/liga-auf-uruguaya-apertura.webp",
         "Pakistan Super League": "assets/logos/leagues/pakistan-super-league.webp",
         "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp",
-        "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp"
+        "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp",
+        "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp"
     }
 }
