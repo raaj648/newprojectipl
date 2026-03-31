@@ -959,7 +959,12 @@
         "Riders Univerzita Pardubice": "assets/logos/upstreams/riders-univerzita-pardubice.webp",
         "Damir Dzumhur": "assets/logos/upstreams/damir-dzumhur.webp",
         "Kaarinan Ura Basket": "assets/logos/upstreams/kaarinan-ura-basket.webp",
-        "Tapiolan Honka II": "assets/logos/upstreams/tapiolan-honka-ii.webp"
+        "Tapiolan Honka II": "assets/logos/upstreams/tapiolan-honka-ii.webp",
+        "Gabrielius Guzauskas": "assets/logos/upstreams/gabrielius-guzauskas.webp",
+        "Gian Marco Ortenzi": "assets/logos/upstreams/gian-marco-ortenzi.webp",
+        "Sze Xuan Lim": "assets/logos/upstreams/sze-xuan-lim.webp",
+        "Sthefany Rodrigues de Lima": "assets/logos/upstreams/sthefany-rodrigues-de-lima.webp",
+        "Abedallah Shelbayh": "assets/logos/upstreams/abedallah-shelbayh.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1103,6 +1108,7 @@
         "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp",
         "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp",
         "U19 EURO, Elite round, Gr. 1": "assets/logos/leagues/u19-euro-elite-round-gr-1.webp",
-        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
+        "Championship": "assets/logos/leagues/championship.webp"
     }
 }
