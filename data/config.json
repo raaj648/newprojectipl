@@ -8,7 +8,9 @@
     "title_part_1": "LiveIPL",
     "title_part_2": ".FIT",
     "custom_js": "",
-    "custom_meta_tags": [],
+    "custom_meta_tags": [
+      "<meta name=\"referrer\" content=\"no-referrer-when-downgrade\" />"
+    ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://liveipl.fit/sitemap.xml",
     "domain": "liveipl.fit",
     "logo_url": "/assets/liveipllogo.webp",
