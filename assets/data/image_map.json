@@ -1055,7 +1055,11 @@
         "Patricio Alvarado": "assets/logos/upstreams/patricio-alvarado.webp",
         "Tomas Lanik": "assets/logos/upstreams/tomas-lanik.webp",
         "Radka Zeln\u00ed\u010dkov\u00e1": "assets/logos/upstreams/radka-zeln\u00ed\u010dkov\u00e1.webp",
-        "Denise Hrdinkova": "assets/logos/upstreams/denise-hrdinkova.webp"
+        "Denise Hrdinkova": "assets/logos/upstreams/denise-hrdinkova.webp",
+        "Wealdstone": "assets/logos/upstreams/wealdstone.webp",
+        "Hartlepool United": "assets/logos/upstreams/hartlepool-united.webp",
+        "Aran Teixido Garcia": "assets/logos/upstreams/aran-teixido-garcia.webp",
+        "Sykes O.": "assets/logos/upstreams/sykes-o.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1209,6 +1213,7 @@
         "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
         "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
-        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp"
+        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp",
+        "National League": "assets/logos/leagues/national-league.webp"
     }
 }
