@@ -901,7 +901,9 @@
         "South Melbourne": "assets/logos/upstreams/south-melbourne.webp",
         "Dandenong City": "assets/logos/upstreams/dandenong-city.webp",
         "Queanbeyan City": "assets/logos/upstreams/queanbeyan-city.webp",
-        "Canberra Croatia": "assets/logos/upstreams/canberra-croatia.webp"
+        "Canberra Croatia": "assets/logos/upstreams/canberra-croatia.webp",
+        "Ireland": "assets/logos/streamed/ireland.webp",
+        "North Macedonia": "assets/logos/streamed/north-macedonia.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
