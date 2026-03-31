@@ -299,7 +299,7 @@
     },
     "UK": {
       "_HIDE_OTHERS": true,
-      "_BOOST": "IPL, PSL",
+      "_BOOST": "INDIAN PREMIER LEAGUE, IPL, PSL",
       "Cricket": {
         "score": 80,
         "isLeague": false,
