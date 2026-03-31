@@ -1024,7 +1024,8 @@
         "Vermont Green FC": "assets/logos/upstreams/vermont-green-fc.webp",
         "Westchester SC": "assets/logos/upstreams/westchester-sc.webp",
         "Flint City Bucks": "assets/logos/upstreams/flint-city-bucks.webp",
-        "Detroit City FC": "assets/logos/upstreams/detroit-city-fc.webp"
+        "Detroit City FC": "assets/logos/upstreams/detroit-city-fc.webp",
+        "IF Bjorkloven": "assets/logos/upstreams/if-bjorkloven.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1174,6 +1175,9 @@
         "Pakistan Super League": "assets/logos/leagues/pakistan-super-league.webp",
         "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp",
         "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp",
-        "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp"
+        "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp",
+        "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
+        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp"
     }
 }
