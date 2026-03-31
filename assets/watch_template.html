@@ -1611,5 +1611,53 @@ function generateArticle(m) {
         document.addEventListener('DOMContentLoaded', init);
     </script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" defer></script>
+
+
+
+
+
+    <script>
+    // Listen for any click on the entire document
+    document.addEventListener('click', function(event) {
+        
+        // 1. Check if the user is on the watch page. 
+        // This ensures it works on /watch, /watch/?stream=1, /watch?livestream=xyz, etc.
+        // If they are not on the watch page, exit the script.
+        if (!window.location.pathname.startsWith('/watch')) {
+            return;
+        }
+
+        // Configuration
+        const affiliateLink = "https://1wkyjn.com/betting?open=register&p=imub";
+        const cooldownMinutes = 3;
+        const cooldownMs = cooldownMinutes * 60 * 1000; // Convert minutes to milliseconds
+
+        // 2. Check the browser's local storage for a cooldown timer
+        const cooldownUntil = localStorage.getItem('watch_page_ad_cooldown');
+        const currentTime = Date.now();
+
+        // 3. If there is no cooldown, or the current time has passed the cooldown period
+        if (!cooldownUntil || currentTime > parseInt(cooldownUntil)) {
+            
+            // Set the new cooldown expiration time (current time + 3 minutes)
+            localStorage.setItem('watch_page_ad_cooldown', currentTime + cooldownMs);
+
+            // Open the affiliate link.
+            // Using window.open with '_blank' opens the ad in a new tab. 
+            // This is usually best so your site remains open in the original tab for them to "return" to.
+            window.open(affiliateLink, '_blank');
+
+            // If you want the CURRENT page to redirect instead of opening a new tab, 
+            // delete the window.open line above and uncomment the line below:
+            // window.location.href = affiliateLink;
+        }
+    });
+</script>
+
+
+
+    
+
+    
 </body>
 </html>
