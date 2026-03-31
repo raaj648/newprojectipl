@@ -1025,7 +1025,9 @@
         "Westchester SC": "assets/logos/upstreams/westchester-sc.webp",
         "Flint City Bucks": "assets/logos/upstreams/flint-city-bucks.webp",
         "Detroit City FC": "assets/logos/upstreams/detroit-city-fc.webp",
-        "IF Bjorkloven": "assets/logos/upstreams/if-bjorkloven.webp"
+        "IF Bjorkloven": "assets/logos/upstreams/if-bjorkloven.webp",
+        "Rhode Island FC": "assets/logos/upstreams/rhode-island-fc.webp",
+        "Hartford Athletic": "assets/logos/upstreams/hartford-athletic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
