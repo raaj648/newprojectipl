@@ -52,10 +52,10 @@
             --font-family-headings: inherit;
             --base-font-size: 14px;
             --base-line-height: 1.5;
-            --container-max-width: 1100px;
-            --header-max-width: 1100px;
-            --border-radius-base: 8px;
-            --button-border-radius: 10px;
+            --container-max-width: 1050px;
+            --header-max-width: 1050px;
+            --border-radius-base: 10px;
+            --button-border-radius: 8px;
             --hero-pill-radius: 8px;
             --card-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
             
@@ -120,7 +120,7 @@
             --show-more-bg: #151515;
             --show-more-border: #000000;
             --show-more-text: #cccccc;
-            --show-more-radius: 4px;
+            --show-more-radius: 5px;
             --show-more-hover-bg: #e50914;
             --show-more-hover-border: #D00000;
             --show-more-hover-text: #ffffff;
@@ -139,8 +139,8 @@
             
             /* ARTICLE */
             --article-bg: #141414;
-            --article-text: #c4c4c4;
-            --article-line-height: 1.6;
+            --article-text: #f7f7f7;
+            --article-line-height: 1.7;
             --article-link: #8f0000;
             --article-bullet: #8f0000;
             --article-h2: #a8a8a8;
@@ -164,7 +164,7 @@
             --soc-btn-bg: #222222;
             --soc-btn-border: #333333;
             --soc-btn-color: #94a3b8;
-        --soc-btn-radius: 4px;
+        --soc-btn-radius: 2px;
             --soc-btn-hover-bg: #292929;
             --soc-btn-hover-border: #e50914;
             --soc-btn-hover-transform: translateX(5px);
@@ -196,7 +196,7 @@
             --sys-status-dot-color: #0cb800;
             --sys-status-radius: 20px;
             
-            --section-logo: 24px;
+            --section-logo: 28px;
             --button-shadow: rgba(0,0,0,0.2);
             
             --sk-start: #1e293b;
@@ -321,7 +321,7 @@
         
 
         .hero-inner {
-            max-width: 1100px; margin: 0 auto;
+            max-width: 1050px; margin: 0 auto;
             display: flex;
             flex-direction: column;
             text-align: center;
@@ -365,11 +365,11 @@
         .container { max-width: var(--container-max-width); margin: 0 auto; padding: 20px 15px; min-height: 60vh; }
         
         .sec-head { display: flex; justify-content: space-between; align-items: flex-end; margin: 40px 0 12px 0; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
-        #live-section .sec-head, #live-content-wrapper .sec-head { border-bottom: 1px solid #e50914; }
-        #wildcard-container .sec-head { border-bottom: 1px solid #383838; }
-        #top-upcoming-container .sec-head { border-bottom: 1px solid #121212; }
-        #grouped-container .sec-head { border-bottom: 1px solid #212121; }
-        #footer-leagues-section .sec-head { border-bottom: 1px solid #292929; }
+        #live-section .sec-head, #live-content-wrapper .sec-head { border-bottom: 2px solid #e50914; }
+        #wildcard-container .sec-head { border-bottom: 2px solid #383838; }
+        #top-upcoming-container .sec-head { border-bottom: 2px solid #121212; }
+        #grouped-container .sec-head { border-bottom: 2px solid #212121; }
+        #footer-leagues-section .sec-head { border-bottom: 2px solid #292929; }
         
         /* MAGIC FIX FOR MOBILE SCROLL JUMP */
         #grouped-container { content-visibility: auto; contain-intrinsic-size: 1000px; }
@@ -1630,7 +1630,7 @@
     <div class="f-brand">
         <img src="/assets/streameast-logo.webp" alt="LiveIPL.FIT" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #290000;"> <div class="logo-text" style="color:#e50914;">LiveIPL<span style="color:#ffffff;">.FIT</span></div> 
     </div>
-    <div></div>
+    <div class="f-desc">liveipl.fit is an independent, third-party sports search engine and digital OTT indexing platform. We do not host, upload, or broadcast any live streaming video, MP4, M3U8 files, or copyrighted media on our own servers. All live cricket broadcasts, analytics, and video feeds are strictly aggregated, linked, and embedded from external, third-party syndicated internet sources. liveipl.fit is not officially affiliated with, endorsed by, or associated with the Board of Control for Cricket in India (BCCI), the Indian Premier League (IPL), official broadcasters (e.g., JioCinema, Star Sports), or any participating franchises. All trademarks, tournament names, logos, and brands belong to their respective owners and are used here exclusively for informational purposes under fair use. For content removal requests, please consult our DMCA Policy or email admin@liveipl.fit.</div>
     <div>
         <div class="f-head">Quick Links</div>
         <div class="f-links"><a href="/copyright-policy/" class="f-link">Copyright Policy</a><a href="/privacy" class="f-link">Privacy Policy</a><a href="/terms" class="f-link">Terms & Conditions</a><a href="/contact" class="f-link">Contact</a><a href="/about" class="f-link">About</a></div>
