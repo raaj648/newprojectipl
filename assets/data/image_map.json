@@ -966,7 +966,15 @@
         "Sthefany Rodrigues de Lima": "assets/logos/upstreams/sthefany-rodrigues-de-lima.webp",
         "Abedallah Shelbayh": "assets/logos/upstreams/abedallah-shelbayh.webp",
         "Barry Hawkins": "assets/logos/upstreams/barry-hawkins.webp",
-        "Thepchaiya Un-Nooh": "assets/logos/upstreams/thepchaiya-un-nooh.webp"
+        "Thepchaiya Un-Nooh": "assets/logos/upstreams/thepchaiya-un-nooh.webp",
+        "Progreso": "assets/logos/upstreams/progreso.webp",
+        "Liverpool UY": "assets/logos/upstreams/liverpool-uy.webp",
+        "Islamabad United": "assets/logos/upstreams/islamabad-united.webp",
+        "Peshawar Zalmi": "assets/logos/upstreams/peshawar-zalmi.webp",
+        "Ethiopia": "assets/logos/upstreams/ethiopia.webp",
+        "S\u00e3o Tom\u00e9 and Pr\u00edncipe": "assets/logos/upstreams/s\u00e3o-tom\u00e9-and-pr\u00edncipe.webp",
+        "Antoine Mayoral": "assets/logos/upstreams/antoine-mayoral.webp",
+        "Aleksa Ciric": "assets/logos/upstreams/aleksa-ciric.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1111,6 +1119,9 @@
         "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp",
         "U19 EURO, Elite round, Gr. 1": "assets/logos/leagues/u19-euro-elite-round-gr-1.webp",
         "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
-        "Championship": "assets/logos/leagues/championship.webp"
+        "Championship": "assets/logos/leagues/championship.webp",
+        "Liga AUF Uruguaya, Apertura": "assets/logos/leagues/liga-auf-uruguaya-apertura.webp",
+        "Pakistan Super League": "assets/logos/leagues/pakistan-super-league.webp",
+        "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp"
     }
 }
