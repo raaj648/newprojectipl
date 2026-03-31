@@ -1042,7 +1042,20 @@
         "Theodore Winegar": "assets/logos/upstreams/theodore-winegar.webp",
         "Rodrigo Alujas": "assets/logos/upstreams/rodrigo-alujas.webp",
         "Nuno Borges": "assets/logos/upstreams/nuno-borges.webp",
-        "Gabriel Diallo": "assets/logos/upstreams/gabriel-diallo.webp"
+        "Gabriel Diallo": "assets/logos/upstreams/gabriel-diallo.webp",
+        "Dev Mangat": "assets/logos/upstreams/dev-mangat.webp",
+        "Barceloneta": "assets/logos/upstreams/barceloneta.webp",
+        "Olympiacos": "assets/logos/upstreams/olympiacos.webp",
+        "Viktoriya Tomova": "assets/logos/upstreams/viktoriya-tomova.webp",
+        "Anna Kalinskaya": "assets/logos/upstreams/anna-kalinskaya.webp",
+        "Irene Burillo": "assets/logos/upstreams/irene-burillo.webp",
+        "Jazmin Ortenzi": "assets/logos/upstreams/jazmin-ortenzi.webp",
+        "Marie Bouzkova": "assets/logos/upstreams/marie-bouzkova.webp",
+        "Ana Sofia Sanchez": "assets/logos/upstreams/ana-sofia-sanchez.webp",
+        "Patricio Alvarado": "assets/logos/upstreams/patricio-alvarado.webp",
+        "Tomas Lanik": "assets/logos/upstreams/tomas-lanik.webp",
+        "Radka Zeln\u00ed\u010dkov\u00e1": "assets/logos/upstreams/radka-zeln\u00ed\u010dkov\u00e1.webp",
+        "Denise Hrdinkova": "assets/logos/upstreams/denise-hrdinkova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1195,6 +1208,7 @@
         "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp",
         "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
         "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
-        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp"
+        "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
+        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp"
     }
 }
