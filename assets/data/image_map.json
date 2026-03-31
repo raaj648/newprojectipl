@@ -932,7 +932,25 @@
         "Rio Grande Valley Vipers": "assets/logos/upstreams/rio-grande-valley-vipers.webp",
         "Austin Spurs": "assets/logos/upstreams/austin-spurs.webp",
         "John Sperle": "assets/logos/upstreams/john-sperle.webp",
-        "Hugo Ruiz Rodriguez": "assets/logos/upstreams/hugo-ruiz-rodriguez.webp"
+        "Hugo Ruiz Rodriguez": "assets/logos/upstreams/hugo-ruiz-rodriguez.webp",
+        "Throttur Vogar": "assets/logos/upstreams/throttur-vogar.webp",
+        "Midtjylland": "assets/logos/upstreams/midtjylland.webp",
+        "Switzerland U20": "assets/logos/upstreams/switzerland-u20.webp",
+        "Romania U20": "assets/logos/upstreams/romania-u20.webp",
+        "Jacopo Bilardo": "assets/logos/upstreams/jacopo-bilardo.webp",
+        "Giuseppe La Vela": "assets/logos/upstreams/giuseppe-la-vela.webp",
+        "Benoit Torcq": "assets/logos/upstreams/benoit-torcq.webp",
+        "Deney Wassermann": "assets/logos/upstreams/deney-wassermann.webp",
+        "Mar\u00edtimo U23": "assets/logos/upstreams/mar\u00edtimo-u23.webp",
+        "Vizela U23": "assets/logos/upstreams/vizela-u23.webp",
+        "Maddocks S.": "assets/logos/upstreams/maddocks-s.webp",
+        "Barrett J.": "assets/logos/upstreams/barrett-j.webp",
+        "Sean Maddocks": "assets/logos/upstreams/sean-maddocks.webp",
+        "Jamie Barrett": "assets/logos/upstreams/jamie-barrett.webp",
+        "Oliver Sykes": "assets/logos/upstreams/oliver-sykes.webp",
+        "Craig Steadman": "assets/logos/upstreams/craig-steadman.webp",
+        "Peter Lines": "assets/logos/upstreams/peter-lines.webp",
+        "Ashley Carty": "assets/logos/upstreams/ashley-carty.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1074,6 +1092,8 @@
         "Tour Championship": "assets/logos/leagues/tour-championship.webp",
         "Australia - NPL - Victoria": "assets/logos/leagues/australia-npl-victoria.webp",
         "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp",
-        "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp"
+        "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp",
+        "U19 EURO, Elite round, Gr. 1": "assets/logos/leagues/u19-euro-elite-round-gr-1.webp",
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
     }
 }
