@@ -1537,7 +1537,23 @@
         "Lucie Petruzelova": "assets/logos/upstreams/lucie-petruzelova.webp",
         "Mio Mushika": "assets/logos/upstreams/mio-mushika.webp",
         "Savannah Broadus": "assets/logos/upstreams/savannah-broadus.webp",
-        "Anastasiia Hnidets": "assets/logos/upstreams/anastasiia-hnidets.webp"
+        "Anastasiia Hnidets": "assets/logos/upstreams/anastasiia-hnidets.webp",
+        "Halaba Ketema": "assets/logos/upstreams/halaba-ketema.webp",
+        "Nairobi United": "assets/logos/upstreams/nairobi-united.webp",
+        "Mara Sugar": "assets/logos/upstreams/mara-sugar.webp",
+        "Nerman Fatic": "assets/logos/upstreams/nerman-fatic.webp",
+        "Vanja Gudelj": "assets/logos/upstreams/vanja-gudelj.webp",
+        "Alex Molcan": "assets/logos/upstreams/alex-molcan.webp",
+        "Paulo Andre Saraiva": "assets/logos/upstreams/paulo-andre-saraiva.webp",
+        "Mccartney Kessler": "assets/logos/upstreams/mccartney-kessler.webp",
+        "ROman Andres Burruchaga": "assets/logos/upstreams/roman-andres-burruchaga.webp",
+        "Donna Vekic": "assets/logos/upstreams/donna-vekic.webp",
+        "Jared Horwood": "assets/logos/upstreams/jared-horwood.webp",
+        "Thiago Agustin TIrante": "assets/logos/upstreams/thiago-agustin-tirante.webp",
+        "Yulia Starodubtseva": "assets/logos/upstreams/yulia-starodubtseva.webp",
+        "Carty A.": "assets/logos/upstreams/carty-a.webp",
+        "Janae PrEaston": "assets/logos/upstreams/janae-preaston.webp",
+        "Irina Fetecau": "assets/logos/upstreams/irina-fetecau.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1748,6 +1764,11 @@
         "Cricket": "assets/logos/leagues/cricket.webp",
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
         "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp",
-        "1. A SKL": "assets/logos/leagues/1-a-skl.webp"
+        "1. A SKL": "assets/logos/leagues/1-a-skl.webp",
+        "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
+        "ATP - BucurEasti (ROM)": "assets/logos/leagues/atp-bucureasti-rom.webp",
+        "WTA - CharlEaston (USA)": "assets/logos/leagues/wta-charleaston-usa.webp",
+        "WTA - Bogota (COL)": "assets/logos/leagues/wta-bogota-col.webp",
+        "ATP - Houston (USA)": "assets/logos/leagues/atp-houston-usa.webp"
     }
 }
