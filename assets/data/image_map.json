@@ -1563,7 +1563,12 @@
         "Felix Romeo": "assets/logos/upstreams/felix-romeo.webp",
         "Lucie Petru\u017eelova": "assets/logos/upstreams/lucie-petru\u017eelova.webp",
         "EC Pinheiros": "assets/logos/upstreams/ec-pinheiros.webp",
-        "Unifacisa": "assets/logos/upstreams/unifacisa.webp"
+        "Unifacisa": "assets/logos/upstreams/unifacisa.webp",
+        "Bayern Munchen": "assets/logos/upstreams/bayern-munchen.webp",
+        "Black Dogs Budweis": "assets/logos/upstreams/black-dogs-budweis.webp",
+        "VUT Brno": "assets/logos/upstreams/vut-brno.webp",
+        "Instituto Cordoba": "assets/logos/upstreams/instituto-cordoba.webp",
+        "CA Atlanta": "assets/logos/upstreams/ca-atlanta.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1780,6 +1785,7 @@
         "WTA - CharlEaston (USA)": "assets/logos/leagues/wta-charleaston-usa.webp",
         "WTA - Bogota (COL)": "assets/logos/leagues/wta-bogota-col.webp",
         "ATP - Houston (USA)": "assets/logos/leagues/atp-houston-usa.webp",
-        "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp"
+        "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
+        "EuroLeague": "assets/logos/leagues/euroleague.webp"
     }
 }
