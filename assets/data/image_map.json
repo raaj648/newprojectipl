@@ -1589,7 +1589,12 @@
         "Fiona Scrinzi": "assets/logos/upstreams/fiona-scrinzi.webp",
         "Evan Shamlian": "assets/logos/upstreams/evan-shamlian.webp",
         "Antreas Djakouris": "assets/logos/upstreams/antreas-djakouris.webp",
-        "Marco Alvarez": "assets/logos/upstreams/marco-alvarez.webp"
+        "Marco Alvarez": "assets/logos/upstreams/marco-alvarez.webp",
+        "Apoel Nicosia": "assets/logos/upstreams/apoel-nicosia.webp",
+        "Nanjing Monkey Kings": "assets/logos/upstreams/nanjing-monkey-kings.webp",
+        "Ningbo Rockets": "assets/logos/upstreams/ningbo-rockets.webp",
+        "Shenzhen Leopards": "assets/logos/upstreams/shenzhen-leopards.webp",
+        "Zhejiang Guangsha Lions": "assets/logos/upstreams/zhejiang-guangsha-lions.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1809,6 +1814,7 @@
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "EuroLeague": "assets/logos/leagues/euroleague.webp",
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
-        "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp"
+        "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp",
+        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp"
     }
 }
