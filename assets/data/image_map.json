@@ -1568,7 +1568,13 @@
         "Black Dogs Budweis": "assets/logos/upstreams/black-dogs-budweis.webp",
         "VUT Brno": "assets/logos/upstreams/vut-brno.webp",
         "Instituto Cordoba": "assets/logos/upstreams/instituto-cordoba.webp",
-        "CA Atlanta": "assets/logos/upstreams/ca-atlanta.webp"
+        "CA Atlanta": "assets/logos/upstreams/ca-atlanta.webp",
+        "KK Jedinstvo Bijelo Polje": "assets/logos/upstreams/kk-jedinstvo-bijelo-polje.webp",
+        "Kk Ulcinjska Rivijera Ulcinj": "assets/logos/upstreams/kk-ulcinjska-rivijera-ulcinj.webp",
+        "Academy Plzen": "assets/logos/upstreams/academy-plzen.webp",
+        "Czu Farmers Prague": "assets/logos/upstreams/czu-farmers-prague.webp",
+        "Borko Petrovic": "assets/logos/upstreams/borko-petrovic.webp",
+        "Sebastian Pinkowicz": "assets/logos/upstreams/sebastian-pinkowicz.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1786,6 +1792,7 @@
         "WTA - Bogota (COL)": "assets/logos/leagues/wta-bogota-col.webp",
         "ATP - Houston (USA)": "assets/logos/leagues/atp-houston-usa.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
-        "EuroLeague": "assets/logos/leagues/euroleague.webp"
+        "EuroLeague": "assets/logos/leagues/euroleague.webp",
+        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp"
     }
 }
