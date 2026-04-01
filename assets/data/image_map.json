@@ -1632,7 +1632,17 @@
         "Mehmet Can Toremis": "assets/logos/upstreams/mehmet-can-toremis.webp",
         "Luca-Stefan Pandele": "assets/logos/upstreams/luca-stefan-pandele.webp",
         "Safin Emran": "assets/logos/upstreams/safin-emran.webp",
-        "Michael Tomic": "assets/logos/upstreams/michael-tomic.webp"
+        "Michael Tomic": "assets/logos/upstreams/michael-tomic.webp",
+        "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
+        "Maya Iyengar": "assets/logos/upstreams/maya-iyengar.webp",
+        "Solymar Colling": "assets/logos/upstreams/solymar-colling.webp",
+        "F\u00e1bi\u00e1n Marozs\u00e1n": "assets/logos/upstreams/f\u00e1bi\u00e1n-marozs\u00e1n.webp",
+        "Toma\u0161 Macha\u010d": "assets/logos/upstreams/toma\u0161-macha\u010d.webp",
+        "Vit Kop\u0159iva": "assets/logos/upstreams/vit-kop\u0159iva.webp",
+        "Adrian Mannarino": "assets/logos/upstreams/adrian-mannarino.webp",
+        "Tallon Griekspoor": "assets/logos/upstreams/tallon-griekspoor.webp",
+        "Alexander Ringbaek": "assets/logos/upstreams/alexander-ringbaek.webp",
+        "Arda Dogac Atan": "assets/logos/upstreams/arda-dogac-atan.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1861,6 +1871,7 @@
         "Japan J League": "assets/logos/leagues/japan-j-league.webp",
         "Basketball Champions League": "assets/logos/leagues/basketball-champions-league.webp",
         "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
-        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp"
+        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp",
+        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp"
     }
 }
