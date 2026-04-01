@@ -1470,7 +1470,11 @@
         "Julia Riera": "assets/logos/upstreams/julia-riera.webp",
         "Despina Papamichail": "assets/logos/upstreams/despina-papamichail.webp",
         "Katarzyna Kawa": "assets/logos/upstreams/katarzyna-kawa.webp",
-        "Tatjana Maria": "assets/logos/upstreams/tatjana-maria.webp"
+        "Tatjana Maria": "assets/logos/upstreams/tatjana-maria.webp",
+        "Haukat": "assets/logos/upstreams/haukat.webp",
+        "KeuPa HT": "assets/logos/upstreams/keupa-ht.webp",
+        "Enzo Aguiard": "assets/logos/upstreams/enzo-aguiard.webp",
+        "Sasikumar Mukund": "assets/logos/upstreams/sasikumar-mukund.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1679,6 +1683,7 @@
         "National Invitation Tournament": "assets/logos/leagues/national-invitation-tournament.webp",
         "MLB Baseball": "assets/logos/leagues/mlb-baseball.webp",
         "Cricket": "assets/logos/leagues/cricket.webp",
-        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp"
+        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
+        "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp"
     }
 }
