@@ -1515,7 +1515,13 @@
         "Linda Sevcikova": "assets/logos/upstreams/linda-sevcikova.webp",
         "Botic van de Zandschulp": "assets/logos/upstreams/botic-van-de-zandschulp.webp",
         "Josip Simundza": "assets/logos/upstreams/josip-simundza.webp",
-        "Michiel de Krom": "assets/logos/upstreams/michiel-de-krom.webp"
+        "Michiel de Krom": "assets/logos/upstreams/michiel-de-krom.webp",
+        "KK Krka Novo Mesto": "assets/logos/upstreams/kk-krka-novo-mesto.webp",
+        "Kansai Helios Dom\u017eale": "assets/logos/upstreams/kansai-helios-dom\u017eale.webp",
+        "Miles Clark": "assets/logos/upstreams/miles-clark.webp",
+        "Darja Suvirdjonkova": "assets/logos/upstreams/darja-suvirdjonkova.webp",
+        "C.Huertas Del Pino/A.Huertas Del Pino": "assets/logos/upstreams/chuertas-del-pinoahuertas-del-pino.webp",
+        "Denise Valente": "assets/logos/upstreams/denise-valente.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1725,6 +1731,7 @@
         "MLB Baseball": "assets/logos/leagues/mlb-baseball.webp",
         "Cricket": "assets/logos/leagues/cricket.webp",
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
-        "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp"
+        "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp",
+        "1. A SKL": "assets/logos/leagues/1-a-skl.webp"
     }
 }
