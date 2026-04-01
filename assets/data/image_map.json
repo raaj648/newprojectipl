@@ -1615,7 +1615,13 @@
         "Yi Zhou": "assets/logos/upstreams/yi-zhou.webp",
         "Ognjen Mili\u0107": "assets/logos/upstreams/ognjen-mili\u0107.webp",
         "Mateusz Golas": "assets/logos/upstreams/mateusz-golas.webp",
-        "Arthur Chardain": "assets/logos/upstreams/arthur-chardain.webp"
+        "Arthur Chardain": "assets/logos/upstreams/arthur-chardain.webp",
+        "PAOK": "assets/logos/upstreams/paok.webp",
+        "Fort Wayne Komets": "assets/logos/upstreams/fort-wayne-komets.webp",
+        "Wheeling Nailers": "assets/logos/upstreams/wheeling-nailers.webp",
+        "Machida": "assets/logos/upstreams/machida.webp",
+        "Luna Mar\u00eda Cinalli": "assets/logos/upstreams/luna-mar\u00eda-cinalli.webp",
+        "Carla Markus": "assets/logos/upstreams/carla-markus.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1839,6 +1845,8 @@
         "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
         "Superliga": "assets/logos/leagues/superliga.webp",
         "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
-        "Asian Cup U20": "assets/logos/leagues/asian-cup-u20.webp"
+        "Asian Cup U20": "assets/logos/leagues/asian-cup-u20.webp",
+        "Basketball Europe Cup": "assets/logos/leagues/basketball-europe-cup.webp",
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
     }
 }
