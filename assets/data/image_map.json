@@ -1462,7 +1462,9 @@
         "Facundo Mena": "assets/logos/upstreams/facundo-mena.webp",
         "Patrick Zahraj": "assets/logos/upstreams/patrick-zahraj.webp",
         "James Duckworth": "assets/logos/upstreams/james-duckworth.webp",
-        "Filip Drab": "assets/logos/upstreams/filip-drab.webp"
+        "Filip Drab": "assets/logos/upstreams/filip-drab.webp",
+        "Addis Ababa City": "assets/logos/upstreams/addis-ababa-city.webp",
+        "Menge Belashangul": "assets/logos/upstreams/menge-belashangul.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1670,6 +1672,7 @@
         "EHF Champions League, Playoffs": "assets/logos/leagues/ehf-champions-league-playoffs.webp",
         "National Invitation Tournament": "assets/logos/leagues/national-invitation-tournament.webp",
         "MLB Baseball": "assets/logos/leagues/mlb-baseball.webp",
-        "Cricket": "assets/logos/leagues/cricket.webp"
+        "Cricket": "assets/logos/leagues/cricket.webp",
+        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp"
     }
 }
