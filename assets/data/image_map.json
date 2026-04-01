@@ -1621,7 +1621,18 @@
         "Wheeling Nailers": "assets/logos/upstreams/wheeling-nailers.webp",
         "Machida": "assets/logos/upstreams/machida.webp",
         "Luna Mar\u00eda Cinalli": "assets/logos/upstreams/luna-mar\u00eda-cinalli.webp",
-        "Carla Markus": "assets/logos/upstreams/carla-markus.webp"
+        "Carla Markus": "assets/logos/upstreams/carla-markus.webp",
+        "Rytas": "assets/logos/upstreams/rytas.webp",
+        "TK Hannover": "assets/logos/upstreams/tk-hannover.webp",
+        "Mitteldeutscher BC": "assets/logos/upstreams/mitteldeutscher-bc.webp",
+        "Farjestad": "assets/logos/upstreams/farjestad.webp",
+        "BIK Karlskoga": "assets/logos/upstreams/bik-karlskoga.webp",
+        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
+        "Camila Romero": "assets/logos/upstreams/camila-romero.webp",
+        "Mehmet Can Toremis": "assets/logos/upstreams/mehmet-can-toremis.webp",
+        "Luca-Stefan Pandele": "assets/logos/upstreams/luca-stefan-pandele.webp",
+        "Safin Emran": "assets/logos/upstreams/safin-emran.webp",
+        "Michael Tomic": "assets/logos/upstreams/michael-tomic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1847,6 +1858,9 @@
         "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
         "Asian Cup U20": "assets/logos/leagues/asian-cup-u20.webp",
         "Basketball Europe Cup": "assets/logos/leagues/basketball-europe-cup.webp",
-        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp",
+        "Basketball Champions League": "assets/logos/leagues/basketball-champions-league.webp",
+        "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
+        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp"
     }
 }
