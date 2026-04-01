@@ -1700,7 +1700,10 @@
         "PSG Berani Zl\u00edn": "assets/logos/upstreams/psg-berani-zl\u00edn.webp",
         "Oman": "assets/logos/upstreams/oman.webp",
         "WEast indies (W)": "assets/logos/upstreams/weast-indies-w.webp",
-        "Australia (W)": "assets/logos/upstreams/australia-w.webp"
+        "Australia (W)": "assets/logos/upstreams/australia-w.webp",
+        "Athletico-PR": "assets/logos/upstreams/athletico-pr.webp",
+        "Atletico Atlanta": "assets/logos/upstreams/atletico-atlanta.webp",
+        "Atl Nacional": "assets/logos/upstreams/atl-nacional.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1938,6 +1941,7 @@
         "Poland - II League": "assets/logos/leagues/poland-ii-league.webp",
         "Australia - NPL - WEast": "assets/logos/leagues/australia-npl-weast.webp",
         "1st Liga Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
-        "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp"
+        "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp",
+        "Brazil Serie A": "assets/logos/leagues/brazil-serie-a.webp"
     }
 }
