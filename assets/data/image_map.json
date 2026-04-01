@@ -1601,7 +1601,13 @@
         "Gigantes de Carolina": "assets/logos/upstreams/gigantes-de-carolina.webp",
         "Aliz Simon": "assets/logos/upstreams/aliz-simon.webp",
         "Aleksandra Weslawowicz": "assets/logos/upstreams/aleksandra-weslawowicz.webp",
-        "Veysel Tasdemir": "assets/logos/upstreams/veysel-tasdemir.webp"
+        "Veysel Tasdemir": "assets/logos/upstreams/veysel-tasdemir.webp",
+        "AEK Larnaca B.C.": "assets/logos/upstreams/aek-larnaca-bc.webp",
+        "Keravnos Strovolou": "assets/logos/upstreams/keravnos-strovolou.webp",
+        "AEK": "assets/logos/upstreams/aek.webp",
+        "Keravnos": "assets/logos/upstreams/keravnos.webp",
+        "Alessandro Gozzini": "assets/logos/upstreams/alessandro-gozzini.webp",
+        "Edvin Hadzihalilovic": "assets/logos/upstreams/edvin-hadzihalilovic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1823,6 +1829,8 @@
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
         "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp",
         "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
-        "Superliga": "assets/logos/leagues/superliga.webp"
+        "Superliga": "assets/logos/leagues/superliga.webp",
+        "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
+        "Asian Cup U20": "assets/logos/leagues/asian-cup-u20.webp"
     }
 }
