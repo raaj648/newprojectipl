@@ -1594,7 +1594,14 @@
         "Nanjing Monkey Kings": "assets/logos/upstreams/nanjing-monkey-kings.webp",
         "Ningbo Rockets": "assets/logos/upstreams/ningbo-rockets.webp",
         "Shenzhen Leopards": "assets/logos/upstreams/shenzhen-leopards.webp",
-        "Zhejiang Guangsha Lions": "assets/logos/upstreams/zhejiang-guangsha-lions.webp"
+        "Zhejiang Guangsha Lions": "assets/logos/upstreams/zhejiang-guangsha-lions.webp",
+        "H\u00e9roes de Falc\u00f3n": "assets/logos/upstreams/h\u00e9roes-de-falc\u00f3n.webp",
+        "Guaiquer\u00edes de Margarita": "assets/logos/upstreams/guaiquer\u00edes-de-margarita.webp",
+        "Osos de Manat\u00ed": "assets/logos/upstreams/osos-de-manat\u00ed.webp",
+        "Gigantes de Carolina": "assets/logos/upstreams/gigantes-de-carolina.webp",
+        "Aliz Simon": "assets/logos/upstreams/aliz-simon.webp",
+        "Aleksandra Weslawowicz": "assets/logos/upstreams/aleksandra-weslawowicz.webp",
+        "Veysel Tasdemir": "assets/logos/upstreams/veysel-tasdemir.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1815,6 +1822,7 @@
         "EuroLeague": "assets/logos/leagues/euroleague.webp",
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
         "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp",
-        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp"
+        "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
+        "Superliga": "assets/logos/leagues/superliga.webp"
     }
 }
