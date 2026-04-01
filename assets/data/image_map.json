@@ -1586,7 +1586,10 @@
         "Multan Sultans": "assets/logos/upstreams/multan-sultans.webp",
         "Hyderabad Kingsmen": "assets/logos/upstreams/hyderabad-kingsmen.webp",
         "Luna Saban": "assets/logos/upstreams/luna-saban.webp",
-        "Fiona Scrinzi": "assets/logos/upstreams/fiona-scrinzi.webp"
+        "Fiona Scrinzi": "assets/logos/upstreams/fiona-scrinzi.webp",
+        "Evan Shamlian": "assets/logos/upstreams/evan-shamlian.webp",
+        "Antreas Djakouris": "assets/logos/upstreams/antreas-djakouris.webp",
+        "Marco Alvarez": "assets/logos/upstreams/marco-alvarez.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1805,6 +1808,7 @@
         "ATP - Houston (USA)": "assets/logos/leagues/atp-houston-usa.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "EuroLeague": "assets/logos/leagues/euroleague.webp",
-        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp"
+        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
+        "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp"
     }
 }
