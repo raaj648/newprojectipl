@@ -1645,7 +1645,15 @@
         "Arda Dogac Atan": "assets/logos/upstreams/arda-dogac-atan.webp",
         "Burgos CF": "assets/logos/upstreams/burgos-cf.webp",
         "Glasgow City W": "assets/logos/upstreams/glasgow-city-w.webp",
-        "Hibernian W": "assets/logos/upstreams/hibernian-w.webp"
+        "Hibernian W": "assets/logos/upstreams/hibernian-w.webp",
+        "Olympique de Safi": "assets/logos/upstreams/olympique-de-safi.webp",
+        "Berkane": "assets/logos/upstreams/berkane.webp",
+        "Bayern M\u00fcnchen": "assets/logos/upstreams/bayern-m\u00fcnchen.webp",
+        "Fenerbah\u00e7e Beko": "assets/logos/upstreams/fenerbah\u00e7e-beko.webp",
+        "Steadman C.": "assets/logos/upstreams/steadman-c.webp",
+        "Rasmus Andersson": "assets/logos/upstreams/rasmus-andersson.webp",
+        "Christian Tomic": "assets/logos/upstreams/christian-tomic.webp",
+        "Anne Fuglsang": "assets/logos/upstreams/anne-fuglsang.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1876,6 +1884,7 @@
         "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
         "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp",
         "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp",
-        "Scottish Premiership": "assets/logos/leagues/scottish-premiership.webp"
+        "Scottish Premiership": "assets/logos/leagues/scottish-premiership.webp",
+        "Morocco Botola Pro": "assets/logos/leagues/morocco-botola-pro.webp"
     }
 }
