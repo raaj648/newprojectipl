@@ -1252,7 +1252,9 @@
         "LOVB Nebraska": "assets/logos/upstreams/lovb-nebraska.webp",
         "LOVB Houston": "assets/logos/upstreams/lovb-houston.webp",
         "Sesvete": "assets/logos/upstreams/sesvete.webp",
-        "NK Opatija": "assets/logos/upstreams/nk-opatija.webp"
+        "NK Opatija": "assets/logos/upstreams/nk-opatija.webp",
+        "St.Louis Cardinals": "assets/logos/streamed/stlouis-cardinals.webp",
+        "Congo DR": "assets/logos/streamed/congo-dr.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
