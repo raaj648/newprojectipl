@@ -1642,7 +1642,10 @@
         "Adrian Mannarino": "assets/logos/upstreams/adrian-mannarino.webp",
         "Tallon Griekspoor": "assets/logos/upstreams/tallon-griekspoor.webp",
         "Alexander Ringbaek": "assets/logos/upstreams/alexander-ringbaek.webp",
-        "Arda Dogac Atan": "assets/logos/upstreams/arda-dogac-atan.webp"
+        "Arda Dogac Atan": "assets/logos/upstreams/arda-dogac-atan.webp",
+        "Burgos CF": "assets/logos/upstreams/burgos-cf.webp",
+        "Glasgow City W": "assets/logos/upstreams/glasgow-city-w.webp",
+        "Hibernian W": "assets/logos/upstreams/hibernian-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1872,6 +1875,7 @@
         "Basketball Champions League": "assets/logos/leagues/basketball-champions-league.webp",
         "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
         "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp",
-        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp"
+        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp",
+        "Scottish Premiership": "assets/logos/leagues/scottish-premiership.webp"
     }
 }
