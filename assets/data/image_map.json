@@ -1287,7 +1287,13 @@
         "Chapecoense-sc": "assets/logos/streamed/chapecoense-sc.webp",
         "Atletico-MG": "assets/logos/streamed/atletico-mg.webp",
         "Jaguares de C\u00f3rdoba": "assets/logos/streamed/jaguares-de-c\u00f3rdoba.webp",
-        "Talleres de C\u00f3rdoba": "assets/logos/streamed/talleres-de-c\u00f3rdoba.webp"
+        "Talleres de C\u00f3rdoba": "assets/logos/streamed/talleres-de-c\u00f3rdoba.webp",
+        "Sp Luqueno": "assets/logos/upstreams/sp-luqueno.webp",
+        "BC Vienna": "assets/logos/upstreams/bc-vienna.webp",
+        "UBSC Raiffeisen Graz": "assets/logos/upstreams/ubsc-raiffeisen-graz.webp",
+        "Karlovac": "assets/logos/upstreams/karlovac.webp",
+        "Dubrava": "assets/logos/upstreams/dubrava.webp",
+        "Alex Bolt": "assets/logos/upstreams/alex-bolt.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -1477,6 +1483,8 @@
         "Pro D2": "assets/logos/leagues/pro-d2.webp",
         "NIT": "assets/logos/leagues/nit.webp",
         "LOVB Pro, Women": "assets/logos/leagues/lovb-pro-women.webp",
-        "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp"
+        "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp",
+        "Paraguay Primera Division": "assets/logos/leagues/paraguay-primera-division.webp",
+        "Austrian Basketball Superliga, Championship Round": "assets/logos/leagues/austrian-basketball-superliga-championship-round.webp"
     }
 }
