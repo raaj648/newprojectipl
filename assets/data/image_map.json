@@ -2281,7 +2281,9 @@
         "Pattani FC": "assets/logos/upstreams/pattani-fc.webp",
         "Sisaket United": "assets/logos/upstreams/sisaket-united.webp",
         "Kuala Lumpur City": "assets/logos/upstreams/kuala-lumpur-city.webp",
-        "Johor Darul Takzim": "assets/logos/upstreams/johor-darul-takzim.webp"
+        "Johor Darul Takzim": "assets/logos/upstreams/johor-darul-takzim.webp",
+        "Crown Legacy FC": "assets/logos/upstreams/crown-legacy-fc.webp",
+        "Atlanta United 2": "assets/logos/upstreams/atlanta-united-2.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2630,6 +2632,8 @@
         "Divisi\u00f3n Profesional": "assets/logos/leagues/divisi\u00f3n-profesional.webp",
         "Liga de Primera": "assets/logos/leagues/liga-de-primera.webp",
         "Thailand - Thai League 2": "assets/logos/leagues/thailand-thai-league-2.webp",
-        "Malaysia - Cup": "assets/logos/leagues/malaysia-cup.webp"
+        "Malaysia - Cup": "assets/logos/leagues/malaysia-cup.webp",
+        "UTR PTT Nashville Men +H 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-13-16-playoffs.webp",
+        "MLS Next Pro": "assets/logos/leagues/mls-next-pro.webp"
     }
 }
