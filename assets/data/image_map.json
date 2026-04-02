@@ -2052,7 +2052,15 @@
         "Olimpia Asuncion": "assets/logos/upstreams/olimpia-asuncion.webp",
         "Vasco": "assets/logos/upstreams/vasco.webp",
         "Gil Vicente U23": "assets/logos/upstreams/gil-vicente-u23.webp",
-        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp"
+        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
+        "Boditi Ketema": "assets/logos/upstreams/boditi-ketema.webp",
+        "Debre Birhan Ketema": "assets/logos/upstreams/debre-birhan-ketema.webp",
+        "CD Trofense": "assets/logos/upstreams/cd-trofense.webp",
+        "C.F. Os Belenenses": "assets/logos/upstreams/cf-os-belenenses.webp",
+        "Julia Konishi Camargo Silva": "assets/logos/upstreams/julia-konishi-camargo-silva.webp",
+        "Gr\u00eamio": "assets/logos/upstreams/gr\u00eamio.webp",
+        "Chartres": "assets/logos/upstreams/chartres.webp",
+        "Michelle Dzjachangirov": "assets/logos/upstreams/michelle-dzjachangirov.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2339,6 +2347,9 @@
         "AFL": "assets/logos/leagues/afl.webp",
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
         "U20 AFC Asian Cup, Group C, Women": "assets/logos/leagues/u20-afc-asian-cup-group-c-women.webp",
-        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp"
+        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp",
+        "Liga 3, Promotion Round": "assets/logos/leagues/liga-3-promotion-round.webp",
+        "Starligue": "assets/logos/leagues/starligue.webp",
+        "UTR Newport Beach M07": "assets/logos/leagues/utr-newport-beach-m07.webp"
     }
 }
