@@ -2039,7 +2039,12 @@
         "Guiomar Maristany de Reales": "assets/logos/upstreams/guiomar-maristany-de-reales.webp",
         "Conner Huertas Del Pino": "assets/logos/upstreams/conner-huertas-del-pino.webp",
         "Camila Osorio Serrano": "assets/logos/upstreams/camila-osorio-serrano.webp",
-        "Felipe Alves": "assets/logos/upstreams/felipe-alves.webp"
+        "Felipe Alves": "assets/logos/upstreams/felipe-alves.webp",
+        "HC Pre\u0161ov": "assets/logos/upstreams/hc-pre\u0161ov.webp",
+        "HC 19 Humenne": "assets/logos/upstreams/hc-19-humenne.webp",
+        "Collingwood Magpies": "assets/logos/upstreams/collingwood-magpies.webp",
+        "Redcliffe": "assets/logos/upstreams/redcliffe.webp",
+        "Manly Sea Eagles": "assets/logos/upstreams/manly-sea-eagles.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2322,6 +2327,8 @@
         "Liga de Expansion MX, Clausura": "assets/logos/leagues/liga-de-expansion-mx-clausura.webp",
         "China - CBA": "assets/logos/leagues/china-cba.webp",
         "Slovakia - 2. League": "assets/logos/leagues/slovakia-2-league.webp",
-        "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp"
+        "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp",
+        "AFL": "assets/logos/leagues/afl.webp",
+        "National Rugby League": "assets/logos/leagues/national-rugby-league.webp"
     }
 }
