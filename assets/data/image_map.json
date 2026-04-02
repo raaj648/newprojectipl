@@ -2085,7 +2085,9 @@
         "Natalia Slobodova": "assets/logos/upstreams/natalia-slobodova.webp",
         "Naishaa Kaur Bhatoye": "assets/logos/upstreams/naishaa-kaur-bhatoye.webp",
         "Gergana Pavlova": "assets/logos/upstreams/gergana-pavlova.webp",
-        "Emilie Drouin": "assets/logos/upstreams/emilie-drouin.webp"
+        "Emilie Drouin": "assets/logos/upstreams/emilie-drouin.webp",
+        "Tusker": "assets/logos/upstreams/tusker.webp",
+        "Gor Mahia": "assets/logos/upstreams/gor-mahia.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2386,6 +2388,7 @@
         "UTR PTT Newport Beach Men 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-9-12-playoffs.webp",
         "Super Rugby": "assets/logos/leagues/super-rugby.webp",
         "Korisliiga, Women, Playoffs": "assets/logos/leagues/korisliiga-women-playoffs.webp",
-        "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp"
+        "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp",
+        "Snooker": "assets/logos/leagues/snooker.webp"
     }
 }
