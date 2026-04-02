@@ -2100,7 +2100,13 @@
         "FK Napredak Kru\u0161evac": "assets/logos/upstreams/fk-napredak-kru\u0161evac.webp",
         "FK TSC Ba\u010dka Topola": "assets/logos/upstreams/fk-tsc-ba\u010dka-topola.webp",
         "Rawalpindiz": "assets/logos/upstreams/rawalpindiz.webp",
-        "Karachi Kings": "assets/logos/upstreams/karachi-kings.webp"
+        "Karachi Kings": "assets/logos/upstreams/karachi-kings.webp",
+        "Bunyodkor": "assets/logos/upstreams/bunyodkor.webp",
+        "Lokomotiv Tashkent": "assets/logos/upstreams/lokomotiv-tashkent.webp",
+        "Sogdiana": "assets/logos/upstreams/sogdiana.webp",
+        "Kokand 1912": "assets/logos/upstreams/kokand-1912.webp",
+        "Mathare Utd": "assets/logos/upstreams/mathare-utd.webp",
+        "Police FC": "assets/logos/upstreams/police-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2402,6 +2408,7 @@
         "Super Rugby": "assets/logos/leagues/super-rugby.webp",
         "Korisliiga, Women, Playoffs": "assets/logos/leagues/korisliiga-women-playoffs.webp",
         "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp",
-        "Snooker": "assets/logos/leagues/snooker.webp"
+        "Snooker": "assets/logos/leagues/snooker.webp",
+        "Uzbekistan Super League": "assets/logos/leagues/uzbekistan-super-league.webp"
     }
 }
