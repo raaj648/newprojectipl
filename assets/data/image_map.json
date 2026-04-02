@@ -2031,7 +2031,15 @@
         "Oana Georgeta Simion": "assets/logos/upstreams/oana-georgeta-simion.webp",
         "Dino Prizmic": "assets/logos/upstreams/dino-prizmic.webp",
         "St Louis Blues": "assets/logos/upstreams/st-louis-blues.webp",
-        "Ivan Ivanov": "assets/logos/upstreams/ivan-ivanov.webp"
+        "Ivan Ivanov": "assets/logos/upstreams/ivan-ivanov.webp",
+        "HK Skalica": "assets/logos/upstreams/hk-skalica.webp",
+        "Dukla Tren\u010d\u00edn": "assets/logos/upstreams/dukla-tren\u010d\u00edn.webp",
+        "Daniel Merida Aguilar": "assets/logos/upstreams/daniel-merida-aguilar.webp",
+        "Tomas Machac": "assets/logos/upstreams/tomas-machac.webp",
+        "Guiomar Maristany de Reales": "assets/logos/upstreams/guiomar-maristany-de-reales.webp",
+        "Conner Huertas Del Pino": "assets/logos/upstreams/conner-huertas-del-pino.webp",
+        "Camila Osorio Serrano": "assets/logos/upstreams/camila-osorio-serrano.webp",
+        "Felipe Alves": "assets/logos/upstreams/felipe-alves.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2313,6 +2321,7 @@
         "SuperLiga, Relegation round": "assets/logos/leagues/superliga-relegation-round.webp",
         "Liga de Expansion MX, Clausura": "assets/logos/leagues/liga-de-expansion-mx-clausura.webp",
         "China - CBA": "assets/logos/leagues/china-cba.webp",
-        "Slovakia - 2. League": "assets/logos/leagues/slovakia-2-league.webp"
+        "Slovakia - 2. League": "assets/logos/leagues/slovakia-2-league.webp",
+        "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp"
     }
 }
