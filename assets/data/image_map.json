@@ -2060,7 +2060,20 @@
         "Julia Konishi Camargo Silva": "assets/logos/upstreams/julia-konishi-camargo-silva.webp",
         "Gr\u00eamio": "assets/logos/upstreams/gr\u00eamio.webp",
         "Chartres": "assets/logos/upstreams/chartres.webp",
-        "Michelle Dzjachangirov": "assets/logos/upstreams/michelle-dzjachangirov.webp"
+        "Michelle Dzjachangirov": "assets/logos/upstreams/michelle-dzjachangirov.webp",
+        "Sandecja Nowy Sacz": "assets/logos/upstreams/sandecja-nowy-sacz.webp",
+        "Resovia Rzeszow": "assets/logos/upstreams/resovia-rzeszow.webp",
+        "Sao Bernardo": "assets/logos/upstreams/sao-bernardo.webp",
+        "Dessau-Rosslauer": "assets/logos/upstreams/dessau-rosslauer.webp",
+        "Essen": "assets/logos/upstreams/essen.webp",
+        "Eintracht Hagen": "assets/logos/upstreams/eintracht-hagen.webp",
+        "Krefeld": "assets/logos/upstreams/krefeld.webp",
+        "HC Elbflorenz Dresden": "assets/logos/upstreams/hc-elbflorenz-dresden.webp",
+        "Die Eulen Ludwigshafen": "assets/logos/upstreams/die-eulen-ludwigshafen.webp",
+        "Coburg": "assets/logos/upstreams/coburg.webp",
+        "\u017dKK Crvena zvezda": "assets/logos/upstreams/\u017ekk-crvena-zvezda.webp",
+        "\u017dKK Mega Superbet": "assets/logos/upstreams/\u017ekk-mega-superbet.webp",
+        "Alexis Nguyen": "assets/logos/upstreams/alexis-nguyen.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2350,6 +2363,12 @@
         "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp",
         "Liga 3, Promotion Round": "assets/logos/leagues/liga-3-promotion-round.webp",
         "Starligue": "assets/logos/leagues/starligue.webp",
-        "UTR Newport Beach M07": "assets/logos/leagues/utr-newport-beach-m07.webp"
+        "UTR Newport Beach M07": "assets/logos/leagues/utr-newport-beach-m07.webp",
+        "Germany - BundesLeague 2": "assets/logos/leagues/germany-bundesleague-2.webp",
+        "2. Bundesliga": "assets/logos/leagues/2-bundesliga.webp",
+        "UTR PTT Newport Beach Men 07, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-1-4-playoffs.webp",
+        "UTR PTT Newport Beach Men 07, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-5-8-playoffs.webp",
+        "UTR PTT Newport Beach Women 07, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-1-4-playoffs.webp",
+        "UTR PTT Newport Beach Women 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-9-12-playoffs.webp"
     }
 }
