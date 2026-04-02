@@ -2110,7 +2110,9 @@
         "Hammarby (W)": "assets/logos/upstreams/hammarby-w.webp",
         "Sparta Prague (W)": "assets/logos/upstreams/sparta-prague-w.webp",
         "Hacken W": "assets/logos/upstreams/hacken-w.webp",
-        "Eintracht Frankfurt W": "assets/logos/upstreams/eintracht-frankfurt-w.webp"
+        "Eintracht Frankfurt W": "assets/logos/upstreams/eintracht-frankfurt-w.webp",
+        "Kauno \u017dalgiris": "assets/logos/upstreams/kauno-\u017ealgiris.webp",
+        "Bar\u00e7a Basket": "assets/logos/upstreams/bar\u00e7a-basket.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2416,6 +2418,7 @@
         "Uzbekistan Super League": "assets/logos/leagues/uzbekistan-super-league.webp",
         "Australia A-League": "assets/logos/leagues/australia-a-league.webp",
         "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp",
-        "UEFA Women Champions League": "assets/logos/leagues/uefa-women-champions-league.webp"
+        "UEFA Women Champions League": "assets/logos/leagues/uefa-women-champions-league.webp",
+        "Darts": "assets/logos/leagues/darts.webp"
     }
 }
