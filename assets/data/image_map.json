@@ -2143,7 +2143,9 @@
         "AS FAR Rabat": "assets/logos/upstreams/as-far-rabat.webp",
         "Olympique Dcheira": "assets/logos/upstreams/olympique-dcheira.webp",
         "FC Grenoble Rugby": "assets/logos/upstreams/fc-grenoble-rugby.webp",
-        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp"
+        "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp",
+        "West Indies Women": "assets/logos/upstreams/west-indies-women.webp",
+        "Australia Women": "assets/logos/upstreams/australia-women.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2458,6 +2460,7 @@
         "UTR PTT Newport Beach Women 07, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-5-8-playoffs.webp",
         "UTR PTT Newport Beach Men 07, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-13-16-playoffs.webp",
         "League One": "assets/logos/leagues/league-one.webp",
-        "Botola Pro": "assets/logos/leagues/botola-pro.webp"
+        "Botola Pro": "assets/logos/leagues/botola-pro.webp",
+        "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp"
     }
 }
