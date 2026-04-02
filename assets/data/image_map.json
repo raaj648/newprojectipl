@@ -2155,7 +2155,8 @@
         "Perth W": "assets/logos/upstreams/perth-w.webp",
         "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp",
         "Oxford Utd": "assets/logos/upstreams/oxford-utd.webp",
-        "Coventry": "assets/logos/upstreams/coventry.webp"
+        "Coventry": "assets/logos/upstreams/coventry.webp",
+        "Pereira": "assets/logos/upstreams/pereira.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2474,6 +2475,7 @@
         "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp",
         "Ninja A-League": "assets/logos/leagues/ninja-a-league.webp",
         "Liga Portugal": "assets/logos/leagues/liga-portugal.webp",
-        "Asobal": "assets/logos/leagues/asobal.webp"
+        "Asobal": "assets/logos/leagues/asobal.webp",
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp"
     }
 }
