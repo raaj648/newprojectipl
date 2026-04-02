@@ -2162,7 +2162,9 @@
         "Gerwyn Price": "assets/logos/upstreams/gerwyn-price.webp",
         "Luke Humphries": "assets/logos/upstreams/luke-humphries.webp",
         "Tenerife (W)": "assets/logos/upstreams/tenerife-w.webp",
-        "APIA Leichhardt": "assets/logos/upstreams/apia-leichhardt.webp"
+        "APIA Leichhardt": "assets/logos/upstreams/apia-leichhardt.webp",
+        "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp",
+        "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2483,6 +2485,7 @@
         "Liga Portugal": "assets/logos/leagues/liga-portugal.webp",
         "Asobal": "assets/logos/leagues/asobal.webp",
         "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
-        "Premier League 2026, Night 9": "assets/logos/leagues/premier-league-2026-night-9.webp"
+        "Premier League 2026, Night 9": "assets/logos/leagues/premier-league-2026-night-9.webp",
+        "Premier League, Night 9": "assets/logos/leagues/premier-league-night-9.webp"
     }
 }
