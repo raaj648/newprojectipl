@@ -2045,7 +2045,10 @@
         "Collingwood Magpies": "assets/logos/upstreams/collingwood-magpies.webp",
         "Redcliffe": "assets/logos/upstreams/redcliffe.webp",
         "Manly Sea Eagles": "assets/logos/upstreams/manly-sea-eagles.webp",
-        "Chinese Taipei U20": "assets/logos/upstreams/chinese-taipei-u20.webp"
+        "Chinese Taipei U20": "assets/logos/upstreams/chinese-taipei-u20.webp",
+        "Fabian Marozsan": "assets/logos/upstreams/fabian-marozsan.webp",
+        "Quetta Gladiators": "assets/logos/upstreams/quetta-gladiators.webp",
+        "Atlanta Hawks --- HD": "assets/logos/upstreams/atlanta-hawks-hd.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2331,6 +2334,7 @@
         "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp",
         "AFL": "assets/logos/leagues/afl.webp",
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
-        "U20 AFC Asian Cup, Group C, Women": "assets/logos/leagues/u20-afc-asian-cup-group-c-women.webp"
+        "U20 AFC Asian Cup, Group C, Women": "assets/logos/leagues/u20-afc-asian-cup-group-c-women.webp",
+        "Argentina Liga Profesional": "assets/logos/leagues/argentina-liga-profesional.webp"
     }
 }
