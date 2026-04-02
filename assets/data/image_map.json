@@ -2077,7 +2077,9 @@
         "Sululta Ketema": "assets/logos/upstreams/sululta-ketema.webp",
         "Addis Ketema": "assets/logos/upstreams/addis-ketema.webp",
         "Dolphins": "assets/logos/upstreams/dolphins.webp",
-        "Oliver Pivnik": "assets/logos/upstreams/oliver-pivnik.webp"
+        "Oliver Pivnik": "assets/logos/upstreams/oliver-pivnik.webp",
+        "Crusaders": "assets/logos/upstreams/crusaders.webp",
+        "Ann-Sofie Husher Ruus": "assets/logos/upstreams/ann-sofie-husher-ruus.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2375,6 +2377,7 @@
         "UTR PTT Newport Beach Women 07, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-1-4-playoffs.webp",
         "UTR PTT Newport Beach Women 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-9-12-playoffs.webp",
         "NRL": "assets/logos/leagues/nrl.webp",
-        "UTR PTT Newport Beach Men 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-9-12-playoffs.webp"
+        "UTR PTT Newport Beach Men 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-9-12-playoffs.webp",
+        "Super Rugby": "assets/logos/leagues/super-rugby.webp"
     }
 }
