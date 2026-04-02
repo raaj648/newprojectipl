@@ -2164,7 +2164,16 @@
         "Tenerife (W)": "assets/logos/upstreams/tenerife-w.webp",
         "APIA Leichhardt": "assets/logos/upstreams/apia-leichhardt.webp",
         "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp",
-        "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp"
+        "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp",
+        "CD Mafra": "assets/logos/upstreams/cd-mafra.webp",
+        "UD Santar\u00e9m": "assets/logos/upstreams/ud-santar\u00e9m.webp",
+        "Lok. Plovdiv": "assets/logos/upstreams/lok-plovdiv.webp",
+        "VVV-Venlo": "assets/logos/upstreams/vvv-venlo.webp",
+        "SC Cambuur": "assets/logos/upstreams/sc-cambuur.webp",
+        "Derby": "assets/logos/upstreams/derby.webp",
+        "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
+        "Lukas Neumayer": "assets/logos/upstreams/lukas-neumayer.webp",
+        "Toby Samuel": "assets/logos/upstreams/toby-samuel.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2486,6 +2495,9 @@
         "Asobal": "assets/logos/leagues/asobal.webp",
         "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
         "Premier League 2026, Night 9": "assets/logos/leagues/premier-league-2026-night-9.webp",
-        "Premier League, Night 9": "assets/logos/leagues/premier-league-night-9.webp"
+        "Premier League, Night 9": "assets/logos/leagues/premier-league-night-9.webp",
+        "Second Professional League": "assets/logos/leagues/second-professional-league.webp",
+        "First Professional League": "assets/logos/leagues/first-professional-league.webp",
+        "Eerste Divisie": "assets/logos/leagues/eerste-divisie.webp"
     }
 }
