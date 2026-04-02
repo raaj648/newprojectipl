@@ -2106,7 +2106,9 @@
         "Sogdiana": "assets/logos/upstreams/sogdiana.webp",
         "Kokand 1912": "assets/logos/upstreams/kokand-1912.webp",
         "Mathare Utd": "assets/logos/upstreams/mathare-utd.webp",
-        "Police FC": "assets/logos/upstreams/police-fc.webp"
+        "Police FC": "assets/logos/upstreams/police-fc.webp",
+        "Hammarby (W)": "assets/logos/upstreams/hammarby-w.webp",
+        "Sparta Prague (W)": "assets/logos/upstreams/sparta-prague-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2410,6 +2412,7 @@
         "Handball-Bundesliga": "assets/logos/leagues/handball-bundesliga.webp",
         "Snooker": "assets/logos/leagues/snooker.webp",
         "Uzbekistan Super League": "assets/logos/leagues/uzbekistan-super-league.webp",
-        "Australia A-League": "assets/logos/leagues/australia-a-league.webp"
+        "Australia A-League": "assets/logos/leagues/australia-a-league.webp",
+        "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp"
     }
 }
