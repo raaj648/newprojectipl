@@ -2002,7 +2002,34 @@
         "Universidad Central": "assets/logos/upstreams/universidad-central.webp",
         "Learner Tien": "assets/logos/upstreams/learner-tien.webp",
         "Chennai Super Kings": "assets/logos/upstreams/chennai-super-kings.webp",
-        "Nanjing Tongxi": "assets/logos/upstreams/nanjing-tongxi.webp"
+        "Nanjing Tongxi": "assets/logos/upstreams/nanjing-tongxi.webp",
+        "Lokomotiva Zvolen": "assets/logos/upstreams/lokomotiva-zvolen.webp",
+        "Jena": "assets/logos/upstreams/jena.webp",
+        "Skyliners Frankfurt": "assets/logos/upstreams/skyliners-frankfurt.webp",
+        "Rasta Vechta": "assets/logos/upstreams/rasta-vechta.webp",
+        "Bamberg": "assets/logos/upstreams/bamberg.webp",
+        "Bonn": "assets/logos/upstreams/bonn.webp",
+        "Heidelberg": "assets/logos/upstreams/heidelberg.webp",
+        "KooKoo Kouvola": "assets/logos/upstreams/kookoo-kouvola.webp",
+        "Lahti Pelicans": "assets/logos/upstreams/lahti-pelicans.webp",
+        "Tappara Tampere": "assets/logos/upstreams/tappara-tampere.webp",
+        "HPK H\u00e4meenlinna": "assets/logos/upstreams/hpk-h\u00e4meenlinna.webp",
+        "James Kent Trotter": "assets/logos/upstreams/james-kent-trotter.webp",
+        "Kosner Baskonia": "assets/logos/upstreams/kosner-baskonia.webp",
+        "Rouen M\u00e9tropole Basket": "assets/logos/upstreams/rouen-m\u00e9tropole-basket.webp",
+        "Mark Selby": "assets/logos/upstreams/mark-selby.webp",
+        "Sofya Lansere": "assets/logos/upstreams/sofya-lansere.webp",
+        "Himeno Sakatsume": "assets/logos/upstreams/himeno-sakatsume.webp",
+        "Aliona Falei": "assets/logos/upstreams/aliona-falei.webp",
+        "Zhuoxuan Bai": "assets/logos/upstreams/zhuoxuan-bai.webp",
+        "Kuan-Yi Lee": "assets/logos/upstreams/kuan-yi-lee.webp",
+        "Max Basing": "assets/logos/upstreams/max-basing.webp",
+        "James Mccabe": "assets/logos/upstreams/james-mccabe.webp",
+        "Ognjen Milic": "assets/logos/upstreams/ognjen-milic.webp",
+        "Ilan Hediger": "assets/logos/upstreams/ilan-hediger.webp",
+        "Michel Hopp": "assets/logos/upstreams/michel-hopp.webp",
+        "Oana Georgeta Simion": "assets/logos/upstreams/oana-georgeta-simion.webp",
+        "Dino Prizmic": "assets/logos/upstreams/dino-prizmic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2283,6 +2310,7 @@
         "Austrian Bundesliga, Relegation Round": "assets/logos/leagues/austrian-bundesliga-relegation-round.webp",
         "SuperLiga, Relegation round": "assets/logos/leagues/superliga-relegation-round.webp",
         "Liga de Expansion MX, Clausura": "assets/logos/leagues/liga-de-expansion-mx-clausura.webp",
-        "China - CBA": "assets/logos/leagues/china-cba.webp"
+        "China - CBA": "assets/logos/leagues/china-cba.webp",
+        "Slovakia - 2. League": "assets/logos/leagues/slovakia-2-league.webp"
     }
 }
