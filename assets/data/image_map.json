@@ -2145,7 +2145,17 @@
         "FC Grenoble Rugby": "assets/logos/upstreams/fc-grenoble-rugby.webp",
         "Valence Romans Dr\u00f4me": "assets/logos/upstreams/valence-romans-dr\u00f4me.webp",
         "West Indies Women": "assets/logos/upstreams/west-indies-women.webp",
-        "Australia Women": "assets/logos/upstreams/australia-women.webp"
+        "Australia Women": "assets/logos/upstreams/australia-women.webp",
+        "Cambridge Utd": "assets/logos/upstreams/cambridge-utd.webp",
+        "Swindon": "assets/logos/upstreams/swindon.webp",
+        "Elisabaetta Cocciaretto": "assets/logos/upstreams/elisabaetta-cocciaretto.webp",
+        "Paula Badosa Gibert": "assets/logos/upstreams/paula-badosa-gibert.webp",
+        "Adelaide W": "assets/logos/upstreams/adelaide-w.webp",
+        "Wellington Phoenix W": "assets/logos/upstreams/wellington-phoenix-w.webp",
+        "Perth W": "assets/logos/upstreams/perth-w.webp",
+        "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp",
+        "Oxford Utd": "assets/logos/upstreams/oxford-utd.webp",
+        "Coventry": "assets/logos/upstreams/coventry.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2461,6 +2471,9 @@
         "UTR PTT Newport Beach Men 07, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-13-16-playoffs.webp",
         "League One": "assets/logos/leagues/league-one.webp",
         "Botola Pro": "assets/logos/leagues/botola-pro.webp",
-        "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp"
+        "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp",
+        "Ninja A-League": "assets/logos/leagues/ninja-a-league.webp",
+        "Liga Portugal": "assets/logos/leagues/liga-portugal.webp",
+        "Asobal": "assets/logos/leagues/asobal.webp"
     }
 }
