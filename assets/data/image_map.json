@@ -2156,7 +2156,13 @@
         "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp",
         "Oxford Utd": "assets/logos/upstreams/oxford-utd.webp",
         "Coventry": "assets/logos/upstreams/coventry.webp",
-        "Pereira": "assets/logos/upstreams/pereira.webp"
+        "Pereira": "assets/logos/upstreams/pereira.webp",
+        "Manly United": "assets/logos/upstreams/manly-united.webp",
+        "Sydney FC Tineret": "assets/logos/upstreams/sydney-fc-tineret.webp",
+        "Gerwyn Price": "assets/logos/upstreams/gerwyn-price.webp",
+        "Luke Humphries": "assets/logos/upstreams/luke-humphries.webp",
+        "Tenerife (W)": "assets/logos/upstreams/tenerife-w.webp",
+        "APIA Leichhardt": "assets/logos/upstreams/apia-leichhardt.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -2476,6 +2482,7 @@
         "Ninja A-League": "assets/logos/leagues/ninja-a-league.webp",
         "Liga Portugal": "assets/logos/leagues/liga-portugal.webp",
         "Asobal": "assets/logos/leagues/asobal.webp",
-        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp"
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
+        "Premier League 2026, Night 9": "assets/logos/leagues/premier-league-2026-night-9.webp"
     }
 }
