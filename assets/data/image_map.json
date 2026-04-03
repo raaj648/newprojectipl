@@ -3361,7 +3361,12 @@
         "Inter Miami CF": "assets/logos/upstreams/inter-miami-cf.webp",
         "St.Louis City": "assets/logos/upstreams/stlouis-city.webp",
         "Nagoya Grampus": "assets/logos/upstreams/nagoya-grampus.webp",
-        "Cerezo Osaka": "assets/logos/upstreams/cerezo-osaka.webp"
+        "Cerezo Osaka": "assets/logos/upstreams/cerezo-osaka.webp",
+        "Dakota  Hope": "assets/logos/upstreams/dakota-hope.webp",
+        "Ethyn Ewing": "assets/logos/upstreams/ethyn-ewing.webp",
+        "Rafael Estevam": "assets/logos/upstreams/rafael-estevam.webp",
+        "Tommy McMillen": "assets/logos/upstreams/tommy-mcmillen.webp",
+        "Manolo Zecchini": "assets/logos/upstreams/manolo-zecchini.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3858,6 +3863,7 @@
         "UTR PTT Carvoeiro Men +H 05, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-9-12-playoffs.webp",
         "UTR PTT Carvoeiro Men +H 05, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-17-20-playoffs.webp",
         "UTR PTT Krakow Men 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-5-8-playoffs.webp",
-        "UTR PTT Trnava Women 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-13-16-playoffs.webp"
+        "UTR PTT Trnava Women 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-13-16-playoffs.webp",
+        "UFC Fight Night: Moicano vs. Duncan": "assets/logos/leagues/ufc-fight-night-moicano-vs-duncan.webp"
     }
 }
