@@ -2775,7 +2775,9 @@
         "BM Guadalajara": "assets/logos/upstreams/bm-guadalajara.webp",
         "Igokea m:tel": "assets/logos/upstreams/igokea-mtel.webp",
         "TSV Hannover Burgdorf": "assets/logos/upstreams/tsv-hannover-burgdorf.webp",
-        "Rajasthan Royals": "assets/logos/upstreams/rajasthan-royals.webp"
+        "Rajasthan Royals": "assets/logos/upstreams/rajasthan-royals.webp",
+        "Houston Dash": "assets/logos/upstreams/houston-dash.webp",
+        "Racing Louisville": "assets/logos/upstreams/racing-louisville.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
