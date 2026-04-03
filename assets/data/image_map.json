@@ -2943,7 +2943,21 @@
         "Courtside": "assets/logos/upstreams/courtside.webp",
         "Live Bucharest-ATP & Marrakech-ATP Quarterfinals New Live": "assets/logos/upstreams/live-bucharest-atp-marrakech-atp-quarterfinals-new-live.webp",
         "Charleston: Day 5": "assets/logos/upstreams/charleston-day-5.webp",
-        "WTA 500": "assets/logos/upstreams/wta-500.webp"
+        "WTA 500": "assets/logos/upstreams/wta-500.webp",
+        "Mamelodi Sundowns": "assets/logos/upstreams/mamelodi-sundowns.webp",
+        "Chippa United": "assets/logos/upstreams/chippa-united.webp",
+        "Velez Mostar": "assets/logos/upstreams/velez-mostar.webp",
+        "Zrinjski": "assets/logos/upstreams/zrinjski.webp",
+        "FC Hunedoara": "assets/logos/upstreams/fc-hunedoara.webp",
+        "Sepsi": "assets/logos/upstreams/sepsi.webp",
+        "Nitra": "assets/logos/upstreams/nitra.webp",
+        "Poprad": "assets/logos/upstreams/poprad.webp",
+        "Tofas": "assets/logos/upstreams/tofas.webp",
+        "Syntainics MBC": "assets/logos/upstreams/syntainics-mbc.webp",
+        "Agnes Korosi": "assets/logos/upstreams/agnes-korosi.webp",
+        "Nella Nyqvist": "assets/logos/upstreams/nella-nyqvist.webp",
+        "Marcus Kruse": "assets/logos/upstreams/marcus-kruse.webp",
+        "Christopher Vittoriani": "assets/logos/upstreams/christopher-vittoriani.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3369,6 +3383,9 @@
         "Turkish Basketball Super League": "assets/logos/leagues/turkish-basketball-super-league.webp",
         "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp",
         "Czech - ExtraLeague - Playoff": "assets/logos/leagues/czech-extraleague-playoff.webp",
-        "Tennis": "assets/logos/leagues/tennis.webp"
+        "Tennis": "assets/logos/leagues/tennis.webp",
+        "Premiership": "assets/logos/leagues/premiership.webp",
+        "Slovakia - ExtraLeague - Playoff": "assets/logos/leagues/slovakia-extraleague-playoff.webp",
+        "BBL": "assets/logos/leagues/bbl.webp"
     }
 }
