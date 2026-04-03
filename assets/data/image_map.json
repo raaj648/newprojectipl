@@ -3380,7 +3380,34 @@
         "Junior": "assets/logos/upstreams/junior.webp",
         "Dep Cali": "assets/logos/upstreams/dep-cali.webp",
         "North Carolina Courage": "assets/logos/upstreams/north-carolina-courage.webp",
-        "Portland Thorns FC": "assets/logos/upstreams/portland-thorns-fc.webp"
+        "Portland Thorns FC": "assets/logos/upstreams/portland-thorns-fc.webp",
+        "AEK Atena": "assets/logos/upstreams/aek-atena.webp",
+        "Kolossos Rhodes": "assets/logos/upstreams/kolossos-rhodes.webp",
+        "Panionios": "assets/logos/upstreams/panionios.webp",
+        "Girona": "assets/logos/upstreams/girona.webp",
+        "Nutribullet Treviso Basket": "assets/logos/upstreams/nutribullet-treviso-basket.webp",
+        "Bertram Derthona Tortona": "assets/logos/upstreams/bertram-derthona-tortona.webp",
+        "Leyma Coruna": "assets/logos/upstreams/leyma-coruna.webp",
+        "Varese": "assets/logos/upstreams/varese.webp",
+        "Araski AES (W)": "assets/logos/upstreams/araski-aes-w.webp",
+        "Islas Canarias (W)": "assets/logos/upstreams/islas-canarias-w.webp",
+        "Gipuzkoa (W)": "assets/logos/upstreams/gipuzkoa-w.webp",
+        "Vanoli Basket Cremona": "assets/logos/upstreams/vanoli-basket-cremona.webp",
+        "APU Udine": "assets/logos/upstreams/apu-udine.webp",
+        "Cantu": "assets/logos/upstreams/cantu.webp",
+        "Sassari": "assets/logos/upstreams/sassari.webp",
+        "Menorca": "assets/logos/upstreams/menorca.webp",
+        "Tizona Burgos": "assets/logos/upstreams/tizona-burgos.webp",
+        "Pinheiros": "assets/logos/upstreams/pinheiros.webp",
+        "Storhamar Ishockey": "assets/logos/upstreams/storhamar-ishockey.webp",
+        "Frisk Asker": "assets/logos/upstreams/frisk-asker.webp",
+        "Joventut Badalona (W)": "assets/logos/upstreams/joventut-badalona-w.webp",
+        "Avenida (W)": "assets/logos/upstreams/avenida-w.webp",
+        "AS Karditsas": "assets/logos/upstreams/as-karditsas.webp",
+        "Porta XI Ensino": "assets/logos/upstreams/porta-xi-ensino.webp",
+        "Baloncesto Legan\u00e9s": "assets/logos/upstreams/baloncesto-legan\u00e9s.webp",
+        "Cb Jairis": "assets/logos/upstreams/cb-jairis.webp",
+        "AE Sedis B\u00e0squet": "assets/logos/upstreams/ae-sedis-b\u00e0squet.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3880,6 +3907,11 @@
         "UTR PTT Trnava Women 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-13-16-playoffs.webp",
         "UFC Fight Night: Moicano vs. Duncan": "assets/logos/leagues/ufc-fight-night-moicano-vs-duncan.webp",
         "NCAA Women's March Madness": "assets/logos/leagues/ncaa-womens-march-madness.webp",
-        "Mexico Liga MX": "assets/logos/leagues/mexico-liga-mx.webp"
+        "Mexico Liga MX": "assets/logos/leagues/mexico-liga-mx.webp",
+        "EliteHockey Ligaen, Playoffs": "assets/logos/leagues/elitehockey-ligaen-playoffs.webp",
+        "Spain - League Endesa (W)": "assets/logos/leagues/spain-league-endesa-w.webp",
+        "Liga Femenina": "assets/logos/leagues/liga-femenina.webp",
+        "UTR PTT Carvoeiro Men +H 05, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-1-4-playoffs.webp",
+        "UTR PTT Carvoeiro Women +H 05, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-1-4-playoffs.webp"
     }
 }
