@@ -3119,7 +3119,18 @@
         "Nicolai Budkov Kjaer": "assets/logos/upstreams/nicolai-budkov-kjaer.webp",
         "Romain Arneodo": "assets/logos/upstreams/romain-arneodo.webp",
         "Francisco Comesa\u00f1a": "assets/logos/upstreams/francisco-comesa\u00f1a.webp",
-        "Hugo Nys": "assets/logos/upstreams/hugo-nys.webp"
+        "Hugo Nys": "assets/logos/upstreams/hugo-nys.webp",
+        "Rayo Zuliano": "assets/logos/upstreams/rayo-zuliano.webp",
+        "Trujillanos FC": "assets/logos/upstreams/trujillanos-fc.webp",
+        "Alianza Atl": "assets/logos/upstreams/alianza-atl.webp",
+        "Grau": "assets/logos/upstreams/grau.webp",
+        "Boston River": "assets/logos/upstreams/boston-river.webp",
+        "Montevideo Wanderers": "assets/logos/upstreams/montevideo-wanderers.webp",
+        "Dep Riestra": "assets/logos/upstreams/dep-riestra.webp",
+        "Academia Puerto Cabello": "assets/logos/upstreams/academia-puerto-cabello.webp",
+        "Deportivo T\u00e1chira": "assets/logos/upstreams/deportivo-t\u00e1chira.webp",
+        "New Zealand Women": "assets/logos/upstreams/new-zealand-women.webp",
+        "South Africa Women": "assets/logos/upstreams/south-africa-women.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3583,6 +3594,9 @@
         "UTR PTT Krakow Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-9-12-playoffs.webp",
         "UTR PTT Krakow Men 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-13-16-playoffs.webp",
         "UTR PTT Trnava Women 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-5-8-playoffs.webp",
-        "UTR PTT Trnava Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-9-12-playoffs.webp"
+        "UTR PTT Trnava Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-9-12-playoffs.webp",
+        "Peru Liga 1 Apertura": "assets/logos/leagues/peru-liga-1-apertura.webp",
+        "Bolivia Division Profesional": "assets/logos/leagues/bolivia-division-profesional.webp",
+        "South Africa Women in New Zealand, 3 ODI Series": "assets/logos/leagues/south-africa-women-in-new-zealand-3-odi-series.webp"
     }
 }
