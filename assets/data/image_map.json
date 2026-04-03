@@ -2969,7 +2969,17 @@
         "NK Slaven Belupo": "assets/logos/upstreams/nk-slaven-belupo.webp",
         "HNK Rijeka": "assets/logos/upstreams/hnk-rijeka.webp",
         "BBC Nyon": "assets/logos/upstreams/bbc-nyon.webp",
-        "Starwings Basket": "assets/logos/upstreams/starwings-basket.webp"
+        "Starwings Basket": "assets/logos/upstreams/starwings-basket.webp",
+        "Sara Conde": "assets/logos/upstreams/sara-conde.webp",
+        "Mayra Gisone": "assets/logos/upstreams/mayra-gisone.webp",
+        "Pirossigeno Cosenza": "assets/logos/upstreams/pirossigeno-cosenza.webp",
+        "L84": "assets/logos/upstreams/l84.webp",
+        "CDM Genova": "assets/logos/upstreams/cdm-genova.webp",
+        "Capurso": "assets/logos/upstreams/capurso.webp",
+        "Mantova": "assets/logos/upstreams/mantova.webp",
+        "Fortitudo Pomezia": "assets/logos/upstreams/fortitudo-pomezia.webp",
+        "Callum Peters": "assets/logos/upstreams/callum-peters.webp",
+        "Delio Anzaqeci Mouzinho": "assets/logos/upstreams/delio-anzaqeci-mouzinho.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3400,6 +3410,7 @@
         "Slovakia - ExtraLeague - Playoff": "assets/logos/leagues/slovakia-extraleague-playoff.webp",
         "BBL": "assets/logos/leagues/bbl.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
-        "2. HNL": "assets/logos/leagues/2-hnl.webp"
+        "2. HNL": "assets/logos/leagues/2-hnl.webp",
+        "Italy - Serie A": "assets/logos/leagues/italy-serie-a.webp"
     }
 }
