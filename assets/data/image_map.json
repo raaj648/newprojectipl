@@ -3002,7 +3002,12 @@
         "Oleksandria": "assets/logos/upstreams/oleksandria.webp",
         "Johor DT": "assets/logos/upstreams/johor-dt.webp",
         "HC Davos": "assets/logos/upstreams/hc-davos.webp",
-        "ZSC Lions": "assets/logos/upstreams/zsc-lions.webp"
+        "ZSC Lions": "assets/logos/upstreams/zsc-lions.webp",
+        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp",
+        "Tampines Rovers": "assets/logos/upstreams/tampines-rovers.webp",
+        "Hougang United": "assets/logos/upstreams/hougang-united.webp",
+        "Geylang International": "assets/logos/upstreams/geylang-international.webp",
+        "Hristomira Popovska": "assets/logos/upstreams/hristomira-popovska.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3441,6 +3446,7 @@
         "English League One": "assets/logos/leagues/english-league-one.webp",
         "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
         "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp",
-        "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp"
+        "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp",
+        "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp"
     }
 }
