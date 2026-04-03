@@ -2979,7 +2979,10 @@
         "Mantova": "assets/logos/upstreams/mantova.webp",
         "Fortitudo Pomezia": "assets/logos/upstreams/fortitudo-pomezia.webp",
         "Callum Peters": "assets/logos/upstreams/callum-peters.webp",
-        "Delio Anzaqeci Mouzinho": "assets/logos/upstreams/delio-anzaqeci-mouzinho.webp"
+        "Delio Anzaqeci Mouzinho": "assets/logos/upstreams/delio-anzaqeci-mouzinho.webp",
+        "FC Goa": "assets/logos/upstreams/fc-goa.webp",
+        "Bengaluru FC": "assets/logos/upstreams/bengaluru-fc.webp",
+        "Delio Anzaqeci MouzinhoSuper middleweightWIN Entertainment Centre | Wollongong": "assets/logos/upstreams/delio-anzaqeci-mouzinhosuper-middleweightwin-entertainment-centre-wollongong.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3411,6 +3414,8 @@
         "BBL": "assets/logos/leagues/bbl.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
         "2. HNL": "assets/logos/leagues/2-hnl.webp",
-        "Italy - Serie A": "assets/logos/leagues/italy-serie-a.webp"
+        "Italy - Serie A": "assets/logos/leagues/italy-serie-a.webp",
+        "NRL - Regular Season": "assets/logos/leagues/nrl-regular-season.webp",
+        "NRL Premiership": "assets/logos/leagues/nrl-premiership.webp"
     }
 }
