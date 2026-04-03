@@ -2887,7 +2887,27 @@
         "Hull FC": "assets/logos/upstreams/hull-fc.webp",
         "St Helens": "assets/logos/upstreams/st-helens.webp",
         "Wigan Warriors": "assets/logos/upstreams/wigan-warriors.webp",
-        "Marco CecChinato": "assets/logos/upstreams/marco-cecchinato.webp"
+        "Marco CecChinato": "assets/logos/upstreams/marco-cecchinato.webp",
+        "KK Zdravlje Leskovac": "assets/logos/upstreams/kk-zdravlje-leskovac.webp",
+        "OKK Ivanjica": "assets/logos/upstreams/okk-ivanjica.webp",
+        "KK Pirot": "assets/logos/upstreams/kk-pirot.webp",
+        "KK Dunav Stari Banovci": "assets/logos/upstreams/kk-dunav-stari-banovci.webp",
+        "KK Nis 1996": "assets/logos/upstreams/kk-nis-1996.webp",
+        "Sloven": "assets/logos/upstreams/sloven.webp",
+        "Frontignan Thau Handball": "assets/logos/upstreams/frontignan-thau-handball.webp",
+        "Massy Essonne Handball": "assets/logos/upstreams/massy-essonne-handball.webp",
+        "Pau Bill\u00e8re Handball": "assets/logos/upstreams/pau-bill\u00e8re-handball.webp",
+        "Saran": "assets/logos/upstreams/saran.webp",
+        "Valence": "assets/logos/upstreams/valence.webp",
+        "Caen": "assets/logos/upstreams/caen.webp",
+        "Angers": "assets/logos/upstreams/angers.webp",
+        "Cherbourg": "assets/logos/upstreams/cherbourg.webp",
+        "Sarrebourg": "assets/logos/upstreams/sarrebourg.webp",
+        "Ivry": "assets/logos/upstreams/ivry.webp",
+        "Pontault": "assets/logos/upstreams/pontault.webp",
+        "Besancon": "assets/logos/upstreams/besancon.webp",
+        "Azkya Aliefa Ruhanda": "assets/logos/upstreams/azkya-aliefa-ruhanda.webp",
+        "Tallulah Van Coppenolle": "assets/logos/upstreams/tallulah-van-coppenolle.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3305,6 +3325,7 @@
         "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
         "Netherlands - Eerste Divisie": "assets/logos/leagues/netherlands-eerste-divisie.webp",
         "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp",
-        "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp"
+        "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp",
+        "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp"
     }
 }
