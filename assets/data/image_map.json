@@ -3086,7 +3086,9 @@
         "Apoel": "assets/logos/upstreams/apoel.webp",
         "RKC Waalwijk": "assets/logos/upstreams/rkc-waalwijk.webp",
         "Gent U23": "assets/logos/upstreams/gent-u23.webp",
-        "Sporting Lokeren": "assets/logos/upstreams/sporting-lokeren.webp"
+        "Sporting Lokeren": "assets/logos/upstreams/sporting-lokeren.webp",
+        "FK Rudar Prijedor": "assets/logos/upstreams/fk-rudar-prijedor.webp",
+        "FK Sloga Doboj": "assets/logos/upstreams/fk-sloga-doboj.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
