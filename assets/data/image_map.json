@@ -3041,7 +3041,9 @@
         "Turun Nkmy": "assets/logos/upstreams/turun-nkmy.webp",
         "Vaxjo DFF (W)": "assets/logos/upstreams/vaxjo-dff-w.webp",
         "Eskilstuna United (W)": "assets/logos/upstreams/eskilstuna-united-w.webp",
-        "Enrico Baroni": "assets/logos/upstreams/enrico-baroni.webp"
+        "Enrico Baroni": "assets/logos/upstreams/enrico-baroni.webp",
+        "Arab Contractors": "assets/logos/upstreams/arab-contractors.webp",
+        "ZED": "assets/logos/upstreams/zed.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3484,6 +3486,7 @@
         "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp",
         "English League Two": "assets/logos/leagues/english-league-two.webp",
         "English Championship": "assets/logos/leagues/english-championship.webp",
-        "USL, League One": "assets/logos/leagues/usl-league-one.webp"
+        "USL, League One": "assets/logos/leagues/usl-league-one.webp",
+        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp"
     }
 }
