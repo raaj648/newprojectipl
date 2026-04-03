@@ -3049,7 +3049,11 @@
         "Al Arabi (SA)": "assets/logos/upstreams/al-arabi-sa.webp",
         "Al Diriyah": "assets/logos/upstreams/al-diriyah.webp",
         "Qatar SC": "assets/logos/upstreams/qatar-sc.webp",
-        "Al-Arabi SC": "assets/logos/upstreams/al-arabi-sc.webp"
+        "Al-Arabi SC": "assets/logos/upstreams/al-arabi-sc.webp",
+        "Milan": "assets/logos/upstreams/milan.webp",
+        "Al-Ittihad": "assets/logos/upstreams/al-ittihad.webp",
+        "Al-Hazem": "assets/logos/upstreams/al-hazem.webp",
+        "Suduva": "assets/logos/upstreams/suduva.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3495,6 +3499,9 @@
         "USL, League One": "assets/logos/leagues/usl-league-one.webp",
         "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
         "Division 1": "assets/logos/leagues/division-1.webp",
-        "Stars League": "assets/logos/leagues/stars-league.webp"
+        "Stars League": "assets/logos/leagues/stars-league.webp",
+        "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
+        "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
+        "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp"
     }
 }
