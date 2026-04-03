@@ -2959,7 +2959,15 @@
         "Marcus Kruse": "assets/logos/upstreams/marcus-kruse.webp",
         "Christopher Vittoriani": "assets/logos/upstreams/christopher-vittoriani.webp",
         "Connor Huertas del Pino": "assets/logos/upstreams/connor-huertas-del-pino.webp",
-        "Hull K R": "assets/logos/streamed/hull-k-r.webp"
+        "Hull K R": "assets/logos/streamed/hull-k-r.webp",
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
+        "Leeds Rhinos": "assets/logos/streamed/leeds-rhinos.webp",
+        "Arema FC": "assets/logos/upstreams/arema-fc.webp",
+        "Malut United FC": "assets/logos/upstreams/malut-united-fc.webp",
+        "Cibalia-Vinkovci": "assets/logos/upstreams/cibalia-vinkovci.webp",
+        "NK Croatia Zmijavci": "assets/logos/upstreams/nk-croatia-zmijavci.webp",
+        "NK Slaven Belupo": "assets/logos/upstreams/nk-slaven-belupo.webp",
+        "HNK Rijeka": "assets/logos/upstreams/hnk-rijeka.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3388,6 +3396,8 @@
         "Tennis": "assets/logos/leagues/tennis.webp",
         "Premiership": "assets/logos/leagues/premiership.webp",
         "Slovakia - ExtraLeague - Playoff": "assets/logos/leagues/slovakia-extraleague-playoff.webp",
-        "BBL": "assets/logos/leagues/bbl.webp"
+        "BBL": "assets/logos/leagues/bbl.webp",
+        "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
+        "2. HNL": "assets/logos/leagues/2-hnl.webp"
     }
 }
