@@ -2982,7 +2982,25 @@
         "Delio Anzaqeci Mouzinho": "assets/logos/upstreams/delio-anzaqeci-mouzinho.webp",
         "FC Goa": "assets/logos/upstreams/fc-goa.webp",
         "Bengaluru FC": "assets/logos/upstreams/bengaluru-fc.webp",
-        "Delio Anzaqeci MouzinhoSuper middleweightWIN Entertainment Centre | Wollongong": "assets/logos/upstreams/delio-anzaqeci-mouzinhosuper-middleweightwin-entertainment-centre-wollongong.webp"
+        "Delio Anzaqeci MouzinhoSuper middleweightWIN Entertainment Centre | Wollongong": "assets/logos/upstreams/delio-anzaqeci-mouzinhosuper-middleweightwin-entertainment-centre-wollongong.webp",
+        "SD Eibar": "assets/logos/upstreams/sd-eibar.webp",
+        "Costa Adeje Tenerife": "assets/logos/upstreams/costa-adeje-tenerife.webp",
+        "Gamo Chencha": "assets/logos/upstreams/gamo-chencha.webp",
+        "Harar FC": "assets/logos/upstreams/harar-fc.webp",
+        "Doncaster": "assets/logos/upstreams/doncaster.webp",
+        "Mansfield": "assets/logos/upstreams/mansfield.webp",
+        "B93": "assets/logos/upstreams/b93.webp",
+        "Dodoma Jiji": "assets/logos/upstreams/dodoma-jiji.webp",
+        "Fountain Gate": "assets/logos/upstreams/fountain-gate.webp",
+        "Sofapaka": "assets/logos/upstreams/sofapaka.webp",
+        "Bandari": "assets/logos/upstreams/bandari.webp",
+        "Nouakchott Kings": "assets/logos/upstreams/nouakchott-kings.webp",
+        "AS Pompier": "assets/logos/upstreams/as-pompier.webp",
+        "Dewa United FC": "assets/logos/upstreams/dewa-united-fc.webp",
+        "PSIM Yogyakarta": "assets/logos/upstreams/psim-yogyakarta.webp",
+        "SC Poltava": "assets/logos/upstreams/sc-poltava.webp",
+        "Oleksandria": "assets/logos/upstreams/oleksandria.webp",
+        "Johor DT": "assets/logos/upstreams/johor-dt.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3416,6 +3434,11 @@
         "2. HNL": "assets/logos/leagues/2-hnl.webp",
         "Italy - Serie A": "assets/logos/leagues/italy-serie-a.webp",
         "NRL - Regular Season": "assets/logos/leagues/nrl-regular-season.webp",
-        "NRL Premiership": "assets/logos/leagues/nrl-premiership.webp"
+        "NRL Premiership": "assets/logos/leagues/nrl-premiership.webp",
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp",
+        "English League One": "assets/logos/leagues/english-league-one.webp",
+        "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
+        "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp",
+        "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp"
     }
 }
