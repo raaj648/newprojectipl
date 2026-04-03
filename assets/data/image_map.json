@@ -3366,7 +3366,21 @@
         "Ethyn Ewing": "assets/logos/upstreams/ethyn-ewing.webp",
         "Rafael Estevam": "assets/logos/upstreams/rafael-estevam.webp",
         "Tommy McMillen": "assets/logos/upstreams/tommy-mcmillen.webp",
-        "Manolo Zecchini": "assets/logos/upstreams/manolo-zecchini.webp"
+        "Manolo Zecchini": "assets/logos/upstreams/manolo-zecchini.webp",
+        "UCLA Bruins": "assets/logos/upstreams/ucla-bruins.webp",
+        "Texas Longhorns": "assets/logos/upstreams/texas-longhorns.webp",
+        "Inter Bogota": "assets/logos/upstreams/inter-bogota.webp",
+        "Nacional": "assets/logos/upstreams/nacional.webp",
+        "Blooming": "assets/logos/upstreams/blooming.webp",
+        "Guabir\u00e1": "assets/logos/upstreams/guabir\u00e1.webp",
+        "Kalamazoo Wings": "assets/logos/upstreams/kalamazoo-wings.webp",
+        "Toledo Walleye": "assets/logos/upstreams/toledo-walleye.webp",
+        "LDU Quito": "assets/logos/upstreams/ldu-quito.webp",
+        "Barcelona SC": "assets/logos/upstreams/barcelona-sc.webp",
+        "Junior": "assets/logos/upstreams/junior.webp",
+        "Dep Cali": "assets/logos/upstreams/dep-cali.webp",
+        "North Carolina Courage": "assets/logos/upstreams/north-carolina-courage.webp",
+        "Portland Thorns FC": "assets/logos/upstreams/portland-thorns-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3864,6 +3878,8 @@
         "UTR PTT Carvoeiro Men +H 05, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-17-20-playoffs.webp",
         "UTR PTT Krakow Men 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-5-8-playoffs.webp",
         "UTR PTT Trnava Women 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-13-16-playoffs.webp",
-        "UFC Fight Night: Moicano vs. Duncan": "assets/logos/leagues/ufc-fight-night-moicano-vs-duncan.webp"
+        "UFC Fight Night: Moicano vs. Duncan": "assets/logos/leagues/ufc-fight-night-moicano-vs-duncan.webp",
+        "NCAA Women's March Madness": "assets/logos/leagues/ncaa-womens-march-madness.webp",
+        "Mexico Liga MX": "assets/logos/leagues/mexico-liga-mx.webp"
     }
 }
