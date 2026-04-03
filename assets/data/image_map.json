@@ -3088,7 +3088,21 @@
         "Gent U23": "assets/logos/upstreams/gent-u23.webp",
         "Sporting Lokeren": "assets/logos/upstreams/sporting-lokeren.webp",
         "FK Rudar Prijedor": "assets/logos/upstreams/fk-rudar-prijedor.webp",
-        "FK Sloga Doboj": "assets/logos/upstreams/fk-sloga-doboj.webp"
+        "FK Sloga Doboj": "assets/logos/upstreams/fk-sloga-doboj.webp",
+        "\u00c9toile Carouge FC": "assets/logos/upstreams/\u00e9toile-carouge-fc.webp",
+        "Stade Nyonnais": "assets/logos/upstreams/stade-nyonnais.webp",
+        "Royal Antwerp": "assets/logos/upstreams/royal-antwerp.webp",
+        "Prijedor": "assets/logos/upstreams/prijedor.webp",
+        "FUS Rabat": "assets/logos/upstreams/fus-rabat.webp",
+        "Wydad AC": "assets/logos/upstreams/wydad-ac.webp",
+        "Bradford": "assets/logos/upstreams/bradford.webp",
+        "Leeds": "assets/logos/upstreams/leeds.webp",
+        "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
+        "Brooklyn FC": "assets/logos/upstreams/brooklyn-fc.webp",
+        "Peu-Basket": "assets/logos/upstreams/peu-basket.webp",
+        "Pantterit": "assets/logos/upstreams/pantterit.webp",
+        "KTP Basket Kotka II": "assets/logos/upstreams/ktp-basket-kotka-ii.webp",
+        "CA Brive": "assets/logos/upstreams/ca-brive.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3545,6 +3559,7 @@
         "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp",
         "Dutch Eerste Divisie": "assets/logos/leagues/dutch-eerste-divisie.webp",
         "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
-        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp"
+        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
+        "Belgium Pro League": "assets/logos/leagues/belgium-pro-league.webp"
     }
 }
