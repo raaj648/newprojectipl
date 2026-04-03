@@ -2869,7 +2869,20 @@
         "Gustavo Perez Alvarez": "assets/logos/upstreams/gustavo-perez-alvarez.webp",
         "Ormanspor": "assets/logos/upstreams/ormanspor.webp",
         "Darussafaka": "assets/logos/upstreams/darussafaka.webp",
-        "Robertson N.": "assets/logos/upstreams/robertson-n.webp"
+        "Robertson N.": "assets/logos/upstreams/robertson-n.webp",
+        "PK-35": "assets/logos/upstreams/pk-35.webp",
+        "EIF": "assets/logos/upstreams/eif.webp",
+        "Jong AZ Alkmaar": "assets/logos/upstreams/jong-az-alkmaar.webp",
+        "Helmond Sport": "assets/logos/upstreams/helmond-sport.webp",
+        "Willem II Tilburg": "assets/logos/upstreams/willem-ii-tilburg.webp",
+        "Jong PSV Eindhoven": "assets/logos/upstreams/jong-psv-eindhoven.webp",
+        "Maastricht": "assets/logos/upstreams/maastricht.webp",
+        "Waalwijk": "assets/logos/upstreams/waalwijk.webp",
+        "Penrith Panthers": "assets/logos/upstreams/penrith-panthers.webp",
+        "Melbourne Storm": "assets/logos/upstreams/melbourne-storm.webp",
+        "Tigres UANL": "assets/logos/upstreams/tigres-uanl.webp",
+        "Stephanie Pineiro Aquino": "assets/logos/upstreams/stephanie-pineiro-aquino.webp",
+        "Nicholas David Ionel": "assets/logos/upstreams/nicholas-david-ionel.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3283,6 +3296,8 @@
         "Serie C, Group A": "assets/logos/leagues/serie-c-group-a.webp",
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Serbia - KLS - Prima League": "assets/logos/leagues/serbia-kls-prima-league.webp",
-        "French - Starligue": "assets/logos/leagues/french-starligue.webp"
+        "French - Starligue": "assets/logos/leagues/french-starligue.webp",
+        "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
+        "Netherlands - Eerste Divisie": "assets/logos/leagues/netherlands-eerste-divisie.webp"
     }
 }
