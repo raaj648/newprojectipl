@@ -3061,7 +3061,21 @@
         "Kk Lim": "assets/logos/upstreams/kk-lim.webp",
         "Zeta 2011 Podgorica": "assets/logos/upstreams/zeta-2011-podgorica.webp",
         "Lovcen Cetinje": "assets/logos/upstreams/lovcen-cetinje.webp",
-        "Sutjeska": "assets/logos/upstreams/sutjeska.webp"
+        "Sutjeska": "assets/logos/upstreams/sutjeska.webp",
+        "Oberwart Gunners": "assets/logos/upstreams/oberwart-gunners.webp",
+        "Raiffeisen Flyers Wels": "assets/logos/upstreams/raiffeisen-flyers-wels.webp",
+        "Panthers Furstenfeld": "assets/logos/upstreams/panthers-furstenfeld.webp",
+        "UEB Cividale": "assets/logos/upstreams/ueb-cividale.webp",
+        "Fortitudo Bologna": "assets/logos/upstreams/fortitudo-bologna.webp",
+        "Benedetto XIV Cento": "assets/logos/upstreams/benedetto-xiv-cento.webp",
+        "Urania Basket Milano": "assets/logos/upstreams/urania-basket-milano.webp",
+        "Basketball Klosterneuburg": "assets/logos/upstreams/basketball-klosterneuburg.webp",
+        "Kapfenberg Bulls": "assets/logos/upstreams/kapfenberg-bulls.webp",
+        "New Basket Brindisi": "assets/logos/upstreams/new-basket-brindisi.webp",
+        "Libertas Livorno": "assets/logos/upstreams/libertas-livorno.webp",
+        "JuVi Cremona": "assets/logos/upstreams/juvi-cremona.webp",
+        "Roseto": "assets/logos/upstreams/roseto.webp",
+        "Swans Gmunden": "assets/logos/upstreams/swans-gmunden.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3510,6 +3524,8 @@
         "Stars League": "assets/logos/leagues/stars-league.webp",
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
-        "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp"
+        "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp",
+        "Serie A2": "assets/logos/leagues/serie-a2.webp",
+        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp"
     }
 }
