@@ -3045,7 +3045,11 @@
         "Arab Contractors": "assets/logos/upstreams/arab-contractors.webp",
         "ZED": "assets/logos/upstreams/zed.webp",
         "ENPPI": "assets/logos/upstreams/enppi.webp",
-        "Pyramids FC": "assets/logos/upstreams/pyramids-fc.webp"
+        "Pyramids FC": "assets/logos/upstreams/pyramids-fc.webp",
+        "Al Arabi (SA)": "assets/logos/upstreams/al-arabi-sa.webp",
+        "Al Diriyah": "assets/logos/upstreams/al-diriyah.webp",
+        "Qatar SC": "assets/logos/upstreams/qatar-sc.webp",
+        "Al-Arabi SC": "assets/logos/upstreams/al-arabi-sc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3489,6 +3493,8 @@
         "English League Two": "assets/logos/leagues/english-league-two.webp",
         "English Championship": "assets/logos/leagues/english-championship.webp",
         "USL, League One": "assets/logos/leagues/usl-league-one.webp",
-        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp"
+        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
+        "Division 1": "assets/logos/leagues/division-1.webp",
+        "Stars League": "assets/logos/leagues/stars-league.webp"
     }
 }
