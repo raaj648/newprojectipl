@@ -3009,7 +3009,29 @@
         "Geylang International": "assets/logos/upstreams/geylang-international.webp",
         "Hristomira Popovska": "assets/logos/upstreams/hristomira-popovska.webp",
         "Mbeya City": "assets/logos/upstreams/mbeya-city.webp",
-        "Xorazm Urganch": "assets/logos/upstreams/xorazm-urganch.webp"
+        "Xorazm Urganch": "assets/logos/upstreams/xorazm-urganch.webp",
+        "Hvidovre IF": "assets/logos/upstreams/hvidovre-if.webp",
+        "FC Stauceni": "assets/logos/upstreams/fc-stauceni.webp",
+        "Accrington": "assets/logos/upstreams/accrington.webp",
+        "Crewe": "assets/logos/upstreams/crewe.webp",
+        "Colchester": "assets/logos/upstreams/colchester.webp",
+        "Oldham": "assets/logos/upstreams/oldham.webp",
+        "Shrewsbury": "assets/logos/upstreams/shrewsbury.webp",
+        "Tranmere": "assets/logos/upstreams/tranmere.webp",
+        "Northampton": "assets/logos/upstreams/northampton.webp",
+        "Peterborough": "assets/logos/upstreams/peterborough.webp",
+        "Plymouth": "assets/logos/upstreams/plymouth.webp",
+        "Bolton": "assets/logos/upstreams/bolton.webp",
+        "Wycombe": "assets/logos/upstreams/wycombe.webp",
+        "Birmingham": "assets/logos/upstreams/birmingham.webp",
+        "Newport": "assets/logos/upstreams/newport.webp",
+        "Crawley": "assets/logos/upstreams/crawley.webp",
+        "MK Dons": "assets/logos/upstreams/mk-dons.webp",
+        "Grimsby": "assets/logos/upstreams/grimsby.webp",
+        "Harrogate": "assets/logos/upstreams/harrogate.webp",
+        "Navbahor Namangan": "assets/logos/upstreams/navbahor-namangan.webp",
+        "New York Cosmos": "assets/logos/upstreams/new-york-cosmos.webp",
+        "Lahore Qalandars": "assets/logos/upstreams/lahore-qalandars.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3449,6 +3471,9 @@
         "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
         "Mauritania - Super D1": "assets/logos/leagues/mauritania-super-d1.webp",
         "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp",
-        "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp"
+        "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp",
+        "English League Two": "assets/logos/leagues/english-league-two.webp",
+        "English Championship": "assets/logos/leagues/english-championship.webp",
+        "USL, League One": "assets/logos/leagues/usl-league-one.webp"
     }
 }
