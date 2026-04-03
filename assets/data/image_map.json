@@ -3081,7 +3081,9 @@
         "Corum": "assets/logos/upstreams/corum.webp",
         "Bandirmaspor": "assets/logos/upstreams/bandirmaspor.webp",
         "Al-Ahli Doha": "assets/logos/upstreams/al-ahli-doha.webp",
-        "Al-Sailiya": "assets/logos/upstreams/al-sailiya.webp"
+        "Al-Sailiya": "assets/logos/upstreams/al-sailiya.webp",
+        "Omonia": "assets/logos/upstreams/omonia.webp",
+        "Apoel": "assets/logos/upstreams/apoel.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
