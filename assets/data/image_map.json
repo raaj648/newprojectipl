@@ -3075,7 +3075,13 @@
         "Libertas Livorno": "assets/logos/upstreams/libertas-livorno.webp",
         "JuVi Cremona": "assets/logos/upstreams/juvi-cremona.webp",
         "Roseto": "assets/logos/upstreams/roseto.webp",
-        "Swans Gmunden": "assets/logos/upstreams/swans-gmunden.webp"
+        "Swans Gmunden": "assets/logos/upstreams/swans-gmunden.webp",
+        "Ried": "assets/logos/upstreams/ried.webp",
+        "Altach": "assets/logos/upstreams/altach.webp",
+        "Corum": "assets/logos/upstreams/corum.webp",
+        "Bandirmaspor": "assets/logos/upstreams/bandirmaspor.webp",
+        "Al-Ahli Doha": "assets/logos/upstreams/al-ahli-doha.webp",
+        "Al-Sailiya": "assets/logos/upstreams/al-sailiya.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3526,6 +3532,8 @@
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
         "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp",
         "Serie A2": "assets/logos/leagues/serie-a2.webp",
-        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp"
+        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp",
+        "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
     }
 }
