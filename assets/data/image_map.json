@@ -3104,7 +3104,19 @@
         "KTP Basket Kotka II": "assets/logos/upstreams/ktp-basket-kotka-ii.webp",
         "CA Brive": "assets/logos/upstreams/ca-brive.webp",
         "Vend\u00e9e Challans Basket": "assets/logos/upstreams/vend\u00e9e-challans-basket.webp",
-        "Stade Rochelais Basket": "assets/logos/upstreams/stade-rochelais-basket.webp"
+        "Stade Rochelais Basket": "assets/logos/upstreams/stade-rochelais-basket.webp",
+        "Benjamin Bonzi": "assets/logos/upstreams/benjamin-bonzi.webp",
+        "David Goffin": "assets/logos/upstreams/david-goffin.webp",
+        "Emilio Nava": "assets/logos/upstreams/emilio-nava.webp",
+        "Quentin Halys": "assets/logos/upstreams/quentin-halys.webp",
+        "Aleksandar Vukic": "assets/logos/upstreams/aleksandar-vukic.webp",
+        "Cristian Garin": "assets/logos/upstreams/cristian-garin.webp",
+        "Jesper De Jong": "assets/logos/upstreams/jesper-de-jong.webp",
+        "Jan-Lennard Struff": "assets/logos/upstreams/jan-lennard-struff.webp",
+        "Andrea Pellegrino": "assets/logos/upstreams/andrea-pellegrino.webp",
+        "Alexander Blockx": "assets/logos/upstreams/alexander-blockx.webp",
+        "Ethan Quinn": "assets/logos/upstreams/ethan-quinn.webp",
+        "Nicolai Budkov Kjaer": "assets/logos/upstreams/nicolai-budkov-kjaer.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3562,6 +3574,7 @@
         "Dutch Eerste Divisie": "assets/logos/leagues/dutch-eerste-divisie.webp",
         "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
         "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp",
-        "Belgium Pro League": "assets/logos/leagues/belgium-pro-league.webp"
+        "Belgium Pro League": "assets/logos/leagues/belgium-pro-league.webp",
+        "Monte Carlo, Monaco, Qualifying": "assets/logos/leagues/monte-carlo-monaco-qualifying.webp"
     }
 }
