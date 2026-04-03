@@ -3083,7 +3083,10 @@
         "Al-Ahli Doha": "assets/logos/upstreams/al-ahli-doha.webp",
         "Al-Sailiya": "assets/logos/upstreams/al-sailiya.webp",
         "Omonia": "assets/logos/upstreams/omonia.webp",
-        "Apoel": "assets/logos/upstreams/apoel.webp"
+        "Apoel": "assets/logos/upstreams/apoel.webp",
+        "RKC Waalwijk": "assets/logos/upstreams/rkc-waalwijk.webp",
+        "Gent U23": "assets/logos/upstreams/gent-u23.webp",
+        "Sporting Lokeren": "assets/logos/upstreams/sporting-lokeren.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -3536,6 +3539,10 @@
         "Serie A2": "assets/logos/leagues/serie-a2.webp",
         "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp",
         "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
-        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp"
+        "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp",
+        "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp",
+        "Dutch Eerste Divisie": "assets/logos/leagues/dutch-eerste-divisie.webp",
+        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
+        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp"
     }
 }
