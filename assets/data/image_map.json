@@ -4048,7 +4048,11 @@
         "FC Hegelmann": "assets/logos/upstreams/fc-hegelmann.webp",
         "FK Transinvest": "assets/logos/upstreams/fk-transinvest.webp",
         "Kanchanaburi": "assets/logos/upstreams/kanchanaburi.webp",
-        "Pathum United": "assets/logos/upstreams/pathum-united.webp"
+        "Pathum United": "assets/logos/upstreams/pathum-united.webp",
+        "RFS": "assets/logos/upstreams/rfs.webp",
+        "FK Auda": "assets/logos/upstreams/fk-auda.webp",
+        "William O'Connor": "assets/logos/upstreams/william-oconnor.webp",
+        "Sebastian Bia\u0142ecki": "assets/logos/upstreams/sebastian-bia\u0142ecki.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4604,6 +4608,7 @@
         "Romania Superliga": "assets/logos/leagues/romania-superliga.webp",
         "Bulgaria efbet League": "assets/logos/leagues/bulgaria-efbet-league.webp",
         "TOPLYGA": "assets/logos/leagues/toplyga.webp",
-        "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp"
+        "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp",
+        "German Darts Grand Prix": "assets/logos/leagues/german-darts-grand-prix.webp"
     }
 }
