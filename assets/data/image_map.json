@@ -4042,7 +4042,13 @@
         "Metalist 1925": "assets/logos/upstreams/metalist-1925.webp",
         "Ceadir-Lunga": "assets/logos/upstreams/ceadir-lunga.webp",
         "Gloria": "assets/logos/upstreams/gloria.webp",
-        "Juventus": "assets/logos/upstreams/juventus.webp"
+        "Juventus": "assets/logos/upstreams/juventus.webp",
+        "Yeka": "assets/logos/upstreams/yeka.webp",
+        "Bench Maji Bunna": "assets/logos/upstreams/bench-maji-bunna.webp",
+        "FC Hegelmann": "assets/logos/upstreams/fc-hegelmann.webp",
+        "FK Transinvest": "assets/logos/upstreams/fk-transinvest.webp",
+        "Kanchanaburi": "assets/logos/upstreams/kanchanaburi.webp",
+        "Pathum United": "assets/logos/upstreams/pathum-united.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4595,6 +4601,9 @@
         "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp",
         "Super Liga, Championship Round": "assets/logos/leagues/super-liga-championship-round.webp",
         "Spanish Liga F Women": "assets/logos/leagues/spanish-liga-f-women.webp",
-        "Romania Superliga": "assets/logos/leagues/romania-superliga.webp"
+        "Romania Superliga": "assets/logos/leagues/romania-superliga.webp",
+        "Bulgaria efbet League": "assets/logos/leagues/bulgaria-efbet-league.webp",
+        "TOPLYGA": "assets/logos/leagues/toplyga.webp",
+        "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp"
     }
 }
