@@ -4029,7 +4029,9 @@
         "Pohang": "assets/logos/upstreams/pohang.webp",
         "Daejeon": "assets/logos/upstreams/daejeon.webp",
         "Melbourne Maverick W": "assets/logos/upstreams/melbourne-maverick-w.webp",
-        "Adelaide Thunderbirds W": "assets/logos/upstreams/adelaide-thunderbirds-w.webp"
+        "Adelaide Thunderbirds W": "assets/logos/upstreams/adelaide-thunderbirds-w.webp",
+        "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp",
+        "Persis Solo": "assets/logos/upstreams/persis-solo.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
