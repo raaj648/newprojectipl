@@ -4132,7 +4132,35 @@
         "Duncan": "assets/logos/upstreams/duncan.webp",
         "ATP 250: Fayez Sarofim & Co. U.S. Men's Clay Court Championship": "assets/logos/upstreams/atp-250-fayez-sarofim-co-us-mens-clay-court-championship.webp",
         "Houston": "assets/logos/upstreams/houston.webp",
-        "WS Wanderers": "assets/logos/upstreams/ws-wanderers.webp"
+        "WS Wanderers": "assets/logos/upstreams/ws-wanderers.webp",
+        "Young Africans": "assets/logos/upstreams/young-africans.webp",
+        "Tanzania Prisons": "assets/logos/upstreams/tanzania-prisons.webp",
+        "Plzen": "assets/logos/upstreams/plzen.webp",
+        "Mladost": "assets/logos/upstreams/mladost.webp",
+        "Omonia Nicosia": "assets/logos/upstreams/omonia-nicosia.webp",
+        "Pafos FC": "assets/logos/upstreams/pafos-fc.webp",
+        "Omonia Aradippou": "assets/logos/upstreams/omonia-aradippou.webp",
+        "AEL Limassol": "assets/logos/upstreams/ael-limassol.webp",
+        "Sp Subotica": "assets/logos/upstreams/sp-subotica.webp",
+        "Javor": "assets/logos/upstreams/javor.webp",
+        "Danilovgrad": "assets/logos/upstreams/danilovgrad.webp",
+        "KK Kotor": "assets/logos/upstreams/kk-kotor.webp",
+        "Kk Primorje Herceg Novi 1945": "assets/logos/upstreams/kk-primorje-herceg-novi-1945.webp",
+        "Kk Vukovi Zeta": "assets/logos/upstreams/kk-vukovi-zeta.webp",
+        "Promitheas": "assets/logos/upstreams/promitheas.webp",
+        "Cameron Norrie": "assets/logos/upstreams/cameron-norrie.webp",
+        "Miomir Kecmanovi\u0107": "assets/logos/upstreams/miomir-kecmanovi\u0107.webp",
+        "Ethan Cook": "assets/logos/upstreams/ethan-cook.webp",
+        "Ryuki Matsuda": "assets/logos/upstreams/ryuki-matsuda.webp",
+        "Tai Leonard Sach": "assets/logos/upstreams/tai-leonard-sach.webp",
+        "Hanyi Liu": "assets/logos/upstreams/hanyi-liu.webp",
+        "Yusuke Takahashi": "assets/logos/upstreams/yusuke-takahashi.webp",
+        "Sergey Betov": "assets/logos/upstreams/sergey-betov.webp",
+        "Marton Fucsovics": "assets/logos/upstreams/marton-fucsovics.webp",
+        "Alejandro Tabilo": "assets/logos/upstreams/alejandro-tabilo.webp",
+        "Gael Monfils": "assets/logos/upstreams/gael-monfils.webp",
+        "Moise Kouame": "assets/logos/upstreams/moise-kouame.webp",
+        "Ugo Humbert": "assets/logos/upstreams/ugo-humbert.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4714,6 +4742,10 @@
         "Campeonato Nacional, Women": "assets/logos/leagues/campeonato-nacional-women.webp",
         "Fight Night Guilherme Pat Thomas Petersen": "assets/logos/leagues/fight-night-guilherme-pat-thomas-petersen.webp",
         "Atp": "assets/logos/leagues/atp.webp",
-        "Fight Night": "assets/logos/leagues/fight-night.webp"
+        "Fight Night": "assets/logos/leagues/fight-night.webp",
+        "Cyprus League by Stoiximan, Championship group": "assets/logos/leagues/cyprus-league-by-stoiximan-championship-group.webp",
+        "Cyprus League by Stoiximan, Relegation group": "assets/logos/leagues/cyprus-league-by-stoiximan-relegation-group.webp",
+        "Greece - Super League - Gr.Retrogradare": "assets/logos/leagues/greece-super-league-grretrogradare.webp",
+        "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp"
     }
 }
