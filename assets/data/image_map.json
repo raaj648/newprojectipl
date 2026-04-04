@@ -3922,7 +3922,12 @@
         "Radnicki 1923": "assets/logos/upstreams/radnicki-1923.webp",
         "Mladost Lucani": "assets/logos/upstreams/mladost-lucani.webp",
         "B68 Toftir": "assets/logos/upstreams/b68-toftir.webp",
-        "NSI Runavik": "assets/logos/upstreams/nsi-runavik.webp"
+        "NSI Runavik": "assets/logos/upstreams/nsi-runavik.webp",
+        "Orlando Storm": "assets/logos/streamed/orlando-storm.webp",
+        "Louisville Kings": "assets/logos/streamed/louisville-kings.webp",
+        "Chiangmai United": "assets/logos/upstreams/chiangmai-united.webp",
+        "Rasisalai United": "assets/logos/upstreams/rasisalai-united.webp",
+        "Mazatlan FC": "assets/logos/upstreams/mazatlan-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4463,6 +4468,7 @@
         "UTR PTT Carvoeiro Women +H 05, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-13-16-playoffs.webp",
         "Italy - Serie A (W)": "assets/logos/leagues/italy-serie-a-w.webp",
         "UTR PTT Carvoeiro Men +H 05, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-13-16-playoffs.webp",
-        "UTR PTT Carvoeiro Women +H 05, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-5-8-playoffs.webp"
+        "UTR PTT Carvoeiro Women +H 05, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-5-8-playoffs.webp",
+        "One Day International Women": "assets/logos/leagues/one-day-international-women.webp"
     }
 }
