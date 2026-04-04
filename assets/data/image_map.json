@@ -3933,7 +3933,9 @@
         "Mumbai City FC": "assets/logos/upstreams/mumbai-city-fc.webp",
         "Odisha FC": "assets/logos/upstreams/odisha-fc.webp",
         "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp",
-        "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp"
+        "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp",
+        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
+        "York City Knights": "assets/logos/streamed/york-city-knights.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
