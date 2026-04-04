@@ -4219,7 +4219,16 @@
         "Fustecma NBF Castell\u00f3": "assets/logos/upstreams/fustecma-nbf-castell\u00f3.webp",
         "Harlequins": "assets/logos/upstreams/harlequins.webp",
         "Fanming Meng": "assets/logos/upstreams/fanming-meng.webp",
-        "Pavle Marinkov": "assets/logos/upstreams/pavle-marinkov.webp"
+        "Pavle Marinkov": "assets/logos/upstreams/pavle-marinkov.webp",
+        "FC Barcelona --- ENG 2": "assets/logos/upstreams/fc-barcelona-eng-2.webp",
+        "Brillantes del Zulia": "assets/logos/upstreams/brillantes-del-zulia.webp",
+        "Gaiteros del Zulia": "assets/logos/upstreams/gaiteros-del-zulia.webp",
+        "Diablos de Miranda": "assets/logos/upstreams/diablos-de-miranda.webp",
+        "Atl\u00e9ticos de San Germ\u00e1n": "assets/logos/upstreams/atl\u00e9ticos-de-san-germ\u00e1n.webp",
+        "Mets de Guaynabo": "assets/logos/upstreams/mets-de-guaynabo.webp",
+        "Bayamon": "assets/logos/upstreams/bayamon.webp",
+        "Ben Jones": "assets/logos/upstreams/ben-jones.webp",
+        "Yuki Mochizuki": "assets/logos/upstreams/yuki-mochizuki.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4809,6 +4818,8 @@
         "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
         "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp",
         "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
-        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp"
+        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp",
+        "Spanish La Liga": "assets/logos/leagues/spanish-la-liga.webp",
+        "UTR PTT Trnava Women 03, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-17-20-playoffs.webp"
     }
 }
