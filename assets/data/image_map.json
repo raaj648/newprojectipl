@@ -4009,7 +4009,9 @@
         "Herons": "assets/logos/upstreams/herons.webp",
         "Legnano": "assets/logos/upstreams/legnano.webp",
         "Omegna": "assets/logos/upstreams/omegna.webp",
-        "Fiorenzuola": "assets/logos/upstreams/fiorenzuola.webp"
+        "Fiorenzuola": "assets/logos/upstreams/fiorenzuola.webp",
+        "GWS Giants W": "assets/logos/upstreams/gws-giants-w.webp",
+        "Queensland Firebirds W": "assets/logos/upstreams/queensland-firebirds-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4558,6 +4560,7 @@
         "Zweite Liga, Playoffs": "assets/logos/leagues/zweite-liga-playoffs.webp",
         "Segunda FEB, Group East": "assets/logos/leagues/segunda-feb-group-east.webp",
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
-        "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp"
+        "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
+        "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp"
     }
 }
