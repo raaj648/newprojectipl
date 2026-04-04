@@ -3939,7 +3939,14 @@
         "Warrington Wolves": "assets/logos/streamed/warrington-wolves.webp",
         "Leigh Leopards": "assets/logos/streamed/leigh-leopards.webp",
         "Catalans Dragons": "assets/logos/streamed/catalans-dragons.webp",
-        "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp"
+        "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
+        "Thiago Augustin Tirante": "assets/logos/upstreams/thiago-augustin-tirante.webp",
+        "BC Rilski Sportist": "assets/logos/upstreams/bc-rilski-sportist.webp",
+        "Lokomotiv Plovdiv 1926": "assets/logos/upstreams/lokomotiv-plovdiv-1926.webp",
+        "Pallacanestro Aurora Desio": "assets/logos/upstreams/pallacanestro-aurora-desio.webp",
+        "Moncada Energy Group Agrigento": "assets/logos/upstreams/moncada-energy-group-agrigento.webp",
+        "Rimini": "assets/logos/upstreams/rimini.webp",
+        "MEastre": "assets/logos/upstreams/meastre.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4482,6 +4489,8 @@
         "UTR PTT Carvoeiro Men +H 05, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-13-16-playoffs.webp",
         "UTR PTT Carvoeiro Women +H 05, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-5-8-playoffs.webp",
         "One Day International Women": "assets/logos/leagues/one-day-international-women.webp",
-        "South Korea K League": "assets/logos/leagues/south-korea-k-league.webp"
+        "South Korea K League": "assets/logos/leagues/south-korea-k-league.webp",
+        "Bulgaria NBL": "assets/logos/leagues/bulgaria-nbl.webp",
+        "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp"
     }
 }
