@@ -4329,7 +4329,22 @@
         "Alina Charaeva": "assets/logos/upstreams/alina-charaeva.webp",
         "Nicoll Stewart": "assets/logos/upstreams/nicoll-stewart.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
-        "Wakefield Trinity Wildcats": "assets/logos/streamed/wakefield-trinity-wildcats.webp"
+        "Wakefield Trinity Wildcats": "assets/logos/streamed/wakefield-trinity-wildcats.webp",
+        "Everton": "assets/logos/upstreams/everton.webp",
+        "Nublense": "assets/logos/upstreams/nublense.webp",
+        "UConn": "assets/logos/upstreams/uconn.webp",
+        "Sandy Point FC": "assets/logos/upstreams/sandy-point-fc.webp",
+        "Connecticut Huskies": "assets/logos/upstreams/connecticut-huskies.webp",
+        "Illinois Fighting Illini": "assets/logos/upstreams/illinois-fighting-illini.webp",
+        "Filippo Romano": "assets/logos/upstreams/filippo-romano.webp",
+        "Petr Brunclik": "assets/logos/upstreams/petr-brunclik.webp",
+        "Radu Albot": "assets/logos/upstreams/radu-albot.webp",
+        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp",
+        "Carlo Alberto Caniato": "assets/logos/upstreams/carlo-alberto-caniato.webp",
+        "Neil Oberleitner": "assets/logos/upstreams/neil-oberleitner.webp",
+        "Tomasz Berkieta": "assets/logos/upstreams/tomasz-berkieta.webp",
+        "Luke Woodhouse": "assets/logos/upstreams/luke-woodhouse.webp",
+        "Kim Huybrechts": "assets/logos/upstreams/kim-huybrechts.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4927,6 +4942,9 @@
         "Spain - LEB Oro": "assets/logos/leagues/spain-leb-oro.webp",
         "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp",
         "Primera FEB": "assets/logos/leagues/primera-feb.webp",
-        "Linz, Austria, Qualifying": "assets/logos/leagues/linz-austria-qualifying.webp"
+        "Linz, Austria, Qualifying": "assets/logos/leagues/linz-austria-qualifying.webp",
+        "Saint Kitts & Nevis - Premier League": "assets/logos/leagues/saint-kitts-nevis-premier-league.webp",
+        "NCAA Men's March Madness": "assets/logos/leagues/ncaa-mens-march-madness.webp",
+        "Monza, Italy, Qualifying": "assets/logos/leagues/monza-italy-qualifying.webp"
     }
 }
