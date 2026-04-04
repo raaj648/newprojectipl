@@ -3931,7 +3931,9 @@
         "St. George Illawara Dragons": "assets/logos/streamed/st-george-illawara-dragons.webp",
         "North Queensland Cowboys": "assets/logos/streamed/north-queensland-cowboys.webp",
         "Mumbai City FC": "assets/logos/upstreams/mumbai-city-fc.webp",
-        "Odisha FC": "assets/logos/upstreams/odisha-fc.webp"
+        "Odisha FC": "assets/logos/upstreams/odisha-fc.webp",
+        "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp",
+        "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
