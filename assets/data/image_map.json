@@ -4025,7 +4025,11 @@
         "Dalian Yingbo B": "assets/logos/upstreams/dalian-yingbo-b.webp",
         "Shanghai Segenda": "assets/logos/upstreams/shanghai-segenda.webp",
         "St George Illawarra Dragons": "assets/logos/upstreams/st-george-illawarra-dragons.webp",
-        "NQ Cowboys": "assets/logos/upstreams/nq-cowboys.webp"
+        "NQ Cowboys": "assets/logos/upstreams/nq-cowboys.webp",
+        "Pohang": "assets/logos/upstreams/pohang.webp",
+        "Daejeon": "assets/logos/upstreams/daejeon.webp",
+        "Melbourne Maverick W": "assets/logos/upstreams/melbourne-maverick-w.webp",
+        "Adelaide Thunderbirds W": "assets/logos/upstreams/adelaide-thunderbirds-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
