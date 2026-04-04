@@ -4160,7 +4160,28 @@
         "Alejandro Tabilo": "assets/logos/upstreams/alejandro-tabilo.webp",
         "Gael Monfils": "assets/logos/upstreams/gael-monfils.webp",
         "Moise Kouame": "assets/logos/upstreams/moise-kouame.webp",
-        "Ugo Humbert": "assets/logos/upstreams/ugo-humbert.webp"
+        "Ugo Humbert": "assets/logos/upstreams/ugo-humbert.webp",
+        "Neom SC": "assets/logos/upstreams/neom-sc.webp",
+        "Etoile Filante Ouagadougou": "assets/logos/upstreams/etoile-filante-ouagadougou.webp",
+        "Sporting Cascades": "assets/logos/upstreams/sporting-cascades.webp",
+        "Rahimo FC": "assets/logos/upstreams/rahimo-fc.webp",
+        "Vitesse FC": "assets/logos/upstreams/vitesse-fc.webp",
+        "Ajeb FC": "assets/logos/upstreams/ajeb-fc.webp",
+        "K\u0117daini\u0173 Nev\u0117\u017eis": "assets/logos/upstreams/k\u0117daini\u0173-nev\u0117\u017eis.webp",
+        "KK Mornar Bar": "assets/logos/upstreams/kk-mornar-bar.webp",
+        "KK Podgorica": "assets/logos/upstreams/kk-podgorica.webp",
+        "Sea Stars": "assets/logos/upstreams/sea-stars.webp",
+        "ZKK Primorje": "assets/logos/upstreams/zkk-primorje.webp",
+        "KK Kolubara Lazarevac 2003": "assets/logos/upstreams/kk-kolubara-lazarevac-2003.webp",
+        "KK Beko": "assets/logos/upstreams/kk-beko.webp",
+        "KK Mladost Smederevska Palanka": "assets/logos/upstreams/kk-mladost-smederevska-palanka.webp",
+        "KK Loznica": "assets/logos/upstreams/kk-loznica.webp",
+        "Glasgow Warriors": "assets/logos/upstreams/glasgow-warriors.webp",
+        "Benetton": "assets/logos/upstreams/benetton.webp",
+        "Kody Pearson": "assets/logos/upstreams/kody-pearson.webp",
+        "Matisse Bobichon": "assets/logos/upstreams/matisse-bobichon.webp",
+        "Xianfeng Chen": "assets/logos/upstreams/xianfeng-chen.webp",
+        "Mitsuki Wei Kang Leong": "assets/logos/upstreams/mitsuki-wei-kang-leong.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4746,6 +4767,8 @@
         "Cyprus League by Stoiximan, Championship group": "assets/logos/leagues/cyprus-league-by-stoiximan-championship-group.webp",
         "Cyprus League by Stoiximan, Relegation group": "assets/logos/leagues/cyprus-league-by-stoiximan-relegation-group.webp",
         "Greece - Super League - Gr.Retrogradare": "assets/logos/leagues/greece-super-league-grretrogradare.webp",
-        "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp"
+        "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp",
+        "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
+        "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp"
     }
 }
