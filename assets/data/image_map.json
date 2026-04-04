@@ -4188,7 +4188,32 @@
         "SC Juvecaserta 2021": "assets/logos/upstreams/sc-juvecaserta-2021.webp",
         "Psa Basket Casoria": "assets/logos/upstreams/psa-basket-casoria.webp",
         "Michael Smith": "assets/logos/upstreams/michael-smith.webp",
-        "James Hurrell": "assets/logos/upstreams/james-hurrell.webp"
+        "James Hurrell": "assets/logos/upstreams/james-hurrell.webp",
+        "\u00dajpest": "assets/logos/upstreams/\u00fajpest.webp",
+        "MTK Budapest": "assets/logos/upstreams/mtk-budapest.webp",
+        "Tychy": "assets/logos/upstreams/tychy.webp",
+        "Pruszkow": "assets/logos/upstreams/pruszkow.webp",
+        "Club Brugge KV U23": "assets/logos/upstreams/club-brugge-kv-u23.webp",
+        "Lommel SK": "assets/logos/upstreams/lommel-sk.webp",
+        "RWDM Brussels": "assets/logos/upstreams/rwdm-brussels.webp",
+        "Danubio": "assets/logos/upstreams/danubio.webp",
+        "Montevideo City Torque": "assets/logos/upstreams/montevideo-city-torque.webp",
+        "El Gouna FC": "assets/logos/upstreams/el-gouna-fc.webp",
+        "Al-Ittihad Alexandria": "assets/logos/upstreams/al-ittihad-alexandria.webp",
+        "Modern Sport FC": "assets/logos/upstreams/modern-sport-fc.webp",
+        "Wadi Degla": "assets/logos/upstreams/wadi-degla.webp",
+        "Namungo": "assets/logos/upstreams/namungo.webp",
+        "JKT Tanzania": "assets/logos/upstreams/jkt-tanzania.webp",
+        "KK Klik Arilje": "assets/logos/upstreams/kk-klik-arilje.webp",
+        "OKK Konstantin Ni\u0161": "assets/logos/upstreams/okk-konstantin-ni\u0161.webp",
+        "Basquet Sant Antoni": "assets/logos/upstreams/basquet-sant-antoni.webp",
+        "Cb Zaragoza": "assets/logos/upstreams/cb-zaragoza.webp",
+        "Carl Emil Overbeck": "assets/logos/upstreams/carl-emil-overbeck.webp",
+        "Joshua Charlton": "assets/logos/upstreams/joshua-charlton.webp",
+        "Ryo Tabata": "assets/logos/upstreams/ryo-tabata.webp",
+        "Uisung Park": "assets/logos/upstreams/uisung-park.webp",
+        "Dirk van Duijvenbode": "assets/logos/upstreams/dirk-van-duijvenbode.webp",
+        "Stephen Burton": "assets/logos/upstreams/stephen-burton.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4776,6 +4801,7 @@
         "Greece - Super League - Gr.Retrogradare": "assets/logos/leagues/greece-super-league-grretrogradare.webp",
         "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp",
         "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
-        "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp"
+        "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp",
+        "Poland Division 1": "assets/logos/leagues/poland-division-1.webp"
     }
 }
