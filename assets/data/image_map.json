@@ -3604,7 +3604,17 @@
         "Cuenca": "assets/logos/upstreams/cuenca.webp",
         "Nava": "assets/logos/upstreams/nava.webp",
         "Morrazo Cangas": "assets/logos/upstreams/morrazo-cangas.webp",
-        "Agustinos Alicante": "assets/logos/upstreams/agustinos-alicante.webp"
+        "Agustinos Alicante": "assets/logos/upstreams/agustinos-alicante.webp",
+        "Internacional de Bogota": "assets/logos/streamed/internacional-de-bogota.webp",
+        "Seattle Sounders": "assets/logos/streamed/seattle-sounders.webp",
+        "St Pauli": "assets/logos/streamed/st-pauli.webp",
+        "Metz": "assets/logos/streamed/metz.webp",
+        "Le Havre": "assets/logos/streamed/le-havre.webp",
+        "Auxerre": "assets/logos/streamed/auxerre.webp",
+        "FC K\u00f6ln": "assets/logos/streamed/fc-k\u00f6ln.webp",
+        "Inter Milan": "assets/logos/streamed/inter-milan.webp",
+        "Roma": "assets/logos/streamed/roma.webp",
+        "Deportivo Alav\u00e9s": "assets/logos/streamed/deportivo-alav\u00e9s.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
