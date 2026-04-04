@@ -4093,7 +4093,18 @@
         "Michalovce": "assets/logos/upstreams/michalovce.webp",
         "Gangwon": "assets/logos/upstreams/gangwon.webp",
         "Henan Songshan": "assets/logos/upstreams/henan-songshan.webp",
-        "Liaoning Tieren": "assets/logos/upstreams/liaoning-tieren.webp"
+        "Liaoning Tieren": "assets/logos/upstreams/liaoning-tieren.webp",
+        "Beveren": "assets/logos/upstreams/beveren.webp",
+        "Ilves": "assets/logos/upstreams/ilves.webp",
+        "Kuopion Palloseura": "assets/logos/upstreams/kuopion-palloseura.webp",
+        "IFK Mariehamn": "assets/logos/upstreams/ifk-mariehamn.webp",
+        "TPS": "assets/logos/upstreams/tps.webp",
+        "Warrington": "assets/logos/upstreams/warrington.webp",
+        "Leigh": "assets/logos/upstreams/leigh.webp",
+        "Huddersfield": "assets/logos/upstreams/huddersfield.webp",
+        "Dunfermline": "assets/logos/upstreams/dunfermline.webp",
+        "Morton": "assets/logos/upstreams/morton.webp",
+        "RC Toulonnais": "assets/logos/upstreams/rc-toulonnais.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4663,6 +4674,7 @@
         "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp",
         "European Tour 4 - German Darts Grand Prix 2026": "assets/logos/leagues/european-tour-4-german-darts-grand-prix-2026.webp",
         "Slovakia Nike liga": "assets/logos/leagues/slovakia-nike-liga.webp",
-        "China Super League": "assets/logos/leagues/china-super-league.webp"
+        "China Super League": "assets/logos/leagues/china-super-league.webp",
+        "Scottish Championship": "assets/logos/leagues/scottish-championship.webp"
     }
 }
