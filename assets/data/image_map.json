@@ -4031,7 +4031,17 @@
         "Melbourne Maverick W": "assets/logos/upstreams/melbourne-maverick-w.webp",
         "Adelaide Thunderbirds W": "assets/logos/upstreams/adelaide-thunderbirds-w.webp",
         "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp",
-        "Persis Solo": "assets/logos/upstreams/persis-solo.webp"
+        "Persis Solo": "assets/logos/upstreams/persis-solo.webp",
+        "DUX Logrono W": "assets/logos/upstreams/dux-logrono-w.webp",
+        "Granada CF W": "assets/logos/upstreams/granada-cf-w.webp",
+        "Espanyol W": "assets/logos/upstreams/espanyol-w.webp",
+        "Corvinul": "assets/logos/upstreams/corvinul.webp",
+        "Sepsi Sf Gheorghe": "assets/logos/upstreams/sepsi-sf-gheorghe.webp",
+        "Serik Spor": "assets/logos/upstreams/serik-spor.webp",
+        "Kolos Kovalivka": "assets/logos/upstreams/kolos-kovalivka.webp",
+        "Metalist 1925": "assets/logos/upstreams/metalist-1925.webp",
+        "Ceadir-Lunga": "assets/logos/upstreams/ceadir-lunga.webp",
+        "Gloria": "assets/logos/upstreams/gloria.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4582,6 +4592,8 @@
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
         "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
         "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp",
-        "Super Liga, Championship Round": "assets/logos/leagues/super-liga-championship-round.webp"
+        "Super Liga, Championship Round": "assets/logos/leagues/super-liga-championship-round.webp",
+        "Spanish Liga F Women": "assets/logos/leagues/spanish-liga-f-women.webp",
+        "Romania Superliga": "assets/logos/leagues/romania-superliga.webp"
     }
 }
