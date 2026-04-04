@@ -4012,7 +4012,20 @@
         "Fiorenzuola": "assets/logos/upstreams/fiorenzuola.webp",
         "GWS Giants W": "assets/logos/upstreams/gws-giants-w.webp",
         "Queensland Firebirds W": "assets/logos/upstreams/queensland-firebirds-w.webp",
-        "Dawid Lewandowski": "assets/logos/upstreams/dawid-lewandowski.webp"
+        "Dawid Lewandowski": "assets/logos/upstreams/dawid-lewandowski.webp",
+        "FK Radnik Bijeljina": "assets/logos/upstreams/fk-radnik-bijeljina.webp",
+        "NK \u0160iroki Brijeg": "assets/logos/upstreams/nk-\u0161iroki-brijeg.webp",
+        "Spartanii Selemet": "assets/logos/upstreams/spartanii-selemet.webp",
+        "Berane": "assets/logos/upstreams/berane.webp",
+        "FK Podgorica": "assets/logos/upstreams/fk-podgorica.webp",
+        "FC Milsami Orhei": "assets/logos/upstreams/fc-milsami-orhei.webp",
+        "Dacia Buiucani": "assets/logos/upstreams/dacia-buiucani.webp",
+        "Club Always Ready": "assets/logos/upstreams/club-always-ready.webp",
+        "CD Real Tomayapo": "assets/logos/upstreams/cd-real-tomayapo.webp",
+        "Dalian Yingbo B": "assets/logos/upstreams/dalian-yingbo-b.webp",
+        "Shanghai Segenda": "assets/logos/upstreams/shanghai-segenda.webp",
+        "St George Illawarra Dragons": "assets/logos/upstreams/st-george-illawarra-dragons.webp",
+        "NQ Cowboys": "assets/logos/upstreams/nq-cowboys.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4562,6 +4575,7 @@
         "Segunda FEB, Group East": "assets/logos/leagues/segunda-feb-group-east.webp",
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
         "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
-        "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp"
+        "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp",
+        "Super Liga, Championship Round": "assets/logos/leagues/super-liga-championship-round.webp"
     }
 }
