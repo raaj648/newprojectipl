@@ -3935,7 +3935,11 @@
         "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp",
         "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp",
         "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
-        "York City Knights": "assets/logos/streamed/york-city-knights.webp"
+        "York City Knights": "assets/logos/streamed/york-city-knights.webp",
+        "Warrington Wolves": "assets/logos/streamed/warrington-wolves.webp",
+        "Leigh Leopards": "assets/logos/streamed/leigh-leopards.webp",
+        "Catalans Dragons": "assets/logos/streamed/catalans-dragons.webp",
+        "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
