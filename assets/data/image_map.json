@@ -4213,7 +4213,13 @@
         "Ryo Tabata": "assets/logos/upstreams/ryo-tabata.webp",
         "Uisung Park": "assets/logos/upstreams/uisung-park.webp",
         "Dirk van Duijvenbode": "assets/logos/upstreams/dirk-van-duijvenbode.webp",
-        "Stephen Burton": "assets/logos/upstreams/stephen-burton.webp"
+        "Stephen Burton": "assets/logos/upstreams/stephen-burton.webp",
+        "STVV": "assets/logos/upstreams/stvv.webp",
+        "Bosonit Unibasket Logro\u00f1o": "assets/logos/upstreams/bosonit-unibasket-logro\u00f1o.webp",
+        "Fustecma NBF Castell\u00f3": "assets/logos/upstreams/fustecma-nbf-castell\u00f3.webp",
+        "Harlequins": "assets/logos/upstreams/harlequins.webp",
+        "Fanming Meng": "assets/logos/upstreams/fanming-meng.webp",
+        "Pavle Marinkov": "assets/logos/upstreams/pavle-marinkov.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -4802,6 +4808,7 @@
         "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp",
         "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
         "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp",
-        "Poland Division 1": "assets/logos/leagues/poland-division-1.webp"
+        "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
+        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp"
     }
 }
