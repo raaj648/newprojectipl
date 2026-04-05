@@ -4883,7 +4883,19 @@
         "Bolu": "assets/logos/upstreams/bolu.webp",
         "Apollon Limassol": "assets/logos/upstreams/apollon-limassol.webp",
         "AEK Larnaca": "assets/logos/upstreams/aek-larnaca.webp",
-        "Trnava": "assets/logos/upstreams/trnava.webp"
+        "Trnava": "assets/logos/upstreams/trnava.webp",
+        "Sparta Prague": "assets/logos/upstreams/sparta-prague.webp",
+        "MFK Karvina": "assets/logos/upstreams/mfk-karvina.webp",
+        "Westerlo": "assets/logos/upstreams/westerlo.webp",
+        "Charleroi": "assets/logos/upstreams/charleroi.webp",
+        "Salitas FC": "assets/logos/upstreams/salitas-fc.webp",
+        "FC Kallon": "assets/logos/upstreams/fc-kallon.webp",
+        "BO Rangers": "assets/logos/upstreams/bo-rangers.webp",
+        "Azam": "assets/logos/upstreams/azam.webp",
+        "Simba": "assets/logos/upstreams/simba.webp",
+        "KK Budu\u0107nost VOLI": "assets/logos/upstreams/kk-budu\u0107nost-voli.webp",
+        "Chavdar Troyan": "assets/logos/upstreams/chavdar-troyan.webp",
+        "Philip Sekulic": "assets/logos/upstreams/philip-sekulic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5520,6 +5532,7 @@
         "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
         "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp",
         "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
-        "Denmark Superliga": "assets/logos/leagues/denmark-superliga.webp"
+        "Denmark Superliga": "assets/logos/leagues/denmark-superliga.webp",
+        "1. Liga": "assets/logos/leagues/1-liga.webp"
     }
 }
