@@ -4664,7 +4664,11 @@
         "van Son Didoni": "assets/logos/upstreams/van-son-didoni.webp",
         "Abdulrakhman Yakhyaev": "assets/logos/upstreams/abdulrakhman-yakhyaev.webp",
         "Michael Vrbensky": "assets/logos/upstreams/michael-vrbensky.webp",
-        "Xintong Z.": "assets/logos/upstreams/xintong-z.webp"
+        "Xintong Z.": "assets/logos/upstreams/xintong-z.webp",
+        "ASKO Kara": "assets/logos/upstreams/asko-kara.webp",
+        "Tambo FC": "assets/logos/upstreams/tambo-fc.webp",
+        "Gbohloesu": "assets/logos/upstreams/gbohloesu.webp",
+        "Etoile Filante Lome": "assets/logos/upstreams/etoile-filante-lome.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5284,6 +5288,7 @@
         "Primera Divisi\u00f3n, Clausura": "assets/logos/leagues/primera-divisi\u00f3n-clausura.webp",
         "PWHL": "assets/logos/leagues/pwhl.webp",
         "ATP Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
-        "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp"
+        "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp",
+        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp"
     }
 }
