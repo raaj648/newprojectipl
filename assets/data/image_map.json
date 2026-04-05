@@ -4725,7 +4725,14 @@
         "Victor Hugo Remondy Pagotto": "assets/logos/upstreams/victor-hugo-remondy-pagotto.webp",
         "Arklon Huertas Del Pino Cordova": "assets/logos/upstreams/arklon-huertas-del-pino-cordova.webp",
         "Wilson Leite": "assets/logos/upstreams/wilson-leite.webp",
-        "Jose Pereira": "assets/logos/upstreams/jose-pereira.webp"
+        "Jose Pereira": "assets/logos/upstreams/jose-pereira.webp",
+        "Daniel Lara Salmeron": "assets/logos/upstreams/daniel-lara-salmeron.webp",
+        "Ryan Colby": "assets/logos/upstreams/ryan-colby.webp",
+        "Benjamin Kittay": "assets/logos/upstreams/benjamin-kittay.webp",
+        "Strong Kirchheimer": "assets/logos/upstreams/strong-kirchheimer.webp",
+        "Teodor Davidov": "assets/logos/upstreams/teodor-davidov.webp",
+        "Ronit Karki": "assets/logos/upstreams/ronit-karki.webp",
+        "Felix Corwin": "assets/logos/upstreams/felix-corwin.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5347,6 +5354,7 @@
         "ATP Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
         "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp",
         "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
-        "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp"
+        "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp",
+        "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp"
     }
 }
