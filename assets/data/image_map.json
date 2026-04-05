@@ -4796,7 +4796,35 @@
         "Yusra Irakoze": "assets/logos/upstreams/yusra-irakoze.webp",
         "Sofia Avataneo": "assets/logos/upstreams/sofia-avataneo.webp",
         "Ross Smith": "assets/logos/upstreams/ross-smith.webp",
-        "Patrik Kov\u00e1cs": "assets/logos/upstreams/patrik-kov\u00e1cs.webp"
+        "Patrik Kov\u00e1cs": "assets/logos/upstreams/patrik-kov\u00e1cs.webp",
+        "Hannover 96": "assets/logos/upstreams/hannover-96.webp",
+        "SV 07 Elversberg": "assets/logos/upstreams/sv-07-elversberg.webp",
+        "Hartberg": "assets/logos/upstreams/hartberg.webp",
+        "Salzburg": "assets/logos/upstreams/salzburg.webp",
+        "DVTK": "assets/logos/upstreams/dvtk.webp",
+        "Puskas Academy": "assets/logos/upstreams/puskas-academy.webp",
+        "Shakhtar Donetsk": "assets/logos/upstreams/shakhtar-donetsk.webp",
+        "Rukh Lviv": "assets/logos/upstreams/rukh-lviv.webp",
+        "Obolon": "assets/logos/upstreams/obolon.webp",
+        "FK Zorya Luhansk": "assets/logos/upstreams/fk-zorya-luhansk.webp",
+        "FK Tukums 2000": "assets/logos/upstreams/fk-tukums-2000.webp",
+        "FK Grobi\u0146a": "assets/logos/upstreams/fk-grobi\u0146a.webp",
+        "Cerro Largo": "assets/logos/upstreams/cerro-largo.webp",
+        "Shabana": "assets/logos/upstreams/shabana.webp",
+        "TRA United": "assets/logos/upstreams/tra-united.webp",
+        "Singida Black Stars": "assets/logos/upstreams/singida-black-stars.webp",
+        "Achnas": "assets/logos/upstreams/achnas.webp",
+        "Anorthosis": "assets/logos/upstreams/anorthosis.webp",
+        "APOEL B.C.": "assets/logos/upstreams/apoel-bc.webp",
+        "Trois-Rivieres Lions": "assets/logos/upstreams/trois-rivieres-lions.webp",
+        "Maine Mariners": "assets/logos/upstreams/maine-mariners.webp",
+        "Raymond Smith": "assets/logos/upstreams/raymond-smith.webp",
+        "Kovacs Patrik": "assets/logos/upstreams/kovacs-patrik.webp",
+        "BBC Nord Dragonz": "assets/logos/upstreams/bbc-nord-dragonz.webp",
+        "F\u00fcrstenfeld Panthers": "assets/logos/upstreams/f\u00fcrstenfeld-panthers.webp",
+        "Traiskirchen Lions": "assets/logos/upstreams/traiskirchen-lions.webp",
+        "Wotton FC": "assets/logos/upstreams/wotton-fc.webp",
+        "Weymouth Wales": "assets/logos/upstreams/weymouth-wales.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5426,6 +5454,10 @@
         "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
         "Russia Premier League": "assets/logos/leagues/russia-premier-league.webp",
         "Turkey Super Lig": "assets/logos/leagues/turkey-super-lig.webp",
-        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp"
+        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
+        "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
+        "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
+        "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp"
     }
 }
