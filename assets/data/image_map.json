@@ -4749,7 +4749,20 @@
         "Carlota Vila Salles": "assets/logos/upstreams/carlota-vila-salles.webp",
         "Bruna Liotto de Carvalho": "assets/logos/upstreams/bruna-liotto-de-carvalho.webp",
         "Maayan Laron": "assets/logos/upstreams/maayan-laron.webp",
-        "Meisha Kendall-Woseley": "assets/logos/upstreams/meisha-kendall-woseley.webp"
+        "Meisha Kendall-Woseley": "assets/logos/upstreams/meisha-kendall-woseley.webp",
+        "Tanjong Pagar United": "assets/logos/upstreams/tanjong-pagar-united.webp",
+        "Lion City Sailors": "assets/logos/upstreams/lion-city-sailors.webp",
+        "Adareva Tenerife (W)": "assets/logos/upstreams/adareva-tenerife-w.webp",
+        "Jordan U20": "assets/logos/upstreams/jordan-u20.webp",
+        "South Korea U20": "assets/logos/upstreams/south-korea-u20.webp",
+        "Samuel Heredia": "assets/logos/upstreams/samuel-heredia.webp",
+        "Alan Fernando Rubio Fierros": "assets/logos/upstreams/alan-fernando-rubio-fierros.webp",
+        "Guillaume Dalmasso": "assets/logos/upstreams/guillaume-dalmasso.webp",
+        "Bor Artnak": "assets/logos/upstreams/bor-artnak.webp",
+        "Carlo Arena Fava": "assets/logos/upstreams/carlo-arena-fava.webp",
+        "Quinn Vandecasteele": "assets/logos/upstreams/quinn-vandecasteele.webp",
+        "Bhayangkara Presisi Lampung FC": "assets/logos/upstreams/bhayangkara-presisi-lampung-fc.webp",
+        "Persija Jakarta": "assets/logos/upstreams/persija-jakarta.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5372,6 +5385,8 @@
         "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp",
         "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
         "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp",
-        "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp"
+        "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp",
+        "U20 AFC Asian Cup, Group B, Women": "assets/logos/leagues/u20-afc-asian-cup-group-b-women.webp",
+        "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp"
     }
 }
