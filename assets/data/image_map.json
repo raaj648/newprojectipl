@@ -4926,7 +4926,23 @@
         "Moez Echargui": "assets/logos/upstreams/moez-echargui.webp",
         "Stefano Travaglia": "assets/logos/upstreams/stefano-travaglia.webp",
         "George Loffhagen": "assets/logos/upstreams/george-loffhagen.webp",
-        "Zsombor Piros": "assets/logos/upstreams/zsombor-piros.webp"
+        "Zsombor Piros": "assets/logos/upstreams/zsombor-piros.webp",
+        "SV Transvaal": "assets/logos/upstreams/sv-transvaal.webp",
+        "Club FC Universitario": "assets/logos/upstreams/club-fc-universitario.webp",
+        "The Strongest": "assets/logos/upstreams/the-strongest.webp",
+        "Liverpool M": "assets/logos/upstreams/liverpool-m.webp",
+        "Ameliano": "assets/logos/upstreams/ameliano.webp",
+        "Ilias Zimmermann": "assets/logos/upstreams/ilias-zimmermann.webp",
+        "Jonas Gundacker": "assets/logos/upstreams/jonas-gundacker.webp",
+        "Botond Kisantal": "assets/logos/upstreams/botond-kisantal.webp",
+        "Kristijan Juhas": "assets/logos/upstreams/kristijan-juhas.webp",
+        "Mia Horvit": "assets/logos/upstreams/mia-horvit.webp",
+        "Laura Svatikova": "assets/logos/upstreams/laura-svatikova.webp",
+        "Alexa Karatantcheva": "assets/logos/upstreams/alexa-karatantcheva.webp",
+        "Nina Radovanovic": "assets/logos/upstreams/nina-radovanovic.webp",
+        "Denis Shapovalov": "assets/logos/upstreams/denis-shapovalov.webp",
+        "Flavio Cobolli": "assets/logos/upstreams/flavio-cobolli.webp",
+        "Valentin Vacherot": "assets/logos/upstreams/valentin-vacherot.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5568,6 +5584,8 @@
         "Egyptian Premier League, Championship Round": "assets/logos/leagues/egyptian-premier-league-championship-round.webp",
         "Egypt Premier League": "assets/logos/leagues/egypt-premier-league.webp",
         "Madrid, Spain": "assets/logos/leagues/madrid-spain.webp",
-        "Monza, Italy": "assets/logos/leagues/monza-italy.webp"
+        "Monza, Italy": "assets/logos/leagues/monza-italy.webp",
+        "UTR PTT Belgrade Women 03, Group C": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-c.webp",
+        "UTR PTT Belgrade Women 03, Group A": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-a.webp"
     }
 }
