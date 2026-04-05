@@ -4774,7 +4774,17 @@
         "Matteo Covato": "assets/logos/upstreams/matteo-covato.webp",
         "Max Wiskandt": "assets/logos/upstreams/max-wiskandt.webp",
         "Rafael De Alba": "assets/logos/upstreams/rafael-de-alba.webp",
-        "Alejandro Hayen": "assets/logos/upstreams/alejandro-hayen.webp"
+        "Alejandro Hayen": "assets/logos/upstreams/alejandro-hayen.webp",
+        "PSV W": "assets/logos/upstreams/psv-w.webp",
+        "Ajax W": "assets/logos/upstreams/ajax-w.webp",
+        "MCR Lima-Horta Barcelona": "assets/logos/upstreams/mcr-lima-horta-barcelona.webp",
+        "CD Zamarat": "assets/logos/upstreams/cd-zamarat.webp",
+        "Okk Balkanski Ris Plav": "assets/logos/upstreams/okk-balkanski-ris-plav.webp",
+        "Kk Pljevlja": "assets/logos/upstreams/kk-pljevlja.webp",
+        "N. Meira Anastasia": "assets/logos/upstreams/n-meira-anastasia.webp",
+        "Lorena Schaedel": "assets/logos/upstreams/lorena-schaedel.webp",
+        "C. Benedetti Ravon": "assets/logos/upstreams/c-benedetti-ravon.webp",
+        "Marie Mattel": "assets/logos/upstreams/marie-mattel.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5399,6 +5409,7 @@
         "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp",
         "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp",
         "U20 AFC Asian Cup, Group B, Women": "assets/logos/leagues/u20-afc-asian-cup-group-b-women.webp",
-        "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp"
+        "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp",
+        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp"
     }
 }
