@@ -4784,7 +4784,19 @@
         "N. Meira Anastasia": "assets/logos/upstreams/n-meira-anastasia.webp",
         "Lorena Schaedel": "assets/logos/upstreams/lorena-schaedel.webp",
         "C. Benedetti Ravon": "assets/logos/upstreams/c-benedetti-ravon.webp",
-        "Marie Mattel": "assets/logos/upstreams/marie-mattel.webp"
+        "Marie Mattel": "assets/logos/upstreams/marie-mattel.webp",
+        "Pari NN": "assets/logos/upstreams/pari-nn.webp",
+        "Braunschweig": "assets/logos/upstreams/braunschweig.webp",
+        "Muranga": "assets/logos/upstreams/muranga.webp",
+        "Leopards": "assets/logos/upstreams/leopards.webp",
+        "Semen Padang FC": "assets/logos/upstreams/semen-padang-fc.webp",
+        "Persib Bandung": "assets/logos/upstreams/persib-bandung.webp",
+        "Tevragh Zeina": "assets/logos/upstreams/tevragh-zeina.webp",
+        "Marinos de Oriente": "assets/logos/upstreams/marinos-de-oriente.webp",
+        "Yusra Irakoze": "assets/logos/upstreams/yusra-irakoze.webp",
+        "Sofia Avataneo": "assets/logos/upstreams/sofia-avataneo.webp",
+        "Ross Smith": "assets/logos/upstreams/ross-smith.webp",
+        "Patrik Kov\u00e1cs": "assets/logos/upstreams/patrik-kov\u00e1cs.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5410,6 +5422,10 @@
         "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp",
         "U20 AFC Asian Cup, Group B, Women": "assets/logos/leagues/u20-afc-asian-cup-group-b-women.webp",
         "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp",
-        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp"
+        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp",
+        "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
+        "Russia Premier League": "assets/logos/leagues/russia-premier-league.webp",
+        "Turkey Super Lig": "assets/logos/leagues/turkey-super-lig.webp",
+        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp"
     }
 }
