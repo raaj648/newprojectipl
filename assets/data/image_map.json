@@ -4853,7 +4853,24 @@
         "Bruno Kuzuhara": "assets/logos/upstreams/bruno-kuzuhara.webp",
         "Justin Roberts": "assets/logos/upstreams/justin-roberts.webp",
         "Szymon Kielan": "assets/logos/upstreams/szymon-kielan.webp",
-        "Joshua Sheehy": "assets/logos/upstreams/joshua-sheehy.webp"
+        "Joshua Sheehy": "assets/logos/upstreams/joshua-sheehy.webp",
+        "RFC Li\u00e8ge": "assets/logos/upstreams/rfc-li\u00e8ge.webp",
+        "OC Charleroi": "assets/logos/upstreams/oc-charleroi.webp",
+        "Castleford": "assets/logos/upstreams/castleford.webp",
+        "Wakefield": "assets/logos/upstreams/wakefield.webp",
+        "BC Nokia": "assets/logos/upstreams/bc-nokia.webp",
+        "Helmi Basket HBA": "assets/logos/upstreams/helmi-basket-hba.webp",
+        "Haskovo": "assets/logos/upstreams/haskovo.webp",
+        "Politehnika": "assets/logos/upstreams/politehnika.webp",
+        "BC Udarnik": "assets/logos/upstreams/bc-udarnik.webp",
+        "Sliven Basket": "assets/logos/upstreams/sliven-basket.webp",
+        "BC Yambol": "assets/logos/upstreams/bc-yambol.webp",
+        "Joao Vitor Goncalves Ceolin": "assets/logos/upstreams/joao-vitor-goncalves-ceolin.webp",
+        "Kaichi Uchida": "assets/logos/upstreams/kaichi-uchida.webp",
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp",
+        "Keegan Smith": "assets/logos/upstreams/keegan-smith.webp",
+        "Tom Paris": "assets/logos/upstreams/tom-paris.webp",
+        "August Holmgren": "assets/logos/upstreams/august-holmgren.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5488,6 +5505,7 @@
         "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
         "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
         "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
-        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp"
+        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp",
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
     }
 }
