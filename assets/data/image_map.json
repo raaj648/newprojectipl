@@ -4705,7 +4705,27 @@
         "Alana Smith": "assets/logos/upstreams/alana-smith.webp",
         "Franziska Sziedat": "assets/logos/upstreams/franziska-sziedat.webp",
         "Tenika Mcgiffin": "assets/logos/upstreams/tenika-mcgiffin.webp",
-        "Lea Tholey": "assets/logos/upstreams/lea-tholey.webp"
+        "Lea Tholey": "assets/logos/upstreams/lea-tholey.webp",
+        "Soloda Adwa": "assets/logos/upstreams/soloda-adwa.webp",
+        "Essendon Bombers": "assets/logos/upstreams/essendon-bombers.webp",
+        "Franco Ribero": "assets/logos/upstreams/franco-ribero.webp",
+        "Thiago Cigarran": "assets/logos/upstreams/thiago-cigarran.webp",
+        "Joao Vitor Scramin Do Lago": "assets/logos/upstreams/joao-vitor-scramin-do-lago.webp",
+        "Benjamin Torrealba": "assets/logos/upstreams/benjamin-torrealba.webp",
+        "Joao Victor Couto Loureiro": "assets/logos/upstreams/joao-victor-couto-loureiro.webp",
+        "Eric Vanshelboim": "assets/logos/upstreams/eric-vanshelboim.webp",
+        "Nicolas Zanellato": "assets/logos/upstreams/nicolas-zanellato.webp",
+        "Lucio Ratti": "assets/logos/upstreams/lucio-ratti.webp",
+        "Rafael Tosetto": "assets/logos/upstreams/rafael-tosetto.webp",
+        "Mariano Kestelboim": "assets/logos/upstreams/mariano-kestelboim.webp",
+        "Natan Rodrigues": "assets/logos/upstreams/natan-rodrigues.webp",
+        "Valentin Basel": "assets/logos/upstreams/valentin-basel.webp",
+        "Daniel Antonio Nunez": "assets/logos/upstreams/daniel-antonio-nunez.webp",
+        "Joao Goncalves": "assets/logos/upstreams/joao-goncalves.webp",
+        "Victor Hugo Remondy Pagotto": "assets/logos/upstreams/victor-hugo-remondy-pagotto.webp",
+        "Arklon Huertas Del Pino Cordova": "assets/logos/upstreams/arklon-huertas-del-pino-cordova.webp",
+        "Wilson Leite": "assets/logos/upstreams/wilson-leite.webp",
+        "Jose Pereira": "assets/logos/upstreams/jose-pereira.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5326,6 +5346,7 @@
         "PWHL": "assets/logos/leagues/pwhl.webp",
         "ATP Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
         "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp",
-        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp"
+        "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
+        "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp"
     }
 }
