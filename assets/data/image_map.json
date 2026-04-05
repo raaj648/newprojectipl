@@ -4678,7 +4678,9 @@
         "Cronulla Sharks": "assets/logos/upstreams/cronulla-sharks.webp",
         "New Zealand Warriors": "assets/logos/upstreams/new-zealand-warriors.webp",
         "New South Wales Swifts W": "assets/logos/upstreams/new-south-wales-swifts-w.webp",
-        "West Coast Fever W": "assets/logos/upstreams/west-coast-fever-w.webp"
+        "West Coast Fever W": "assets/logos/upstreams/west-coast-fever-w.webp",
+        "Newcastle Knights": "assets/logos/streamed/newcastle-knights.webp",
+        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
