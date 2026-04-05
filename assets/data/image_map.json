@@ -4824,7 +4824,36 @@
         "F\u00fcrstenfeld Panthers": "assets/logos/upstreams/f\u00fcrstenfeld-panthers.webp",
         "Traiskirchen Lions": "assets/logos/upstreams/traiskirchen-lions.webp",
         "Wotton FC": "assets/logos/upstreams/wotton-fc.webp",
-        "Weymouth Wales": "assets/logos/upstreams/weymouth-wales.webp"
+        "Weymouth Wales": "assets/logos/upstreams/weymouth-wales.webp",
+        "Ostrava": "assets/logos/upstreams/ostrava.webp",
+        "Slavia Prague": "assets/logos/upstreams/slavia-prague.webp",
+        "Uzbekistan U20": "assets/logos/upstreams/uzbekistan-u20.webp",
+        "North Korea U20": "assets/logos/upstreams/north-korea-u20.webp",
+        "FK Panevezys": "assets/logos/upstreams/fk-panevezys.webp",
+        "Dynamo Makhachkala": "assets/logos/upstreams/dynamo-makhachkala.webp",
+        "Apollon Limassol B.C.": "assets/logos/upstreams/apollon-limassol-bc.webp",
+        "Unstoppable": "assets/logos/upstreams/unstoppable.webp",
+        "Vihar Aitos": "assets/logos/upstreams/vihar-aitos.webp",
+        "HK Gladiators Trnava": "assets/logos/upstreams/hk-gladiators-trnava.webp",
+        "HC Dukla Senica": "assets/logos/upstreams/hc-dukla-senica.webp",
+        "Jermaine Wattimena": "assets/logos/upstreams/jermaine-wattimena.webp",
+        "Niels Zonneveld": "assets/logos/upstreams/niels-zonneveld.webp",
+        "Garrett Johns": "assets/logos/upstreams/garrett-johns.webp",
+        "Ronald Hohmann": "assets/logos/upstreams/ronald-hohmann.webp",
+        "Alex Kobelt": "assets/logos/upstreams/alex-kobelt.webp",
+        "Jefferson Wendler Filho": "assets/logos/upstreams/jefferson-wendler-filho.webp",
+        "Cleeve Harper": "assets/logos/upstreams/cleeve-harper.webp",
+        "Luis David Martinez": "assets/logos/upstreams/luis-david-martinez.webp",
+        "Kilian Feldbausch": "assets/logos/upstreams/kilian-feldbausch.webp",
+        "Juan Jose Bianchi": "assets/logos/upstreams/juan-jose-bianchi.webp",
+        "Christian Langmo": "assets/logos/upstreams/christian-langmo.webp",
+        "Cristian Rodriguez": "assets/logos/upstreams/cristian-rodriguez.webp",
+        "Preston Brown": "assets/logos/upstreams/preston-brown.webp",
+        "Kaylan Bigun": "assets/logos/upstreams/kaylan-bigun.webp",
+        "Bruno Kuzuhara": "assets/logos/upstreams/bruno-kuzuhara.webp",
+        "Justin Roberts": "assets/logos/upstreams/justin-roberts.webp",
+        "Szymon Kielan": "assets/logos/upstreams/szymon-kielan.webp",
+        "Joshua Sheehy": "assets/logos/upstreams/joshua-sheehy.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5458,6 +5487,7 @@
         "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
         "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
         "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
-        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp"
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
+        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp"
     }
 }
