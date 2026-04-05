@@ -4870,7 +4870,20 @@
         "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp",
         "Keegan Smith": "assets/logos/upstreams/keegan-smith.webp",
         "Tom Paris": "assets/logos/upstreams/tom-paris.webp",
-        "August Holmgren": "assets/logos/upstreams/august-holmgren.webp"
+        "August Holmgren": "assets/logos/upstreams/august-holmgren.webp",
+        "Debrecen": "assets/logos/upstreams/debrecen.webp",
+        "Ferencvaros": "assets/logos/upstreams/ferencvaros.webp",
+        "National Bank of Egypt": "assets/logos/upstreams/national-bank-of-egypt.webp",
+        "Haras El Hodoud": "assets/logos/upstreams/haras-el-hodoud.webp",
+        "Polissya Zhytomyr": "assets/logos/upstreams/polissya-zhytomyr.webp",
+        "NK Veres Rivne": "assets/logos/upstreams/nk-veres-rivne.webp",
+        "ASC Kara": "assets/logos/upstreams/asc-kara.webp",
+        "As Binah": "assets/logos/upstreams/as-binah.webp",
+        "Amedspor": "assets/logos/upstreams/amedspor.webp",
+        "Bolu": "assets/logos/upstreams/bolu.webp",
+        "Apollon Limassol": "assets/logos/upstreams/apollon-limassol.webp",
+        "AEK Larnaca": "assets/logos/upstreams/aek-larnaca.webp",
+        "Trnava": "assets/logos/upstreams/trnava.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5506,6 +5519,7 @@
         "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
         "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp",
         "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp",
-        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
+        "Denmark Superliga": "assets/logos/leagues/denmark-superliga.webp"
     }
 }
