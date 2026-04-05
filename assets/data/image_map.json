@@ -4912,7 +4912,21 @@
         "Zizou Bergs": "assets/logos/upstreams/zizou-bergs.webp",
         "Francisco Cerundolo": "assets/logos/upstreams/francisco-cerundolo.webp",
         "Stefanos Tsitsipas": "assets/logos/upstreams/stefanos-tsitsipas.webp",
-        "Joao Fonseca": "assets/logos/upstreams/joao-fonseca.webp"
+        "Joao Fonseca": "assets/logos/upstreams/joao-fonseca.webp",
+        "South Carolina Gamecocks": "assets/logos/upstreams/south-carolina-gamecocks.webp",
+        "GV San Jos\u00e9": "assets/logos/upstreams/gv-san-jos\u00e9.webp",
+        "Academia de Balompi\u00e9 Boliviano": "assets/logos/upstreams/academia-de-balompi\u00e9-boliviano.webp",
+        "Arthur Gea": "assets/logos/upstreams/arthur-gea.webp",
+        "Rei Sakamoto": "assets/logos/upstreams/rei-sakamoto.webp",
+        "Razvan Baiant": "assets/logos/upstreams/razvan-baiant.webp",
+        "Dinko Dinev": "assets/logos/upstreams/dinko-dinev.webp",
+        "Vardan Manukyan": "assets/logos/upstreams/vardan-manukyan.webp",
+        "Matthias Ujvary": "assets/logos/upstreams/matthias-ujvary.webp",
+        "Pablo Llamas Ruiz": "assets/logos/upstreams/pablo-llamas-ruiz.webp",
+        "Moez Echargui": "assets/logos/upstreams/moez-echargui.webp",
+        "Stefano Travaglia": "assets/logos/upstreams/stefano-travaglia.webp",
+        "George Loffhagen": "assets/logos/upstreams/george-loffhagen.webp",
+        "Zsombor Piros": "assets/logos/upstreams/zsombor-piros.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5552,6 +5566,8 @@
         "Denmark Superliga": "assets/logos/leagues/denmark-superliga.webp",
         "1. Liga": "assets/logos/leagues/1-liga.webp",
         "Egyptian Premier League, Championship Round": "assets/logos/leagues/egyptian-premier-league-championship-round.webp",
-        "Egypt Premier League": "assets/logos/leagues/egypt-premier-league.webp"
+        "Egypt Premier League": "assets/logos/leagues/egypt-premier-league.webp",
+        "Madrid, Spain": "assets/logos/leagues/madrid-spain.webp",
+        "Monza, Italy": "assets/logos/leagues/monza-italy.webp"
     }
 }
