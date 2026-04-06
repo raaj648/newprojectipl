@@ -4979,7 +4979,17 @@
         "Orlando Pirates": "assets/logos/upstreams/orlando-pirates.webp",
         "Golden Arrows": "assets/logos/upstreams/golden-arrows.webp",
         "Corinthians Paulista": "assets/logos/upstreams/corinthians-paulista.webp",
-        "Osasco": "assets/logos/upstreams/osasco.webp"
+        "Osasco": "assets/logos/upstreams/osasco.webp",
+        "Fenerbah\u00e7e Basketbol": "assets/logos/streamed/fenerbah\u00e7e-basketbol.webp",
+        "FC Nordsjaelland": "assets/logos/streamed/fc-nordsjaelland.webp",
+        "Brondby": "assets/logos/streamed/brondby.webp",
+        "Zag\u0142\u0119bie Lubin": "assets/logos/streamed/zag\u0142\u0119bie-lubin.webp",
+        "FC Barcelona Basquet": "assets/logos/streamed/fc-barcelona-basquet.webp",
+        "Bayern M\u00fcnchen Basketball": "assets/logos/streamed/bayern-m\u00fcnchen-basketball.webp",
+        "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp",
+        "Gimnasia Y Tiro": "assets/logos/streamed/gimnasia-y-tiro.webp",
+        "\u00c1guilas Doradas": "assets/logos/streamed/\u00e1guilas-doradas.webp",
+        "Deportivo Armenio": "assets/logos/streamed/deportivo-armenio.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
