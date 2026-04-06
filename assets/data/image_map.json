@@ -5361,7 +5361,17 @@
         "Giles Hussey": "assets/logos/upstreams/giles-hussey.webp",
         "Clement Chidekh": "assets/logos/upstreams/clement-chidekh.webp",
         "Zhao Zhao": "assets/logos/upstreams/zhao-zhao.webp",
-        "Moerani Bouzige": "assets/logos/upstreams/moerani-bouzige.webp"
+        "Moerani Bouzige": "assets/logos/upstreams/moerani-bouzige.webp",
+        "Bodo Glimt": "assets/logos/upstreams/bodo-glimt.webp",
+        "Lillestrom": "assets/logos/upstreams/lillestrom.webp",
+        "FC Epicentr Dunaivtsi": "assets/logos/upstreams/fc-epicentr-dunaivtsi.webp",
+        "Kudrivka": "assets/logos/upstreams/kudrivka.webp",
+        "Legia Warsaw": "assets/logos/upstreams/legia-warsaw.webp",
+        "Kevin Doets": "assets/logos/upstreams/kevin-doets.webp",
+        "Michael (2007) Smith": "assets/logos/upstreams/michael-2007-smith.webp",
+        "Scott Jones": "assets/logos/upstreams/scott-jones.webp",
+        "Jasmine Adams": "assets/logos/upstreams/jasmine-adams.webp",
+        "Mahi Khore": "assets/logos/upstreams/mahi-khore.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6049,6 +6059,9 @@
         "ATP - Monte Carlo (MCO)": "assets/logos/leagues/atp-monte-carlo-mco.webp",
         "WTA - Linz (AUT)": "assets/logos/leagues/wta-linz-aut.webp",
         "UTR PTT Melbourne Men 01, Group C": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-c.webp",
-        "WTA Linz": "assets/logos/leagues/wta-linz.webp"
+        "WTA Linz": "assets/logos/leagues/wta-linz.webp",
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp",
+        "UTR PTT Melbourne Men 01, Group A": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-a.webp",
+        "UTR PTT Melbourne Women 01, Group D": "assets/logos/leagues/utr-ptt-melbourne-women-01-group-d.webp"
     }
 }
