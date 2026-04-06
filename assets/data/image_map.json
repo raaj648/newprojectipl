@@ -5261,7 +5261,13 @@
         "Natsuki Yoshimoto": "assets/logos/upstreams/natsuki-yoshimoto.webp",
         "Sara Yoshida": "assets/logos/upstreams/sara-yoshida.webp",
         "Kisa Yoshioka": "assets/logos/upstreams/kisa-yoshioka.webp",
-        "Cheuk Ying Shek": "assets/logos/upstreams/cheuk-ying-shek.webp"
+        "Cheuk Ying Shek": "assets/logos/upstreams/cheuk-ying-shek.webp",
+        "Estoril Praia U23": "assets/logos/upstreams/estoril-praia-u23.webp",
+        "Leix\u00f5es SC U23": "assets/logos/upstreams/leix\u00f5es-sc-u23.webp",
+        "Academico Viseu U23": "assets/logos/upstreams/academico-viseu-u23.webp",
+        "FaMalicao U23": "assets/logos/upstreams/famalicao-u23.webp",
+        "Natsuho Arakawa": "assets/logos/upstreams/natsuho-arakawa.webp",
+        "Sayaka Ishii": "assets/logos/upstreams/sayaka-ishii.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5934,6 +5940,7 @@
         "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp",
         "UTR PTT Cordoba Men +H 03, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-a.webp",
         "Superliga, Championship round": "assets/logos/leagues/superliga-championship-round.webp",
-        "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp"
+        "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp",
+        "Portugal - League Revelacao U23 - Gr.Championship": "assets/logos/leagues/portugal-league-revelacao-u23-grchampionship.webp"
     }
 }
