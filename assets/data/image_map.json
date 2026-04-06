@@ -5289,7 +5289,17 @@
         "Stefani Stoeva": "assets/logos/upstreams/stefani-stoeva.webp",
         "Leona Lee": "assets/logos/upstreams/leona-lee.webp",
         "Petra Maixnerova": "assets/logos/upstreams/petra-maixnerova.webp",
-        "Kaloyana Nalbantova": "assets/logos/upstreams/kaloyana-nalbantova.webp"
+        "Kaloyana Nalbantova": "assets/logos/upstreams/kaloyana-nalbantova.webp",
+        "Odra Opole": "assets/logos/upstreams/odra-opole.webp",
+        "Wisla": "assets/logos/upstreams/wisla.webp",
+        "Leczna": "assets/logos/upstreams/leczna.webp",
+        "Denislava Glushkova": "assets/logos/upstreams/denislava-glushkova.webp",
+        "Isabella Kruger": "assets/logos/upstreams/isabella-kruger.webp",
+        "Ana Mitevska": "assets/logos/upstreams/ana-mitevska.webp",
+        "Yasmin Ezzat": "assets/logos/upstreams/yasmin-ezzat.webp",
+        "Olga Danilova": "assets/logos/upstreams/olga-danilova.webp",
+        "Mavie Osterreicher": "assets/logos/upstreams/mavie-osterreicher.webp",
+        "Anastasia Kulikova": "assets/logos/upstreams/anastasia-kulikova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5965,6 +5975,9 @@
         "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp",
         "Portugal - League Revelacao U23 - Gr.Championship": "assets/logos/leagues/portugal-league-revelacao-u23-grchampionship.webp",
         "Championshipul Mondial": "assets/logos/leagues/championshipul-mondial.webp",
-        "UTR PTT Cordoba Men +H 03, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-d.webp"
+        "UTR PTT Cordoba Men +H 03, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-d.webp",
+        "ATP 1000": "assets/logos/leagues/atp-1000.webp",
+        "Cup Billie Jean King": "assets/logos/leagues/cup-billie-jean-king.webp",
+        "World Cup 2026 - Qualifiers": "assets/logos/leagues/world-cup-2026-qualifiers.webp"
     }
 }
