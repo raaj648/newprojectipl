@@ -5350,7 +5350,18 @@
         "Jera Staley": "assets/logos/upstreams/jera-staley.webp",
         "Mathieu Perchicot": "assets/logos/upstreams/mathieu-perchicot.webp",
         "Thomas Patton": "assets/logos/upstreams/thomas-patton.webp",
-        "Evan Vasiliadis": "assets/logos/upstreams/evan-vasiliadis.webp"
+        "Evan Vasiliadis": "assets/logos/upstreams/evan-vasiliadis.webp",
+        "Justin Boulais": "assets/logos/upstreams/justin-boulais.webp",
+        "Qian Sun": "assets/logos/upstreams/qian-sun.webp",
+        "Jie Cui": "assets/logos/upstreams/jie-cui.webp",
+        "Fajing Sun": "assets/logos/upstreams/fajing-sun.webp",
+        "Li Tu": "assets/logos/upstreams/li-tu.webp",
+        "Yasutaka Uchiyama": "assets/logos/upstreams/yasutaka-uchiyama.webp",
+        "Buvaysar Gadamauri": "assets/logos/upstreams/buvaysar-gadamauri.webp",
+        "Giles Hussey": "assets/logos/upstreams/giles-hussey.webp",
+        "Clement Chidekh": "assets/logos/upstreams/clement-chidekh.webp",
+        "Zhao Zhao": "assets/logos/upstreams/zhao-zhao.webp",
+        "Moerani Bouzige": "assets/logos/upstreams/moerani-bouzige.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6037,6 +6048,7 @@
         "Sweden in Indonesia, 8 T20I Series": "assets/logos/leagues/sweden-in-indonesia-8-t20i-series.webp",
         "ATP - Monte Carlo (MCO)": "assets/logos/leagues/atp-monte-carlo-mco.webp",
         "WTA - Linz (AUT)": "assets/logos/leagues/wta-linz-aut.webp",
-        "UTR PTT Melbourne Men 01, Group C": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-c.webp"
+        "UTR PTT Melbourne Men 01, Group C": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-c.webp",
+        "WTA Linz": "assets/logos/leagues/wta-linz.webp"
     }
 }
