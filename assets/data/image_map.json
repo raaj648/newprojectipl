@@ -4989,7 +4989,22 @@
         "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp",
         "Gimnasia Y Tiro": "assets/logos/streamed/gimnasia-y-tiro.webp",
         "\u00c1guilas Doradas": "assets/logos/streamed/\u00e1guilas-doradas.webp",
-        "Deportivo Armenio": "assets/logos/streamed/deportivo-armenio.webp"
+        "Deportivo Armenio": "assets/logos/streamed/deportivo-armenio.webp",
+        "U De Chile": "assets/logos/upstreams/u-de-chile.webp",
+        "La Serena": "assets/logos/upstreams/la-serena.webp",
+        "Chennaiyin FC": "assets/logos/upstreams/chennaiyin-fc.webp",
+        "Inter Kashi FC": "assets/logos/upstreams/inter-kashi-fc.webp",
+        "NK Istra 1961": "assets/logos/upstreams/nk-istra-1961.webp",
+        "HNK Hajduk Split": "assets/logos/upstreams/hnk-hajduk-split.webp",
+        "SL Benfica B U21": "assets/logos/upstreams/sl-benfica-b-u21.webp",
+        "MZKS Arka Gdynia": "assets/logos/upstreams/mzks-arka-gdynia.webp",
+        "Siwelele FC": "assets/logos/upstreams/siwelele-fc.webp",
+        "Club Independiente": "assets/logos/upstreams/club-independiente.webp",
+        "CD Tapat\u00edo": "assets/logos/upstreams/cd-tapat\u00edo.webp",
+        "Lamontville Golden Arrows": "assets/logos/upstreams/lamontville-golden-arrows.webp",
+        "Ruslan Tiukaev": "assets/logos/upstreams/ruslan-tiukaev.webp",
+        "Marko Miladinovic": "assets/logos/upstreams/marko-miladinovic.webp",
+        "Stefan Popovi\u0107": "assets/logos/upstreams/stefan-popovi\u0107.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5641,6 +5656,10 @@
         "Copa Southamericana - Gr.E": "assets/logos/leagues/copa-southamericana-gre.webp",
         "CONCACAF Champions Cup": "assets/logos/leagues/concacaf-champions-cup.webp",
         "European League": "assets/logos/leagues/european-league.webp",
-        "USA - NBA": "assets/logos/leagues/usa-nba.webp"
+        "USA - NBA": "assets/logos/leagues/usa-nba.webp",
+        "UEFA Champions League, Knockout stage": "assets/logos/leagues/uefa-champions-league-knockout-stage.webp",
+        "CONMEBOL Libertadores, Group C": "assets/logos/leagues/conmebol-libertadores-group-c.webp",
+        "CONMEBOL Sudamericana, Group G": "assets/logos/leagues/conmebol-sudamericana-group-g.webp",
+        "CONMEBOL Sudamericana, Group E": "assets/logos/leagues/conmebol-sudamericana-group-e.webp"
     }
 }
