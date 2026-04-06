@@ -5193,7 +5193,12 @@
         "Saba Purtseladze": "assets/logos/upstreams/saba-purtseladze.webp",
         "Tyler Zink": "assets/logos/upstreams/tyler-zink.webp",
         "Colton Smith": "assets/logos/upstreams/colton-smith.webp",
-        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp"
+        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp",
+        "Marines Gisenyi": "assets/logos/upstreams/marines-gisenyi.webp",
+        "Ramiro Amarilla": "assets/logos/upstreams/ramiro-amarilla.webp",
+        "Luciano Carraro": "assets/logos/upstreams/luciano-carraro.webp",
+        "Juan Bautista Otegui": "assets/logos/upstreams/juan-bautista-otegui.webp",
+        "Enzo Rimoli": "assets/logos/upstreams/enzo-rimoli.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5861,6 +5866,8 @@
         "Linz, Austria": "assets/logos/leagues/linz-austria.webp",
         "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp",
         "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
-        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp"
+        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp",
+        "UTR PTT Cordoba Men +H 03, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-b.webp",
+        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp"
     }
 }
