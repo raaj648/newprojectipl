@@ -5182,7 +5182,18 @@
         "Chorale Roanne Basket": "assets/logos/upstreams/chorale-roanne-basket.webp",
         "Champagne Chalons-Reims": "assets/logos/upstreams/champagne-chalons-reims.webp",
         "ALM \u00c9vreux Basket": "assets/logos/upstreams/alm-\u00e9vreux-basket.webp",
-        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp"
+        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp",
+        "Nicolas Villalon Valdes": "assets/logos/upstreams/nicolas-villalon-valdes.webp",
+        "Victor Braga": "assets/logos/upstreams/victor-braga.webp",
+        "Mitchell Krueger": "assets/logos/upstreams/mitchell-krueger.webp",
+        "Hynek Barton": "assets/logos/upstreams/hynek-barton.webp",
+        "Enzo Camargo Lima": "assets/logos/upstreams/enzo-camargo-lima.webp",
+        "Jeffrey John Wolf": "assets/logos/upstreams/jeffrey-john-wolf.webp",
+        "Stefan Dostanic": "assets/logos/upstreams/stefan-dostanic.webp",
+        "Saba Purtseladze": "assets/logos/upstreams/saba-purtseladze.webp",
+        "Tyler Zink": "assets/logos/upstreams/tyler-zink.webp",
+        "Colton Smith": "assets/logos/upstreams/colton-smith.webp",
+        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5848,6 +5859,8 @@
         "2nd Division, Group 2": "assets/logos/leagues/2nd-division-group-2.webp",
         "Belgium - Pro League - Gr.Retrogradare": "assets/logos/leagues/belgium-pro-league-grretrogradare.webp",
         "Linz, Austria": "assets/logos/leagues/linz-austria.webp",
-        "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp"
+        "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp",
+        "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
+        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp"
     }
 }
