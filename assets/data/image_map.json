@@ -5219,7 +5219,17 @@
         "PBC Lokomotiv-Kuban": "assets/logos/upstreams/pbc-lokomotiv-kuban.webp",
         "RW Essen": "assets/logos/upstreams/rw-essen.webp",
         "Christian Garin": "assets/logos/upstreams/christian-garin.webp",
-        "Francisco Comesana": "assets/logos/upstreams/francisco-comesana.webp"
+        "Francisco Comesana": "assets/logos/upstreams/francisco-comesana.webp",
+        "SJK Akatemia": "assets/logos/upstreams/sjk-akatemia.webp",
+        "MP": "assets/logos/upstreams/mp.webp",
+        "Sporting U23": "assets/logos/upstreams/sporting-u23.webp",
+        "SC Braga U23": "assets/logos/upstreams/sc-braga-u23.webp",
+        "Lautaro Agustin Falabella": "assets/logos/upstreams/lautaro-agustin-falabella.webp",
+        "Ezequiel Simonit": "assets/logos/upstreams/ezequiel-simonit.webp",
+        "Alejo Lorenzo Lingua Lavallen": "assets/logos/upstreams/alejo-lorenzo-lingua-lavallen.webp",
+        "Nikos Lehmann": "assets/logos/upstreams/nikos-lehmann.webp",
+        "Reina Goto": "assets/logos/upstreams/reina-goto.webp",
+        "Ya-Hsuan Lee": "assets/logos/upstreams/ya-hsuan-lee.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5889,6 +5899,7 @@
         "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
         "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp",
         "UTR PTT Cordoba Men +H 03, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-b.webp",
-        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp"
+        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp",
+        "UTR PTT Cordoba Men +H 03, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-a.webp"
     }
 }
