@@ -5375,7 +5375,15 @@
         "Celtic W": "assets/logos/upstreams/celtic-w.webp",
         "Rangers W": "assets/logos/upstreams/rangers-w.webp",
         "Coastal Union": "assets/logos/upstreams/coastal-union.webp",
-        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp"
+        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp",
+        "Always Ready": "assets/logos/streamed/always-ready.webp",
+        "LDU de Quito": "assets/logos/streamed/ldu-de-quito.webp",
+        "U. Catolica": "assets/logos/streamed/u-catolica.webp",
+        "Universitario": "assets/logos/streamed/universitario.webp",
+        "Larisa": "assets/logos/streamed/larisa.webp",
+        "Al-Ahli Jeddah": "assets/logos/streamed/al-ahli-jeddah.webp",
+        "Zawisza Bydgoszcz": "assets/logos/streamed/zawisza-bydgoszcz.webp",
+        "SC Braga": "assets/logos/streamed/sc-braga.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
