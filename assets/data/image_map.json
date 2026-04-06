@@ -5384,7 +5384,9 @@
         "Al-Ahli Jeddah": "assets/logos/streamed/al-ahli-jeddah.webp",
         "Zawisza Bydgoszcz": "assets/logos/streamed/zawisza-bydgoszcz.webp",
         "SC Braga": "assets/logos/streamed/sc-braga.webp",
-        "Gendrim": "assets/logos/upstreams/gendrim.webp"
+        "Gendrim": "assets/logos/upstreams/gendrim.webp",
+        "ZED FC": "assets/logos/upstreams/zed-fc.webp",
+        "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
