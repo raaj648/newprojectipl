@@ -4956,7 +4956,30 @@
         "Central C\u00f3rdoba": "assets/logos/upstreams/central-c\u00f3rdoba.webp",
         "Newell's Old Boys": "assets/logos/upstreams/newells-old-boys.webp",
         "SV Broki": "assets/logos/upstreams/sv-broki.webp",
-        "Robinhood": "assets/logos/upstreams/robinhood.webp"
+        "Robinhood": "assets/logos/upstreams/robinhood.webp",
+        "RB Bragantino": "assets/logos/streamed/rb-bragantino.webp",
+        "Instituto De C\u00f3rdoba": "assets/logos/upstreams/instituto-de-c\u00f3rdoba.webp",
+        "Universidad Catolica": "assets/logos/upstreams/universidad-catolica.webp",
+        "Vukovar": "assets/logos/upstreams/vukovar.webp",
+        "Lokomotiva Zagreb": "assets/logos/upstreams/lokomotiva-zagreb.webp",
+        "Chennaiyin": "assets/logos/upstreams/chennaiyin.webp",
+        "Inter Kashi": "assets/logos/upstreams/inter-kashi.webp",
+        "Istra 1961": "assets/logos/upstreams/istra-1961.webp",
+        "Hajduk Split": "assets/logos/upstreams/hajduk-split.webp",
+        "Vizela": "assets/logos/upstreams/vizela.webp",
+        "Benfica B": "assets/logos/upstreams/benfica-b.webp",
+        "Arka Gdynia": "assets/logos/upstreams/arka-gdynia.webp",
+        "Zaglebie": "assets/logos/upstreams/zaglebie.webp",
+        "Siwelele": "assets/logos/upstreams/siwelele.webp",
+        "Al Kholood": "assets/logos/upstreams/al-kholood.webp",
+        "Tapatio": "assets/logos/upstreams/tapatio.webp",
+        "Club America": "assets/logos/upstreams/club-america.webp",
+        "SG Flensburg-Handewitt": "assets/logos/upstreams/sg-flensburg-handewitt.webp",
+        "Maritzburg Utd": "assets/logos/upstreams/maritzburg-utd.webp",
+        "Orlando Pirates": "assets/logos/upstreams/orlando-pirates.webp",
+        "Golden Arrows": "assets/logos/upstreams/golden-arrows.webp",
+        "Corinthians Paulista": "assets/logos/upstreams/corinthians-paulista.webp",
+        "Osasco": "assets/logos/upstreams/osasco.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5601,6 +5624,13 @@
         "Monza, Italy": "assets/logos/leagues/monza-italy.webp",
         "UTR PTT Belgrade Women 03, Group C": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-c.webp",
         "UTR PTT Belgrade Women 03, Group A": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-a.webp",
-        "UTR PTT Belgrade Women 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-b.webp"
+        "UTR PTT Belgrade Women 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-b.webp",
+        "Copa Libertadores": "assets/logos/leagues/copa-libertadores.webp",
+        "Copa Libertadores - Gr.C": "assets/logos/leagues/copa-libertadores-grc.webp",
+        "Copa Southamericana - Gr.G": "assets/logos/leagues/copa-southamericana-grg.webp",
+        "Copa Southamericana - Gr.E": "assets/logos/leagues/copa-southamericana-gre.webp",
+        "CONCACAF Champions Cup": "assets/logos/leagues/concacaf-champions-cup.webp",
+        "European League": "assets/logos/leagues/european-league.webp",
+        "USA - NBA": "assets/logos/leagues/usa-nba.webp"
     }
 }
