@@ -5313,7 +5313,16 @@
         "Sara Mitevska": "assets/logos/upstreams/sara-mitevska.webp",
         "Lamis Alhussein Abdel Aziz": "assets/logos/upstreams/lamis-alhussein-abdel-aziz.webp",
         "Danny Noppert": "assets/logos/upstreams/danny-noppert.webp",
-        "Karel Sedl\u00e1\u010dek": "assets/logos/upstreams/karel-sedl\u00e1\u010dek.webp"
+        "Karel Sedl\u00e1\u010dek": "assets/logos/upstreams/karel-sedl\u00e1\u010dek.webp",
+        "Andrej Nedic": "assets/logos/upstreams/andrej-nedic.webp",
+        "Harry (2002) Collins": "assets/logos/upstreams/harry-2002-collins.webp",
+        "Robin Eldin": "assets/logos/upstreams/robin-eldin.webp",
+        "Maciej Rajski": "assets/logos/upstreams/maciej-rajski.webp",
+        "Bianca Compuesto": "assets/logos/upstreams/bianca-compuesto.webp",
+        "Charlotte Vanstone McGrath": "assets/logos/upstreams/charlotte-vanstone-mcgrath.webp",
+        "Destanee Aiava": "assets/logos/upstreams/destanee-aiava.webp",
+        "Christina Dodaj": "assets/logos/upstreams/christina-dodaj.webp",
+        "Liam Oved": "assets/logos/upstreams/liam-oved.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -5992,6 +6001,8 @@
         "UTR PTT Cordoba Men +H 03, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-d.webp",
         "ATP 1000": "assets/logos/leagues/atp-1000.webp",
         "Cup Billie Jean King": "assets/logos/leagues/cup-billie-jean-king.webp",
-        "World Cup 2026 - Qualifiers": "assets/logos/leagues/world-cup-2026-qualifiers.webp"
+        "World Cup 2026 - Qualifiers": "assets/logos/leagues/world-cup-2026-qualifiers.webp",
+        "UTR PTT Melbourne Men 01, Group B": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-b.webp",
+        "UTR PTT Melbourne Women 01, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-01-group-a.webp"
     }
 }
