@@ -5692,7 +5692,12 @@
         "Aguada Santeros": "assets/logos/upstreams/aguada-santeros.webp",
         "Criollas de Caguas": "assets/logos/upstreams/criollas-de-caguas.webp",
         "TNT Katropa": "assets/logos/upstreams/tnt-katropa.webp",
-        "Uniao Corinthians": "assets/logos/upstreams/uniao-corinthians.webp"
+        "Uniao Corinthians": "assets/logos/upstreams/uniao-corinthians.webp",
+        "ATP Masters Monte Carlo: Humbert - Sinner": "assets/logos/upstreams/atp-masters-monte-carlo-humbert-sinner.webp",
+        "G-Osaka": "assets/logos/upstreams/g-osaka.webp",
+        "Bangkok Utd": "assets/logos/upstreams/bangkok-utd.webp",
+        "Marco Fu.": "assets/logos/upstreams/marco-fu.webp",
+        "Wongharuthai N.": "assets/logos/upstreams/wongharuthai-n.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6416,6 +6421,9 @@
         "Colombia - Primera B - Apertura": "assets/logos/leagues/colombia-primera-b-apertura.webp",
         "Copa Libertadores - Gr.B": "assets/logos/leagues/copa-libertadores-grb.webp",
         "USA - USL League One": "assets/logos/leagues/usa-usl-league-one.webp",
-        "Cup": "assets/logos/leagues/cup.webp"
+        "Cup": "assets/logos/leagues/cup.webp",
+        "AFC Champions League Two, Knockout stage": "assets/logos/leagues/afc-champions-league-two-knockout-stage.webp",
+        "AFC Champions League 2": "assets/logos/leagues/afc-champions-league-2.webp",
+        "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp"
     }
 }
