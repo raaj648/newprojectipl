@@ -5805,7 +5805,9 @@
         "Sabah Baku": "assets/logos/upstreams/sabah-baku.webp",
         "Smouha": "assets/logos/upstreams/smouha.webp",
         "Monique Barry": "assets/logos/upstreams/monique-barry.webp",
-        "Stefan Storch": "assets/logos/upstreams/stefan-storch.webp"
+        "Stefan Storch": "assets/logos/upstreams/stefan-storch.webp",
+        "Duncan S / Dutra Da Silva D": "assets/logos/upstreams/duncan-s-dutra-da-silva-d.webp",
+        "Krueger M / Zink T": "assets/logos/upstreams/krueger-m-zink-t.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6537,6 +6539,7 @@
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
         "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp",
         "Russian Cup, Qualification": "assets/logos/leagues/russian-cup-qualification.webp",
-        "Singles Matches": "assets/logos/leagues/singles-matches.webp"
+        "Singles Matches": "assets/logos/leagues/singles-matches.webp",
+        "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp"
     }
 }
