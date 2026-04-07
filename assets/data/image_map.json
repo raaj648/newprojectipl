@@ -5729,7 +5729,12 @@
         "Celia Anson S\u00e1nchez": "assets/logos/upstreams/celia-anson-s\u00e1nchez.webp",
         "Carlos Alcaraz Garfia": "assets/logos/upstreams/carlos-alcaraz-garfia.webp",
         "Petra Konjikusic": "assets/logos/upstreams/petra-konjikusic.webp",
-        "Celia Anson Sanchez": "assets/logos/upstreams/celia-anson-sanchez.webp"
+        "Celia Anson Sanchez": "assets/logos/upstreams/celia-anson-sanchez.webp",
+        "Imisli FK": "assets/logos/upstreams/imisli-fk.webp",
+        "Turan Tovuz": "assets/logos/upstreams/turan-tovuz.webp",
+        "Bulcsu Revesz": "assets/logos/upstreams/bulcsu-revesz.webp",
+        "Greensboro Swarm": "assets/logos/upstreams/greensboro-swarm.webp",
+        "Stockton Kings": "assets/logos/upstreams/stockton-kings.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6457,6 +6462,7 @@
         "AFC Champions League Two, Knockout stage": "assets/logos/leagues/afc-champions-league-two-knockout-stage.webp",
         "AFC Champions League 2": "assets/logos/leagues/afc-champions-league-2.webp",
         "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp",
-        "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp"
+        "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp",
+        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp"
     }
 }
