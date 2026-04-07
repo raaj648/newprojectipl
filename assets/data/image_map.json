@@ -5834,7 +5834,16 @@
         "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp",
         "BC Dubai": "assets/logos/upstreams/bc-dubai.webp",
         "Daniil Medvedev": "assets/logos/upstreams/daniil-medvedev.webp",
-        "Felix Auger-Aliassime": "assets/logos/upstreams/felix-auger-aliassime.webp"
+        "Felix Auger-Aliassime": "assets/logos/upstreams/felix-auger-aliassime.webp",
+        "Arsenal --- CH 2 HD": "assets/logos/upstreams/arsenal-ch-2-hd.webp",
+        "Arsenal --- CH 3 HD": "assets/logos/upstreams/arsenal-ch-3-hd.webp",
+        "Jelena Ostapenko": "assets/logos/upstreams/jelena-ostapenko.webp",
+        "Thailand U20 W": "assets/logos/upstreams/thailand-u20-w.webp",
+        "Bangladesh U20 W": "assets/logos/upstreams/bangladesh-u20-w.webp",
+        "Anastasia Potapova": "assets/logos/upstreams/anastasia-potapova.webp",
+        "Mirra Andreeva": "assets/logos/upstreams/mirra-andreeva.webp",
+        "Dominique Schaefer": "assets/logos/upstreams/dominique-schaefer.webp",
+        "Malwina Rowinska": "assets/logos/upstreams/malwina-rowinska.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6568,6 +6577,7 @@
         "Russian Cup, Qualification": "assets/logos/leagues/russian-cup-qualification.webp",
         "Singles Matches": "assets/logos/leagues/singles-matches.webp",
         "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp",
-        "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp"
+        "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp",
+        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp"
     }
 }
