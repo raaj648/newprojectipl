@@ -5825,7 +5825,9 @@
         "Cottbus": "assets/logos/upstreams/cottbus.webp",
         "Munich 1860": "assets/logos/upstreams/munich-1860.webp",
         "Apollon": "assets/logos/upstreams/apollon.webp",
-        "Antonia Ruzic": "assets/logos/upstreams/antonia-ruzic.webp"
+        "Antonia Ruzic": "assets/logos/upstreams/antonia-ruzic.webp",
+        "AS Douanes": "assets/logos/upstreams/as-douanes.webp",
+        "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
