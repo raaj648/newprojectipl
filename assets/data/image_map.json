@@ -5787,7 +5787,13 @@
         "Gray Kelley": "assets/logos/upstreams/gray-kelley.webp",
         "Mahta Khanloo": "assets/logos/upstreams/mahta-khanloo.webp",
         "Midori Castillo Meza": "assets/logos/upstreams/midori-castillo-meza.webp",
-        "Shakhnoza Khatamova": "assets/logos/upstreams/shakhnoza-khatamova.webp"
+        "Shakhnoza Khatamova": "assets/logos/upstreams/shakhnoza-khatamova.webp",
+        "Famalicao U23": "assets/logos/upstreams/famalicao-u23.webp",
+        "Zira": "assets/logos/upstreams/zira.webp",
+        "Shamakhi": "assets/logos/upstreams/shamakhi.webp",
+        "Dayeon Back": "assets/logos/upstreams/dayeon-back.webp",
+        "Bagatelle": "assets/logos/upstreams/bagatelle.webp",
+        "St Andrew Lions": "assets/logos/upstreams/st-andrew-lions.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6516,6 +6522,7 @@
         "AFC Champions League 2": "assets/logos/leagues/afc-champions-league-2.webp",
         "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp",
         "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp",
-        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp"
+        "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
+        "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp"
     }
 }
