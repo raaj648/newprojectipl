@@ -5797,7 +5797,15 @@
         "Sohyun Park": "assets/logos/upstreams/sohyun-park.webp",
         "Jargal Altansarnai": "assets/logos/upstreams/jargal-altansarnai.webp",
         "Sahaja Yamalapalli": "assets/logos/upstreams/sahaja-yamalapalli.webp",
-        "Patcharin Cheapchandej": "assets/logos/upstreams/patcharin-cheapchandej.webp"
+        "Patcharin Cheapchandej": "assets/logos/upstreams/patcharin-cheapchandej.webp",
+        "Andijan": "assets/logos/upstreams/andijan.webp",
+        "Mied\u017a Legnica": "assets/logos/upstreams/mied\u017a-legnica.webp",
+        "Polonia Bytom": "assets/logos/upstreams/polonia-bytom.webp",
+        "Araz": "assets/logos/upstreams/araz.webp",
+        "Sabah Baku": "assets/logos/upstreams/sabah-baku.webp",
+        "Smouha": "assets/logos/upstreams/smouha.webp",
+        "Monique Barry": "assets/logos/upstreams/monique-barry.webp",
+        "Stefan Storch": "assets/logos/upstreams/stefan-storch.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6527,6 +6535,8 @@
         "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp",
         "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp",
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
-        "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp"
+        "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp",
+        "Russian Cup, Qualification": "assets/logos/leagues/russian-cup-qualification.webp",
+        "Singles Matches": "assets/logos/leagues/singles-matches.webp"
     }
 }
