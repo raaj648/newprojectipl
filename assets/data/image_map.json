@@ -5676,7 +5676,23 @@
         "Niehua Tian": "assets/logos/upstreams/niehua-tian.webp",
         "Xi Luo": "assets/logos/upstreams/xi-luo.webp",
         "Georgina Garc\u00eda P\u00e9rez": "assets/logos/upstreams/georgina-garc\u00eda-p\u00e9rez.webp",
-        "Romane Longueville": "assets/logos/upstreams/romane-longueville.webp"
+        "Romane Longueville": "assets/logos/upstreams/romane-longueville.webp",
+        "KTP Kotka II": "assets/logos/upstreams/ktp-kotka-ii.webp",
+        "Kaarinan Ura": "assets/logos/upstreams/kaarinan-ura.webp",
+        "Stade Rochelais": "assets/logos/upstreams/stade-rochelais.webp",
+        "Orleans Loiret": "assets/logos/upstreams/orleans-loiret.webp",
+        "Aix Maurienne Savoie": "assets/logos/upstreams/aix-maurienne-savoie.webp",
+        "VfL Osnabr\u00fcck": "assets/logos/upstreams/vfl-osnabr\u00fcck.webp",
+        "TSG Hoffenheim II U23": "assets/logos/upstreams/tsg-hoffenheim-ii-u23.webp",
+        "Guaiqueries de Margarita": "assets/logos/upstreams/guaiqueries-de-margarita.webp",
+        "FK Vele\u017e Mostar": "assets/logos/upstreams/fk-vele\u017e-mostar.webp",
+        "Yu-Ning Tsai": "assets/logos/upstreams/yu-ning-tsai.webp",
+        "Yuqi Liu": "assets/logos/upstreams/yuqi-liu.webp",
+        "Cangrejeros Santurce": "assets/logos/upstreams/cangrejeros-santurce.webp",
+        "Aguada Santeros": "assets/logos/upstreams/aguada-santeros.webp",
+        "Criollas de Caguas": "assets/logos/upstreams/criollas-de-caguas.webp",
+        "TNT Katropa": "assets/logos/upstreams/tnt-katropa.webp",
+        "Uniao Corinthians": "assets/logos/upstreams/uniao-corinthians.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6399,6 +6415,7 @@
         "Copa Southamericana - Gr.C": "assets/logos/leagues/copa-southamericana-grc.webp",
         "Colombia - Primera B - Apertura": "assets/logos/leagues/colombia-primera-b-apertura.webp",
         "Copa Libertadores - Gr.B": "assets/logos/leagues/copa-libertadores-grb.webp",
-        "USA - USL League One": "assets/logos/leagues/usa-usl-league-one.webp"
+        "USA - USL League One": "assets/logos/leagues/usa-usl-league-one.webp",
+        "Cup": "assets/logos/leagues/cup.webp"
     }
 }
