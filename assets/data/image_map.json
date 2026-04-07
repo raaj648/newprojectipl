@@ -5817,7 +5817,15 @@
         "Atletico Torque": "assets/logos/streamed/atletico-torque.webp",
         "Puerto Cabello": "assets/logos/streamed/puerto-cabello.webp",
         "Sporting Cristal": "assets/logos/streamed/sporting-cristal.webp",
-        "Los Angeles Galaxy": "assets/logos/streamed/los-angeles-galaxy.webp"
+        "Los Angeles Galaxy": "assets/logos/streamed/los-angeles-galaxy.webp",
+        "Mannheim": "assets/logos/upstreams/mannheim.webp",
+        "Regensburg": "assets/logos/upstreams/regensburg.webp",
+        "VfL Osnabruck": "assets/logos/upstreams/vfl-osnabruck.webp",
+        "Nordsjaelland": "assets/logos/upstreams/nordsjaelland.webp",
+        "Cottbus": "assets/logos/upstreams/cottbus.webp",
+        "Munich 1860": "assets/logos/upstreams/munich-1860.webp",
+        "Apollon": "assets/logos/upstreams/apollon.webp",
+        "Antonia Ruzic": "assets/logos/upstreams/antonia-ruzic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6550,6 +6558,7 @@
         "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp",
         "Russian Cup, Qualification": "assets/logos/leagues/russian-cup-qualification.webp",
         "Singles Matches": "assets/logos/leagues/singles-matches.webp",
-        "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp"
+        "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp",
+        "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp"
     }
 }
