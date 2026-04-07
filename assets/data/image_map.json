@@ -5827,7 +5827,9 @@
         "Apollon": "assets/logos/upstreams/apollon.webp",
         "Antonia Ruzic": "assets/logos/upstreams/antonia-ruzic.webp",
         "AS Douanes": "assets/logos/upstreams/as-douanes.webp",
-        "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp"
+        "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp",
+        "Al Ahly FC": "assets/logos/upstreams/al-ahly-fc.webp",
+        "Atlanta Gladiators": "assets/logos/upstreams/atlanta-gladiators.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
