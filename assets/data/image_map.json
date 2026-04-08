@@ -6163,7 +6163,15 @@
         "Espoo Basket Team II": "assets/logos/upstreams/espoo-basket-team-ii.webp",
         "Leppavaaran Pyrinto": "assets/logos/upstreams/leppavaaran-pyrinto.webp",
         "Kansas City Mavericks": "assets/logos/upstreams/kansas-city-mavericks.webp",
-        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp"
+        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp",
+        "UCV": "assets/logos/streamed/ucv.webp",
+        "Juventud Las Piedras": "assets/logos/streamed/juventud-las-piedras.webp",
+        "Caracas": "assets/logos/streamed/caracas.webp",
+        "Deportivo Camioneros": "assets/logos/streamed/deportivo-camioneros.webp",
+        "Macara": "assets/logos/streamed/macara.webp",
+        "Penarol": "assets/logos/streamed/penarol.webp",
+        "Highlanders": "assets/logos/streamed/highlanders.webp",
+        "Brumbies": "assets/logos/streamed/brumbies.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
