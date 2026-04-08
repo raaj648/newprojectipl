@@ -5878,7 +5878,26 @@
         "Pablo Abian": "assets/logos/upstreams/pablo-abian.webp",
         "Rasmus Gemke": "assets/logos/upstreams/rasmus-gemke.webp",
         "Luciano Doria": "assets/logos/upstreams/luciano-doria.webp",
-        "Felipe De Dios": "assets/logos/upstreams/felipe-de-dios.webp"
+        "Felipe De Dios": "assets/logos/upstreams/felipe-de-dios.webp",
+        "Club Olimpia": "assets/logos/streamed/club-olimpia.webp",
+        "Aston Villa": "assets/logos/streamed/aston-villa.webp",
+        "Nottingham Forest": "assets/logos/streamed/nottingham-forest.webp",
+        "Crystal Palace": "assets/logos/streamed/crystal-palace.webp",
+        "CD Toluca": "assets/logos/upstreams/cd-toluca.webp",
+        "Nottingham": "assets/logos/upstreams/nottingham.webp",
+        "Universidad Central Venezuela": "assets/logos/upstreams/universidad-central-venezuela.webp",
+        "CA Juventud de Las Piedras": "assets/logos/upstreams/ca-juventud-de-las-piedras.webp",
+        "Jamshedpur": "assets/logos/upstreams/jamshedpur.webp",
+        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp",
+        "Cherno More": "assets/logos/upstreams/cherno-more.webp",
+        "Italy W": "assets/logos/upstreams/italy-w.webp",
+        "Netherlands W": "assets/logos/upstreams/netherlands-w.webp",
+        "Spartak Subotica": "assets/logos/upstreams/spartak-subotica.webp",
+        "Portugal W": "assets/logos/upstreams/portugal-w.webp",
+        "Montenegro W": "assets/logos/upstreams/montenegro-w.webp",
+        "Matunga Djikasa": "assets/logos/upstreams/matunga-djikasa.webp",
+        "Adama Diop": "assets/logos/upstreams/adama-diop.webp",
+        "Canterbury Bulldogs": "assets/logos/upstreams/canterbury-bulldogs.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6613,6 +6632,15 @@
         "Singles Matches": "assets/logos/leagues/singles-matches.webp",
         "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp",
         "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp",
-        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp"
+        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp",
+        "CONMEBOL Sudamericana, Group H": "assets/logos/leagues/conmebol-sudamericana-group-h.webp",
+        "Europa Conference League": "assets/logos/leagues/europa-conference-league.webp",
+        "CONMEBOL Libertadores, Group A": "assets/logos/leagues/conmebol-libertadores-group-a.webp",
+        "CONMEBOL Libertadores, Group F": "assets/logos/leagues/conmebol-libertadores-group-f.webp",
+        "CONMEBOL Sudamericana, Group B": "assets/logos/leagues/conmebol-sudamericana-group-b.webp",
+        "Copa Libertadores - Gr.H": "assets/logos/leagues/copa-libertadores-grh.webp",
+        "Copa Southamericana - Gr.B": "assets/logos/leagues/copa-southamericana-grb.webp",
+        "European Championship Women": "assets/logos/leagues/european-championship-women.webp",
+        "Extreme Fighting Championship": "assets/logos/leagues/extreme-fighting-championship.webp"
     }
 }
