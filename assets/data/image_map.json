@@ -6153,7 +6153,9 @@
         "Xinjiang Wojiang": "assets/logos/upstreams/xinjiang-wojiang.webp",
         "Shanxi Xing Rui Flame": "assets/logos/upstreams/shanxi-xing-rui-flame.webp",
         "Panseraikos": "assets/logos/upstreams/panseraikos.webp",
-        "AEL Novibet": "assets/logos/upstreams/ael-novibet.webp"
+        "AEL Novibet": "assets/logos/upstreams/ael-novibet.webp",
+        "Bianca CompuEasto": "assets/logos/upstreams/bianca-compueasto.webp",
+        "DEastanee Aiava": "assets/logos/upstreams/deastanee-aiava.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6913,6 +6915,7 @@
         "Korean Basketball League": "assets/logos/leagues/korean-basketball-league.webp",
         "Thailand Cup": "assets/logos/leagues/thailand-cup.webp",
         "WCBA, Playoffs": "assets/logos/leagues/wcba-playoffs.webp",
-        "Super League, Relegation Round": "assets/logos/leagues/super-league-relegation-round.webp"
+        "Super League, Relegation Round": "assets/logos/leagues/super-league-relegation-round.webp",
+        "Cyprus Cup": "assets/logos/leagues/cyprus-cup.webp"
     }
 }
