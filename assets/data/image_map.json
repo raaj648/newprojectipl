@@ -6033,7 +6033,10 @@
         "Dominik Palan": "assets/logos/upstreams/dominik-palan.webp",
         "Hanyang Z.": "assets/logos/upstreams/hanyang-z.webp",
         "El Hareedy M.": "assets/logos/upstreams/el-hareedy-m.webp",
-        "Jana Kova\u010dkov\u00e1": "assets/logos/upstreams/jana-kova\u010dkov\u00e1.webp"
+        "Jana Kova\u010dkov\u00e1": "assets/logos/upstreams/jana-kova\u010dkov\u00e1.webp",
+        "Preah Khan Reach Svay Rieng FC": "assets/logos/upstreams/preah-khan-reach-svay-rieng-fc.webp",
+        "Elena Micic": "assets/logos/upstreams/elena-micic.webp",
+        "Ikumi Yamazaki": "assets/logos/upstreams/ikumi-yamazaki.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6785,6 +6788,7 @@
         "San Marino - Championshipo Sammarinese": "assets/logos/leagues/san-marino-championshipo-sammarinese.webp",
         "Germany - DEL - Playoff": "assets/logos/leagues/germany-del-playoff.webp",
         "CONMEBOL Libertadores, Group H": "assets/logos/leagues/conmebol-libertadores-group-h.webp",
-        "Philippines Football League": "assets/logos/leagues/philippines-football-league.webp"
+        "Philippines Football League": "assets/logos/leagues/philippines-football-league.webp",
+        "AFC Challenge League, Knockout Stage": "assets/logos/leagues/afc-challenge-league-knockout-stage.webp"
     }
 }
