@@ -6134,7 +6134,21 @@
         "Karl Kazuma Lee": "assets/logos/upstreams/karl-kazuma-lee.webp",
         "Scott Donaldson": "assets/logos/upstreams/scott-donaldson.webp",
         "Iulian Boiko": "assets/logos/upstreams/iulian-boiko.webp",
-        "Michael Holt": "assets/logos/upstreams/michael-holt.webp"
+        "Michael Holt": "assets/logos/upstreams/michael-holt.webp",
+        "H\u0160K Zrinjski Mostar": "assets/logos/upstreams/h\u0161k-zrinjski-mostar.webp",
+        "Pafos": "assets/logos/upstreams/pafos.webp",
+        "OKMK": "assets/logos/upstreams/okmk.webp",
+        "Termez Surkhon": "assets/logos/upstreams/termez-surkhon.webp",
+        "Trotamundos de Carabobo": "assets/logos/upstreams/trotamundos-de-carabobo.webp",
+        "Buriram": "assets/logos/upstreams/buriram.webp",
+        "Ayutthaya Utd": "assets/logos/upstreams/ayutthaya-utd.webp",
+        "Nasaf Qarshi": "assets/logos/upstreams/nasaf-qarshi.webp",
+        "Engineers Prague": "assets/logos/upstreams/engineers-prague.webp",
+        "Valentina Ivanov": "assets/logos/upstreams/valentina-ivanov.webp",
+        "Michal Krajci": "assets/logos/upstreams/michal-krajci.webp",
+        "Daniel de Jonge": "assets/logos/upstreams/daniel-de-jonge.webp",
+        "Jiangsu Phoenix": "assets/logos/upstreams/jiangsu-phoenix.webp",
+        "Sichuan Blue Whale": "assets/logos/upstreams/sichuan-blue-whale.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6891,6 +6905,8 @@
         "EHF Euro Women, Qualification Phase 2 Group 4": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-4.webp",
         "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp",
         "EHF Euro Women, Qualification Phase 2 Group 5": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-5.webp",
-        "Korean Basketball League": "assets/logos/leagues/korean-basketball-league.webp"
+        "Korean Basketball League": "assets/logos/leagues/korean-basketball-league.webp",
+        "Thailand Cup": "assets/logos/leagues/thailand-cup.webp",
+        "WCBA, Playoffs": "assets/logos/leagues/wcba-playoffs.webp"
     }
 }
