@@ -6091,7 +6091,11 @@
         "Philippine Army": "assets/logos/upstreams/philippine-army.webp",
         "Kaya-Iloilo": "assets/logos/upstreams/kaya-iloilo.webp",
         "Casey Ambler": "assets/logos/upstreams/casey-ambler.webp",
-        "Eva Vedder": "assets/logos/upstreams/eva-vedder.webp"
+        "Eva Vedder": "assets/logos/upstreams/eva-vedder.webp",
+        "Valenzuela PB-Mendiola FC": "assets/logos/upstreams/valenzuela-pb-mendiola-fc.webp",
+        "Stallion Laguna": "assets/logos/upstreams/stallion-laguna.webp",
+        "Alena Kova\u010dkov\u00e1": "assets/logos/upstreams/alena-kova\u010dkov\u00e1.webp",
+        "Anastasia Ganja": "assets/logos/upstreams/anastasia-ganja.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6846,6 +6850,7 @@
         "Philippines Football League": "assets/logos/leagues/philippines-football-league.webp",
         "AFC Challenge League, Knockout Stage": "assets/logos/leagues/afc-challenge-league-knockout-stage.webp",
         "EHF Euro Women, Qualification Phase 2 Group 4": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-4.webp",
-        "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp"
+        "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp",
+        "EHF Euro Women, Qualification Phase 2 Group 5": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-5.webp"
     }
 }
