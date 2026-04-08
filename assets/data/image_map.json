@@ -6155,7 +6155,8 @@
         "Panseraikos": "assets/logos/upstreams/panseraikos.webp",
         "AEL Novibet": "assets/logos/upstreams/ael-novibet.webp",
         "Bianca CompuEasto": "assets/logos/upstreams/bianca-compueasto.webp",
-        "DEastanee Aiava": "assets/logos/upstreams/deastanee-aiava.webp"
+        "DEastanee Aiava": "assets/logos/upstreams/deastanee-aiava.webp",
+        "Bel Air FC": "assets/logos/upstreams/bel-air-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6916,6 +6917,7 @@
         "Thailand Cup": "assets/logos/leagues/thailand-cup.webp",
         "WCBA, Playoffs": "assets/logos/leagues/wcba-playoffs.webp",
         "Super League, Relegation Round": "assets/logos/leagues/super-league-relegation-round.webp",
-        "Cyprus Cup": "assets/logos/leagues/cyprus-cup.webp"
+        "Cyprus Cup": "assets/logos/leagues/cyprus-cup.webp",
+        "Seychelles - Premier League": "assets/logos/leagues/seychelles-premier-league.webp"
     }
 }
