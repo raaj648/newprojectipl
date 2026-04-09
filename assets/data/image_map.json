@@ -6225,7 +6225,10 @@
         "Gimnasia y Esgrima de La Plata": "assets/logos/streamed/gimnasia-y-esgrima-de-la-plata.webp",
         "Carabobo": "assets/logos/streamed/carabobo.webp",
         "Highlanders Super Rugby": "assets/logos/streamed/highlanders-super-rugby.webp",
-        "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp"
+        "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp",
+        "Montevideo City": "assets/logos/upstreams/montevideo-city.webp",
+        "Ind Medellin": "assets/logos/upstreams/ind-medellin.webp",
+        "Astro Pilipovic": "assets/logos/upstreams/astro-pilipovic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -6998,6 +7001,7 @@
         "CONMEBOL Nations League Women": "assets/logos/leagues/conmebol-nations-league-women.webp",
         "CONCACAF Championship Women": "assets/logos/leagues/concacaf-championship-women.webp",
         "Billie Jean King Cup, Qualifiers": "assets/logos/leagues/billie-jean-king-cup-qualifiers.webp",
-        "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp"
+        "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
+        "MMA Fighting": "assets/logos/leagues/mma-fighting.webp"
     }
 }
