@@ -6314,7 +6314,20 @@
         "Blues": "assets/logos/streamed/blues.webp",
         "GAS RR": "assets/logos/upstreams/gas-rr.webp",
         "Yurii Dzhavakian": "assets/logos/upstreams/yurii-dzhavakian.webp",
-        "Mia Blichfeldt": "assets/logos/upstreams/mia-blichfeldt.webp"
+        "Mia Blichfeldt": "assets/logos/upstreams/mia-blichfeldt.webp",
+        "Pirot": "assets/logos/upstreams/pirot.webp",
+        "KK Proleter Naftagas": "assets/logos/upstreams/kk-proleter-naftagas.webp",
+        "Zdravlje Leskovac": "assets/logos/upstreams/zdravlje-leskovac.webp",
+        "Ivanjica": "assets/logos/upstreams/ivanjica.webp",
+        "BK Bauska": "assets/logos/upstreams/bk-bauska.webp",
+        "Kolubara": "assets/logos/upstreams/kolubara.webp",
+        "KK Beko Belgrade": "assets/logos/upstreams/kk-beko-belgrade.webp",
+        "Mladost SP": "assets/logos/upstreams/mladost-sp.webp",
+        "Ibc": "assets/logos/upstreams/ibc.webp",
+        "Jagodina": "assets/logos/upstreams/jagodina.webp",
+        "Klik Arilje": "assets/logos/upstreams/klik-arilje.webp",
+        "Piratas de La Guaira": "assets/logos/upstreams/piratas-de-la-guaira.webp",
+        "Tours": "assets/logos/upstreams/tours.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7093,6 +7106,7 @@
         "Israel - Cup": "assets/logos/leagues/israel-cup.webp",
         "Sweden - Leaguen - Playoff": "assets/logos/leagues/sweden-leaguen-playoff.webp",
         "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp",
-        "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp"
+        "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp",
+        "Ligue A": "assets/logos/leagues/ligue-a.webp"
     }
 }
