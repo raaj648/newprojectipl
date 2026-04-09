@@ -6371,7 +6371,12 @@
         "Greta Nemcsek": "assets/logos/upstreams/greta-nemcsek.webp",
         "Lea Bo\u0161kovi\u0107": "assets/logos/upstreams/lea-bo\u0161kovi\u0107.webp",
         "Noma Noha Akugue": "assets/logos/upstreams/noma-noha-akugue.webp",
-        "Mia Risti\u0107": "assets/logos/upstreams/mia-risti\u0107.webp"
+        "Mia Risti\u0107": "assets/logos/upstreams/mia-risti\u0107.webp",
+        "Bazar Brothers FC": "assets/logos/upstreams/bazar-brothers-fc.webp",
+        "Tala'ea El-Gaish": "assets/logos/upstreams/talaea-el-gaish.webp",
+        "Bloomington Bison": "assets/logos/upstreams/bloomington-bison.webp",
+        "Tara W\u00fcrth": "assets/logos/upstreams/tara-w\u00fcrth.webp",
+        "Dilana Rsovac": "assets/logos/upstreams/dilana-rsovac.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7153,6 +7158,8 @@
         "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
-        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp"
+        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp",
+        "UTR PTT Melbourne Women 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-13-16-playoffs.webp",
+        "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp"
     }
 }
