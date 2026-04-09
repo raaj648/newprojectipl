@@ -6228,7 +6228,19 @@
         "ACT Brumbies": "assets/logos/streamed/act-brumbies.webp",
         "Montevideo City": "assets/logos/upstreams/montevideo-city.webp",
         "Ind Medellin": "assets/logos/upstreams/ind-medellin.webp",
-        "Astro Pilipovic": "assets/logos/upstreams/astro-pilipovic.webp"
+        "Astro Pilipovic": "assets/logos/upstreams/astro-pilipovic.webp",
+        "Real Garcilaso": "assets/logos/upstreams/real-garcilaso.webp",
+        "SUBT": "assets/logos/upstreams/subt.webp",
+        "SC Atletiko Salina": "assets/logos/upstreams/sc-atletiko-salina.webp",
+        "NK Koper": "assets/logos/upstreams/nk-koper.webp",
+        "FC Hermannstadt": "assets/logos/upstreams/fc-hermannstadt.webp",
+        "Dep Cuenca": "assets/logos/upstreams/dep-cuenca.webp",
+        "Hermine de Nantes Atlantique": "assets/logos/upstreams/hermine-de-nantes-atlantique.webp",
+        "Richards Bay FC": "assets/logos/upstreams/richards-bay-fc.webp",
+        "Pa\u00e7os de Ferreira": "assets/logos/upstreams/pa\u00e7os-de-ferreira.webp",
+        "Wolverhampton": "assets/logos/upstreams/wolverhampton.webp",
+        "ThSV Eisenach": "assets/logos/upstreams/thsv-eisenach.webp",
+        "Haruka Kaji": "assets/logos/upstreams/haruka-kaji.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7002,6 +7014,7 @@
         "CONCACAF Championship Women": "assets/logos/leagues/concacaf-championship-women.webp",
         "Billie Jean King Cup, Qualifiers": "assets/logos/leagues/billie-jean-king-cup-qualifiers.webp",
         "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
-        "MMA Fighting": "assets/logos/leagues/mma-fighting.webp"
+        "MMA Fighting": "assets/logos/leagues/mma-fighting.webp",
+        "Copa Libertadores, Group A": "assets/logos/leagues/copa-libertadores-group-a.webp"
     }
 }
