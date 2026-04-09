@@ -6312,7 +6312,9 @@
         "Melbourne": "assets/logos/streamed/melbourne.webp",
         "Essendon": "assets/logos/streamed/essendon.webp",
         "Blues": "assets/logos/streamed/blues.webp",
-        "GAS RR": "assets/logos/upstreams/gas-rr.webp"
+        "GAS RR": "assets/logos/upstreams/gas-rr.webp",
+        "Yurii Dzhavakian": "assets/logos/upstreams/yurii-dzhavakian.webp",
+        "Mia Blichfeldt": "assets/logos/upstreams/mia-blichfeldt.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
