@@ -6426,7 +6426,9 @@
         "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp",
         "Samantha Martinez": "assets/logos/upstreams/samantha-martinez.webp",
         "Ismaily": "assets/logos/upstreams/ismaily.webp",
-        "Andrea Magallanes": "assets/logos/upstreams/andrea-magallanes.webp"
+        "Andrea Magallanes": "assets/logos/upstreams/andrea-magallanes.webp",
+        "Fort. D\u00fcsseldorf": "assets/logos/upstreams/fort-d\u00fcsseldorf.webp",
+        "Antalya": "assets/logos/upstreams/antalya.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7211,6 +7213,7 @@
         "Tennis WTA": "assets/logos/leagues/tennis-wta.webp",
         "UTR PTT Melbourne Women 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-13-16-playoffs.webp",
         "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp",
-        "Israel State Cup": "assets/logos/leagues/israel-state-cup.webp"
+        "Israel State Cup": "assets/logos/leagues/israel-state-cup.webp",
+        "Premier League, Night 10": "assets/logos/leagues/premier-league-night-10.webp"
     }
 }
