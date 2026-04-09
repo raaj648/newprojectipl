@@ -6240,7 +6240,24 @@
         "Pa\u00e7os de Ferreira": "assets/logos/upstreams/pa\u00e7os-de-ferreira.webp",
         "Wolverhampton": "assets/logos/upstreams/wolverhampton.webp",
         "ThSV Eisenach": "assets/logos/upstreams/thsv-eisenach.webp",
-        "Haruka Kaji": "assets/logos/upstreams/haruka-kaji.webp"
+        "Haruka Kaji": "assets/logos/upstreams/haruka-kaji.webp",
+        "Hapoel Beer Sheva": "assets/logos/upstreams/hapoel-beer-sheva.webp",
+        "Istanbulspor": "assets/logos/upstreams/istanbulspor.webp",
+        "\u00c7aykur Rizespor": "assets/logos/upstreams/\u00e7aykur-rizespor.webp",
+        "Jamtland": "assets/logos/upstreams/jamtland.webp",
+        "Paulistano": "assets/logos/upstreams/paulistano.webp",
+        "Uni\u00f3n Magdalena": "assets/logos/upstreams/uni\u00f3n-magdalena.webp",
+        "Rio Branco ES": "assets/logos/upstreams/rio-branco-es.webp",
+        "Liudmila Samsonova": "assets/logos/upstreams/liudmila-samsonova.webp",
+        "Angers SCO": "assets/logos/upstreams/angers-sco.webp",
+        "Gimnasia La Plata": "assets/logos/upstreams/gimnasia-la-plata.webp",
+        "Camioneros": "assets/logos/upstreams/camioneros.webp",
+        "Independiente Juniors": "assets/logos/upstreams/independiente-juniors.webp",
+        "Manawatu Jets": "assets/logos/upstreams/manawatu-jets.webp",
+        "Taranaki Airs": "assets/logos/upstreams/taranaki-airs.webp",
+        "Alice Tubello": "assets/logos/upstreams/alice-tubello.webp",
+        "Julie \u0160truplov\u00e1": "assets/logos/upstreams/julie-\u0161truplov\u00e1.webp",
+        "Aleksa Oparnica": "assets/logos/upstreams/aleksa-oparnica.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7015,6 +7032,9 @@
         "Billie Jean King Cup, Qualifiers": "assets/logos/leagues/billie-jean-king-cup-qualifiers.webp",
         "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
         "MMA Fighting": "assets/logos/leagues/mma-fighting.webp",
-        "Copa Libertadores, Group A": "assets/logos/leagues/copa-libertadores-group-a.webp"
+        "Copa Libertadores, Group A": "assets/logos/leagues/copa-libertadores-group-a.webp",
+        "Israel - Cup": "assets/logos/leagues/israel-cup.webp",
+        "Sweden - Leaguen - Playoff": "assets/logos/leagues/sweden-leaguen-playoff.webp",
+        "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp"
     }
 }
