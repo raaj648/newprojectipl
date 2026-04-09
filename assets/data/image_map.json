@@ -6344,7 +6344,12 @@
         "Sarkhosh Amir": "assets/logos/upstreams/sarkhosh-amir.webp",
         "Pullen L.": "assets/logos/upstreams/pullen-l.webp",
         "Ricky Walden": "assets/logos/upstreams/ricky-walden.webp",
-        "Robert Milkins": "assets/logos/upstreams/robert-milkins.webp"
+        "Robert Milkins": "assets/logos/upstreams/robert-milkins.webp",
+        "Buxoro": "assets/logos/upstreams/buxoro.webp",
+        "Qizilqum": "assets/logos/upstreams/qizilqum.webp",
+        "Neftchi Fargona": "assets/logos/upstreams/neftchi-fargona.webp",
+        "Pakhtakor": "assets/logos/upstreams/pakhtakor.webp",
+        "Sofia E.C.Dominguez": "assets/logos/upstreams/sofia-ecdominguez.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7125,6 +7130,7 @@
         "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp",
         "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
-        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp"
+        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
+        "Tennis WTA": "assets/logos/leagues/tennis-wta.webp"
     }
 }
