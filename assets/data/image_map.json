@@ -6743,7 +6743,8 @@
         "Tottenham": "assets/logos/streamed/tottenham.webp",
         "Newcastle": "assets/logos/streamed/newcastle.webp",
         "Luton": "assets/logos/streamed/luton.webp",
-        "Leticia Alessia Bazan Bazan": "assets/logos/upstreams/leticia-alessia-bazan-bazan.webp"
+        "Leticia Alessia Bazan Bazan": "assets/logos/upstreams/leticia-alessia-bazan-bazan.webp",
+        "Yleymi Lugiana Muelle Valdez": "assets/logos/upstreams/yleymi-lugiana-muelle-valdez.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7571,6 +7572,7 @@
         "Way of Warrior": "assets/logos/leagues/way-of-warrior.webp",
         "UTR PTT Melbourne Men 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-men-01-13-16-playoffs.webp",
         "PFL Africa 1: Pretoria": "assets/logos/leagues/pfl-africa-1-pretoria.webp",
-        "International Friendly (W)": "assets/logos/leagues/international-friendly-w.webp"
+        "International Friendly (W)": "assets/logos/leagues/international-friendly-w.webp",
+        "RFL Challenge Cup": "assets/logos/leagues/rfl-challenge-cup.webp"
     }
 }
