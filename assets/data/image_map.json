@@ -6543,7 +6543,31 @@
         "Tatiana USArez": "assets/logos/upstreams/tatiana-usarez.webp",
         "Kevin Holland": "assets/logos/upstreams/kevin-holland.webp",
         "Randy Brown": "assets/logos/upstreams/randy-brown.webp",
-        "Denver": "assets/logos/streamed/denver.webp"
+        "Denver": "assets/logos/streamed/denver.webp",
+        "RB Leipzig U19": "assets/logos/upstreams/rb-leipzig-u19.webp",
+        "M\u00f6nchengladbach U19": "assets/logos/upstreams/m\u00f6nchengladbach-u19.webp",
+        "Sporting CP B U21": "assets/logos/upstreams/sporting-cp-b-u21.webp",
+        "Newcastle Utd": "assets/logos/upstreams/newcastle-utd.webp",
+        "NK Lokomotiva Zagreb": "assets/logos/upstreams/nk-lokomotiva-zagreb.webp",
+        "Lusitano Gin\u00e1sio Clube": "assets/logos/upstreams/lusitano-gin\u00e1sio-clube.webp",
+        "1\u00ba Dezembro": "assets/logos/upstreams/1\u00ba-dezembro.webp",
+        "Magesi FC": "assets/logos/upstreams/magesi-fc.webp",
+        "Vit\u00f3ria SC B": "assets/logos/upstreams/vit\u00f3ria-sc-b.webp",
+        "Olympic Safi": "assets/logos/upstreams/olympic-safi.webp",
+        "Kayseri": "assets/logos/upstreams/kayseri.webp",
+        "SC O\u021belul Gala\u021bi": "assets/logos/upstreams/sc-o\u021belul-gala\u021bi.webp",
+        "St. Etienne": "assets/logos/upstreams/st-etienne.webp",
+        "RS Berkane": "assets/logos/upstreams/rs-berkane.webp",
+        "Deportes Santa Cruz": "assets/logos/upstreams/deportes-santa-cruz.webp",
+        "Deportes Magallanes": "assets/logos/upstreams/deportes-magallanes.webp",
+        "FC Supra Du Quebec": "assets/logos/upstreams/fc-supra-du-quebec.webp",
+        "Oakland Roots SC": "assets/logos/upstreams/oakland-roots-sc.webp",
+        "Karolina Pliskova": "assets/logos/upstreams/karolina-pliskova.webp",
+        "KK Spartak Office Shoes": "assets/logos/upstreams/kk-spartak-office-shoes.webp",
+        "BM Torrelavega": "assets/logos/upstreams/bm-torrelavega.webp",
+        "Le Mans Sarthe Basket": "assets/logos/upstreams/le-mans-sarthe-basket.webp",
+        "Limoges CSP": "assets/logos/upstreams/limoges-csp.webp",
+        "Minnesota Frost": "assets/logos/upstreams/minnesota-frost.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7343,6 +7367,12 @@
         "Oktagon": "assets/logos/leagues/oktagon.webp",
         "Hexagone MMA": "assets/logos/leagues/hexagone-mma.webp",
         "UFC": "assets/logos/leagues/ufc.webp",
-        "UFC 327: Proch\u00e1zka vs. Ulberg": "assets/logos/leagues/ufc-327-proch\u00e1zka-vs-ulberg.webp"
+        "UFC 327: Proch\u00e1zka vs. Ulberg": "assets/logos/leagues/ufc-327-proch\u00e1zka-vs-ulberg.webp",
+        "Liga 3, Relegation Round, Group 2": "assets/logos/leagues/liga-3-relegation-round-group-2.webp",
+        "Liga 3, Relegation Round, Group 1": "assets/logos/leagues/liga-3-relegation-round-group-1.webp",
+        "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp",
+        "CAF Champions League, Knockout stage": "assets/logos/leagues/caf-champions-league-knockout-stage.webp",
+        "International Friendly Games, Women": "assets/logos/leagues/international-friendly-games-women.webp",
+        "Liga de Ascenso": "assets/logos/leagues/liga-de-ascenso.webp"
     }
 }
