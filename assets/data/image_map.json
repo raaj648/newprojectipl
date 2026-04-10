@@ -6620,7 +6620,13 @@
         "Sam Craigie": "assets/logos/upstreams/sam-craigie.webp",
         "Oliver Lines": "assets/logos/upstreams/oliver-lines.webp",
         "Mark Lloyd": "assets/logos/upstreams/mark-lloyd.webp",
-        "Queen's Park": "assets/logos/streamed/queens-park.webp"
+        "Queen's Park": "assets/logos/streamed/queens-park.webp",
+        "FC Schweinfurt 05": "assets/logos/streamed/fc-schweinfurt-05.webp",
+        "PAU": "assets/logos/streamed/pau.webp",
+        "Al Shabab": "assets/logos/streamed/al-shabab.webp",
+        "1899 Hoffenheim": "assets/logos/streamed/1899-hoffenheim.webp",
+        "St Patrick's Athl.": "assets/logos/streamed/st-patricks-athl.webp",
+        "West Brom": "assets/logos/streamed/west-brom.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
