@@ -6950,7 +6950,10 @@
         "Orense": "assets/logos/upstreams/orense.webp",
         "Libertad FC": "assets/logos/upstreams/libertad-fc.webp",
         "Atlante": "assets/logos/upstreams/atlante.webp",
-        "Stefan Popovic": "assets/logos/upstreams/stefan-popovic.webp"
+        "Stefan Popovic": "assets/logos/upstreams/stefan-popovic.webp",
+        "Huntsville City": "assets/logos/streamed/huntsville-city.webp",
+        "CRB": "assets/logos/streamed/crb.webp",
+        "Athletic Club-MG": "assets/logos/streamed/athletic-club-mg.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
