@@ -7065,7 +7065,9 @@
         "Maharlika Manila": "assets/logos/upstreams/maharlika-manila.webp",
         "Tuloy FC": "assets/logos/upstreams/tuloy-fc.webp",
         "St. Peters FC": "assets/logos/upstreams/st-peters-fc.webp",
-        "UANL Tigres UANL": "assets/logos/upstreams/uanl-tigres-uanl.webp"
+        "UANL Tigres UANL": "assets/logos/upstreams/uanl-tigres-uanl.webp",
+        "Kana Watanabe": "assets/logos/upstreams/kana-watanabe.webp",
+        "Paulina Wi\u015bniewska": "assets/logos/upstreams/paulina-wi\u015bniewska.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7945,6 +7947,7 @@
         "Rouen, France, Qualifying": "assets/logos/leagues/rouen-france-qualifying.webp",
         "Stuttgart, Germany, Qualifying": "assets/logos/leagues/stuttgart-germany-qualifying.webp",
         "Halo World Championship": "assets/logos/leagues/halo-world-championship.webp",
-        "Montenegro - I A MCKL": "assets/logos/leagues/montenegro-i-a-mckl.webp"
+        "Montenegro - I A MCKL": "assets/logos/leagues/montenegro-i-a-mckl.webp",
+        "PFL Chicago: Pettis vs. McKee": "assets/logos/leagues/pfl-chicago-pettis-vs-mckee.webp"
     }
 }
