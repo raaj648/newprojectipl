@@ -7022,7 +7022,12 @@
         "Garage FC": "assets/logos/upstreams/garage-fc.webp",
         "Muzinga FC": "assets/logos/upstreams/muzinga-fc.webp",
         "Konstantin Nis": "assets/logos/upstreams/konstantin-nis.webp",
-        "Dunav Stari Banovci": "assets/logos/upstreams/dunav-stari-banovci.webp"
+        "Dunav Stari Banovci": "assets/logos/upstreams/dunav-stari-banovci.webp",
+        "AFS": "assets/logos/upstreams/afs.webp",
+        "Burton": "assets/logos/upstreams/burton.webp",
+        "Salford": "assets/logos/upstreams/salford.webp",
+        "Fleetwood": "assets/logos/upstreams/fleetwood.webp",
+        "Raith": "assets/logos/upstreams/raith.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
