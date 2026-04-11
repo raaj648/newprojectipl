@@ -7004,7 +7004,11 @@
         "Orijent 1919": "assets/logos/upstreams/orijent-1919.webp",
         "Giulio Zeppieri": "assets/logos/upstreams/giulio-zeppieri.webp",
         "Jesper de Jong": "assets/logos/upstreams/jesper-de-jong.webp",
-        "Ankita Raina": "assets/logos/upstreams/ankita-raina.webp"
+        "Ankita Raina": "assets/logos/upstreams/ankita-raina.webp",
+        "Pablo Carre\u00f1o Busta": "assets/logos/upstreams/pablo-carre\u00f1o-busta.webp",
+        "Tiantsoa R. Rajaonah": "assets/logos/upstreams/tiantsoa-r-rajaonah.webp",
+        "Ronnie O'Sullivan": "assets/logos/upstreams/ronnie-osullivan.webp",
+        "Stephen Hendry": "assets/logos/upstreams/stephen-hendry.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7874,6 +7878,8 @@
         "Atp Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
         "Italy - Serie B - Gr.B": "assets/logos/leagues/italy-serie-b-grb.webp",
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
-        "UTR PTT Belgrade Women 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-1-4-playoffs.webp"
+        "UTR PTT Belgrade Women 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-1-4-playoffs.webp",
+        "Barcelona, Spain, Qualifying": "assets/logos/leagues/barcelona-spain-qualifying.webp",
+        "UTR PTT Belgrade Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-9-12-playoffs.webp"
     }
 }
