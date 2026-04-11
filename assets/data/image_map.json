@@ -6859,7 +6859,19 @@
         "AD Marco 09": "assets/logos/upstreams/ad-marco-09.webp",
         "Amora": "assets/logos/upstreams/amora.webp",
         "Caldas SC": "assets/logos/upstreams/caldas-sc.webp",
-        "Atletico CP": "assets/logos/upstreams/atletico-cp.webp"
+        "Atletico CP": "assets/logos/upstreams/atletico-cp.webp",
+        "Levadia Tallinn U21": "assets/logos/upstreams/levadia-tallinn-u21.webp",
+        "Start": "assets/logos/upstreams/start.webp",
+        "Egersund": "assets/logos/upstreams/egersund.webp",
+        "TerMalica Nieciecza": "assets/logos/upstreams/termalica-nieciecza.webp",
+        "Rigas FS II": "assets/logos/upstreams/rigas-fs-ii.webp",
+        "FS Metta": "assets/logos/upstreams/fs-metta.webp",
+        "Ourense": "assets/logos/upstreams/ourense.webp",
+        "Fuenlabrada": "assets/logos/upstreams/fuenlabrada.webp",
+        "CB Zamora": "assets/logos/upstreams/cb-zamora.webp",
+        "Fibwi Palma": "assets/logos/upstreams/fibwi-palma.webp",
+        "Cremona": "assets/logos/upstreams/cremona.webp",
+        "Alexa Karatancheva": "assets/logos/upstreams/alexa-karatancheva.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7708,6 +7720,7 @@
         "Segunda Division B - Group 5": "assets/logos/leagues/segunda-division-b-group-5.webp",
         "Welsh Cup": "assets/logos/leagues/welsh-cup.webp",
         "Division Profesional": "assets/logos/leagues/division-profesional.webp",
-        "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp"
+        "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
+        "UTR PTT Belgrade Women 03": "assets/logos/leagues/utr-ptt-belgrade-women-03.webp"
     }
 }
