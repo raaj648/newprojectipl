@@ -6965,7 +6965,19 @@
         "Gabriela Andrea Knutson": "assets/logos/upstreams/gabriela-andrea-knutson.webp",
         "Lysekloster": "assets/logos/upstreams/lysekloster.webp",
         "Vidar": "assets/logos/upstreams/vidar.webp",
-        "Dynamic Togolais": "assets/logos/upstreams/dynamic-togolais.webp"
+        "Dynamic Togolais": "assets/logos/upstreams/dynamic-togolais.webp",
+        "Aurora Desio": "assets/logos/upstreams/aurora-desio.webp",
+        "Cb Moron": "assets/logos/upstreams/cb-moron.webp",
+        "Ciudad de Ponferrada": "assets/logos/upstreams/ciudad-de-ponferrada.webp",
+        "Pirlo Kufstein Towers": "assets/logos/upstreams/pirlo-kufstein-towers.webp",
+        "Virtus Roma 1960": "assets/logos/upstreams/virtus-roma-1960.webp",
+        "Dany Quarrata": "assets/logos/upstreams/dany-quarrata.webp",
+        "Caceres": "assets/logos/upstreams/caceres.webp",
+        "Cultural Y Deportiva Leonesa": "assets/logos/upstreams/cultural-y-deportiva-leonesa.webp",
+        "Spanish Academy": "assets/logos/upstreams/spanish-academy.webp",
+        "Molina": "assets/logos/upstreams/molina.webp",
+        "Macau B.Bears": "assets/logos/upstreams/macau-bbears.webp",
+        "Diablos de MIranda": "assets/logos/upstreams/diablos-de-miranda.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7832,6 +7844,8 @@
         "football": "assets/logos/leagues/football.webp",
         "UTR PTT Melbourne Men 01": "assets/logos/leagues/utr-ptt-melbourne-men-01.webp",
         "WTA Billie Jean King Cup": "assets/logos/leagues/wta-billie-jean-king-cup.webp",
-        "Atp Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp"
+        "Atp Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
+        "Italy - Serie B - Gr.B": "assets/logos/leagues/italy-serie-b-grb.webp",
+        "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp"
     }
 }
