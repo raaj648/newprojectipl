@@ -7008,7 +7008,13 @@
         "Pablo Carre\u00f1o Busta": "assets/logos/upstreams/pablo-carre\u00f1o-busta.webp",
         "Tiantsoa R. Rajaonah": "assets/logos/upstreams/tiantsoa-r-rajaonah.webp",
         "Ronnie O'Sullivan": "assets/logos/upstreams/ronnie-osullivan.webp",
-        "Stephen Hendry": "assets/logos/upstreams/stephen-hendry.webp"
+        "Stephen Hendry": "assets/logos/upstreams/stephen-hendry.webp",
+        "Palmerston Rovers": "assets/logos/upstreams/palmerston-rovers.webp",
+        "University Azzurri FC": "assets/logos/upstreams/university-azzurri-fc.webp",
+        "Cote d'Or FC": "assets/logos/upstreams/cote-dor-fc.webp",
+        "Light Stars FC": "assets/logos/upstreams/light-stars-fc.webp",
+        "Nakhon Ratchasima FC": "assets/logos/upstreams/nakhon-ratchasima-fc.webp",
+        "Chemal FC": "assets/logos/upstreams/chemal-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7880,6 +7886,8 @@
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
         "UTR PTT Belgrade Women 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-1-4-playoffs.webp",
         "Barcelona, Spain, Qualifying": "assets/logos/leagues/barcelona-spain-qualifying.webp",
-        "UTR PTT Belgrade Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-9-12-playoffs.webp"
+        "UTR PTT Belgrade Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-9-12-playoffs.webp",
+        "Australia - NPL - Northern Territory": "assets/logos/leagues/australia-npl-northern-territory.webp",
+        "UTR PTT Belgrade Women 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-5-8-playoffs.webp"
     }
 }
