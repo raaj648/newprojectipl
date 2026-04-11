@@ -6927,7 +6927,30 @@
         "Eva Marie Vorace": "assets/logos/upstreams/eva-marie-vorace.webp",
         "KK Zemun": "assets/logos/upstreams/kk-zemun.webp",
         "Helios Domzale": "assets/logos/upstreams/helios-domzale.webp",
-        "Polzela": "assets/logos/upstreams/polzela.webp"
+        "Polzela": "assets/logos/upstreams/polzela.webp",
+        "Granville Rage": "assets/logos/upstreams/granville-rage.webp",
+        "Bankstown United": "assets/logos/upstreams/bankstown-united.webp",
+        "HHC Hardenberg": "assets/logos/upstreams/hhc-hardenberg.webp",
+        "Ekenas": "assets/logos/upstreams/ekenas.webp",
+        "Vicenza": "assets/logos/upstreams/vicenza.webp",
+        "Skala IF": "assets/logos/upstreams/skala-if.webp",
+        "CA San Miguel": "assets/logos/upstreams/ca-san-miguel.webp",
+        "Deportivo Moron": "assets/logos/upstreams/deportivo-moron.webp",
+        "Patronato Parana": "assets/logos/upstreams/patronato-parana.webp",
+        "Club Brugge": "assets/logos/upstreams/club-brugge.webp",
+        "Real Soacha Cundinamarca": "assets/logos/upstreams/real-soacha-cundinamarca.webp",
+        "Mushuc Runa": "assets/logos/upstreams/mushuc-runa.webp",
+        "Manta": "assets/logos/upstreams/manta.webp",
+        "ABB": "assets/logos/upstreams/abb.webp",
+        "Zamora FC Barinas II": "assets/logos/upstreams/zamora-fc-barinas-ii.webp",
+        "Academia Puerto Cabello (R)": "assets/logos/upstreams/academia-puerto-cabello-r.webp",
+        "Colon de Santa Fe": "assets/logos/upstreams/colon-de-santa-fe.webp",
+        "Racing Cordoba": "assets/logos/upstreams/racing-cordoba.webp",
+        "Real Frontera": "assets/logos/upstreams/real-frontera.webp",
+        "Orense": "assets/logos/upstreams/orense.webp",
+        "Libertad FC": "assets/logos/upstreams/libertad-fc.webp",
+        "Atlante": "assets/logos/upstreams/atlante.webp",
+        "Stefan Popovic": "assets/logos/upstreams/stefan-popovic.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7789,6 +7812,7 @@
         "Italy - Serie C - Gr.A": "assets/logos/leagues/italy-serie-c-gra.webp",
         "Italy - Serie C - Gr.B": "assets/logos/leagues/italy-serie-c-grb.webp",
         "Sweden - Ettan Norra": "assets/logos/leagues/sweden-ettan-norra.webp",
-        "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp"
+        "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp",
+        "Australia - NSW - Premier League 2": "assets/logos/leagues/australia-nsw-premier-league-2.webp"
     }
 }
