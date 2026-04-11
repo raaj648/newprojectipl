@@ -6953,7 +6953,9 @@
         "Stefan Popovic": "assets/logos/upstreams/stefan-popovic.webp",
         "Huntsville City": "assets/logos/streamed/huntsville-city.webp",
         "CRB": "assets/logos/streamed/crb.webp",
-        "Athletic Club-MG": "assets/logos/streamed/athletic-club-mg.webp"
+        "Athletic Club-MG": "assets/logos/streamed/athletic-club-mg.webp",
+        "Australia W": "assets/logos/upstreams/australia-w.webp",
+        "Great Britain W": "assets/logos/upstreams/great-britain-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7818,6 +7820,8 @@
         "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp",
         "Australia - NSW - Premier League 2": "assets/logos/leagues/australia-nsw-premier-league-2.webp",
         "football": "assets/logos/leagues/football.webp",
-        "UTR PTT Melbourne Men 01": "assets/logos/leagues/utr-ptt-melbourne-men-01.webp"
+        "UTR PTT Melbourne Men 01": "assets/logos/leagues/utr-ptt-melbourne-men-01.webp",
+        "WTA Billie Jean King Cup": "assets/logos/leagues/wta-billie-jean-king-cup.webp",
+        "Atp Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp"
     }
 }
