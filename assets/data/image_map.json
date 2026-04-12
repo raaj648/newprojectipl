@@ -7067,7 +7067,23 @@
         "St. Peters FC": "assets/logos/upstreams/st-peters-fc.webp",
         "UANL Tigres UANL": "assets/logos/upstreams/uanl-tigres-uanl.webp",
         "Kana Watanabe": "assets/logos/upstreams/kana-watanabe.webp",
-        "Paulina Wi\u015bniewska": "assets/logos/upstreams/paulina-wi\u015bniewska.webp"
+        "Paulina Wi\u015bniewska": "assets/logos/upstreams/paulina-wi\u015bniewska.webp",
+        "Jir\u00c3\u00ad Proch\u00c3\u00a1zka": "assets/logos/streamed/jir\u00e3-proch\u00e3zka.webp",
+        "Al-Duhail": "assets/logos/streamed/al-duhail.webp",
+        "Chicago Hounds": "assets/logos/upstreams/chicago-hounds.webp",
+        "Cluj Napoca": "assets/logos/upstreams/cluj-napoca.webp",
+        "Metaloglobus": "assets/logos/upstreams/metaloglobus.webp",
+        "Jong AZ": "assets/logos/upstreams/jong-az.webp",
+        "CS U. Craiova": "assets/logos/upstreams/cs-u-craiova.webp",
+        "Al Ahli SC": "assets/logos/upstreams/al-ahli-sc.webp",
+        "Shamal": "assets/logos/upstreams/shamal.webp",
+        "Lusitania FC": "assets/logos/upstreams/lusitania-fc.webp",
+        "Mega Superbet": "assets/logos/upstreams/mega-superbet.webp",
+        "Porto B": "assets/logos/upstreams/porto-b.webp",
+        "Al Hilal": "assets/logos/upstreams/al-hilal.webp",
+        "Borac Cacak": "assets/logos/upstreams/borac-cacak.webp",
+        "CD Tondela x Gil Vicente FC": "assets/logos/upstreams/cd-tondela-x-gil-vicente-fc.webp",
+        "Primeira Liga": "assets/logos/upstreams/primeira-liga.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -7948,6 +7964,7 @@
         "Stuttgart, Germany, Qualifying": "assets/logos/leagues/stuttgart-germany-qualifying.webp",
         "Halo World Championship": "assets/logos/leagues/halo-world-championship.webp",
         "Montenegro - I A MCKL": "assets/logos/leagues/montenegro-i-a-mckl.webp",
-        "PFL Chicago: Pettis vs. McKee": "assets/logos/leagues/pfl-chicago-pettis-vs-mckee.webp"
+        "PFL Chicago: Pettis vs. McKee": "assets/logos/leagues/pfl-chicago-pettis-vs-mckee.webp",
+        "AFC Champions League": "assets/logos/leagues/afc-champions-league.webp"
     }
 }
