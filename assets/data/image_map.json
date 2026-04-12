@@ -7332,7 +7332,8 @@
         "Germany W": "assets/logos/streamed/germany-w.webp",
         "Austria W": "assets/logos/streamed/austria-w.webp",
         "Ezequiel Monferrer": "assets/logos/upstreams/ezequiel-monferrer.webp",
-        "Boris Arias": "assets/logos/upstreams/boris-arias.webp"
+        "Boris Arias": "assets/logos/upstreams/boris-arias.webp",
+        "Noah Schachter": "assets/logos/upstreams/noah-schachter.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8225,6 +8226,7 @@
         "Oeiras 3, Portugal, Qualifying": "assets/logos/leagues/oeiras-3-portugal-qualifying.webp",
         "Switzerland Super League": "assets/logos/leagues/switzerland-super-league.webp",
         "UTR PTT Cordoba Men +H 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-1-4-playoffs.webp",
-        "Tallahassee, USA, Qualifying": "assets/logos/leagues/tallahassee-usa-qualifying.webp"
+        "Tallahassee, USA, Qualifying": "assets/logos/leagues/tallahassee-usa-qualifying.webp",
+        "Santa Cruz, Bolivia, Qualifying": "assets/logos/leagues/santa-cruz-bolivia-qualifying.webp"
     }
 }
