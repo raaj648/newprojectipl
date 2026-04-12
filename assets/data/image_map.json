@@ -7189,7 +7189,24 @@
         "Ji Sung Nam": "assets/logos/upstreams/ji-sung-nam.webp",
         "Dong Ju Kim": "assets/logos/upstreams/dong-ju-kim.webp",
         "Hikaru Shiraishi": "assets/logos/upstreams/hikaru-shiraishi.webp",
-        "Woobin Shin": "assets/logos/upstreams/woobin-shin.webp"
+        "Woobin Shin": "assets/logos/upstreams/woobin-shin.webp",
+        "Utsikten": "assets/logos/upstreams/utsikten.webp",
+        "AC Ospitaletto": "assets/logos/upstreams/ac-ospitaletto.webp",
+        "Livorno": "assets/logos/upstreams/livorno.webp",
+        "Tecnico Universitario": "assets/logos/upstreams/tecnico-universitario.webp",
+        "Thor Akureyri": "assets/logos/upstreams/thor-akureyri.webp",
+        "KA Akureyri": "assets/logos/upstreams/ka-akureyri.webp",
+        "Racing Santander": "assets/logos/upstreams/racing-santander.webp",
+        "Fram Reykjavik": "assets/logos/upstreams/fram-reykjavik.webp",
+        "IA Akranes": "assets/logos/upstreams/ia-akranes.webp",
+        "Athletic Club MG": "assets/logos/upstreams/athletic-club-mg.webp",
+        "Pawit Sornlaksup": "assets/logos/upstreams/pawit-sornlaksup.webp",
+        "Takuya Kumasaka": "assets/logos/upstreams/takuya-kumasaka.webp",
+        "Daniel Masur": "assets/logos/upstreams/daniel-masur.webp",
+        "Dong Geon Kim": "assets/logos/upstreams/dong-geon-kim.webp",
+        "Renta Tokuda": "assets/logos/upstreams/renta-tokuda.webp",
+        "Ku Keon Kang": "assets/logos/upstreams/ku-keon-kang.webp",
+        "Yuta Shimizu": "assets/logos/upstreams/yuta-shimizu.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8076,6 +8093,7 @@
         "Swiss - Super League": "assets/logos/leagues/swiss-super-league.webp",
         "A-league": "assets/logos/leagues/a-league.webp",
         "UTR PTT Melbourne Men 02, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-02-group-d.webp",
-        "Busan, Korea Republic, Qualifying": "assets/logos/leagues/busan-korea-republic-qualifying.webp"
+        "Busan, Korea Republic, Qualifying": "assets/logos/leagues/busan-korea-republic-qualifying.webp",
+        "Italy - Serie C - Gr.C": "assets/logos/leagues/italy-serie-c-grc.webp"
     }
 }
