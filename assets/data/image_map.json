@@ -7090,7 +7090,9 @@
         "New York City": "assets/logos/upstreams/new-york-city.webp",
         "Fort Wayne": "assets/logos/upstreams/fort-wayne.webp",
         "New York RB": "assets/logos/upstreams/new-york-rb.webp",
-        "Alajuelense": "assets/logos/upstreams/alajuelense.webp"
+        "Alajuelense": "assets/logos/upstreams/alajuelense.webp",
+        "Sporting Aruba": "assets/logos/upstreams/sporting-aruba.webp",
+        "Jonas Hahn": "assets/logos/upstreams/jonas-hahn.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
