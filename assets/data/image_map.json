@@ -7296,7 +7296,9 @@
         "Lions de Geneve U23": "assets/logos/upstreams/lions-de-geneve-u23.webp",
         "Goldcoast Wallabies": "assets/logos/upstreams/goldcoast-wallabies.webp",
         "Sav Vacallo": "assets/logos/upstreams/sav-vacallo.webp",
-        "Challengers Bengaluru": "assets/logos/upstreams/challengers-bengaluru.webp"
+        "Challengers Bengaluru": "assets/logos/upstreams/challengers-bengaluru.webp",
+        "Erzgebbirge Aue": "assets/logos/upstreams/erzgebbirge-aue.webp",
+        "Bc Nokia (W)": "assets/logos/upstreams/bc-nokia-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8186,6 +8188,7 @@
         "Busan, Korea Republic, Qualifying": "assets/logos/leagues/busan-korea-republic-qualifying.webp",
         "Italy - Serie C - Gr.C": "assets/logos/leagues/italy-serie-c-grc.webp",
         "WAFL": "assets/logos/leagues/wafl.webp",
-        "Oeiras 3, Portugal, Qualifying": "assets/logos/leagues/oeiras-3-portugal-qualifying.webp"
+        "Oeiras 3, Portugal, Qualifying": "assets/logos/leagues/oeiras-3-portugal-qualifying.webp",
+        "Switzerland Super League": "assets/logos/leagues/switzerland-super-league.webp"
     }
 }
