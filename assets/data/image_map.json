@@ -7333,7 +7333,10 @@
         "Austria W": "assets/logos/streamed/austria-w.webp",
         "Ezequiel Monferrer": "assets/logos/upstreams/ezequiel-monferrer.webp",
         "Boris Arias": "assets/logos/upstreams/boris-arias.webp",
-        "Noah Schachter": "assets/logos/upstreams/noah-schachter.webp"
+        "Noah Schachter": "assets/logos/upstreams/noah-schachter.webp",
+        "Laura Siegemund": "assets/logos/upstreams/laura-siegemund.webp",
+        "Nicolas Ciancaglini": "assets/logos/upstreams/nicolas-ciancaglini.webp",
+        "Joao Vitor Scramin do Lago": "assets/logos/upstreams/joao-vitor-scramin-do-lago.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8227,6 +8230,9 @@
         "Switzerland Super League": "assets/logos/leagues/switzerland-super-league.webp",
         "UTR PTT Cordoba Men +H 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-1-4-playoffs.webp",
         "Tallahassee, USA, Qualifying": "assets/logos/leagues/tallahassee-usa-qualifying.webp",
-        "Santa Cruz, Bolivia, Qualifying": "assets/logos/leagues/santa-cruz-bolivia-qualifying.webp"
+        "Santa Cruz, Bolivia, Qualifying": "assets/logos/leagues/santa-cruz-bolivia-qualifying.webp",
+        "ATP Munich": "assets/logos/leagues/atp-munich.webp",
+        "ATP Barcelona": "assets/logos/leagues/atp-barcelona.webp",
+        "WTA Stuttgart": "assets/logos/leagues/wta-stuttgart.webp"
     }
 }
