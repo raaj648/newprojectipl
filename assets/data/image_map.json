@@ -7185,7 +7185,11 @@
         "Atletico de Cali": "assets/logos/upstreams/atletico-de-cali.webp",
         "Artilheiros": "assets/logos/upstreams/artilheiros.webp",
         "Leo Vithoontien": "assets/logos/upstreams/leo-vithoontien.webp",
-        "Yusuke Kusuhara": "assets/logos/upstreams/yusuke-kusuhara.webp"
+        "Yusuke Kusuhara": "assets/logos/upstreams/yusuke-kusuhara.webp",
+        "Ji Sung Nam": "assets/logos/upstreams/ji-sung-nam.webp",
+        "Dong Ju Kim": "assets/logos/upstreams/dong-ju-kim.webp",
+        "Hikaru Shiraishi": "assets/logos/upstreams/hikaru-shiraishi.webp",
+        "Woobin Shin": "assets/logos/upstreams/woobin-shin.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8071,6 +8075,7 @@
         "UTR PTT Cordoba Men 03": "assets/logos/leagues/utr-ptt-cordoba-men-03.webp",
         "Swiss - Super League": "assets/logos/leagues/swiss-super-league.webp",
         "A-league": "assets/logos/leagues/a-league.webp",
-        "UTR PTT Melbourne Men 02, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-02-group-d.webp"
+        "UTR PTT Melbourne Men 02, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-02-group-d.webp",
+        "Busan, Korea Republic, Qualifying": "assets/logos/leagues/busan-korea-republic-qualifying.webp"
     }
 }
