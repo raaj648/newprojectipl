@@ -7259,7 +7259,9 @@
         "Trotamundos Carabobo": "assets/logos/upstreams/trotamundos-carabobo.webp",
         "Seoul Knights": "assets/logos/upstreams/seoul-knights.webp",
         "Goyang Orions": "assets/logos/upstreams/goyang-orions.webp",
-        "Greater Western Sydney": "assets/logos/upstreams/greater-western-sydney.webp"
+        "Greater Western Sydney": "assets/logos/upstreams/greater-western-sydney.webp",
+        "West Coast": "assets/logos/upstreams/west-coast.webp",
+        "West Perth": "assets/logos/upstreams/west-perth.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8147,6 +8149,7 @@
         "A-league": "assets/logos/leagues/a-league.webp",
         "UTR PTT Melbourne Men 02, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-02-group-d.webp",
         "Busan, Korea Republic, Qualifying": "assets/logos/leagues/busan-korea-republic-qualifying.webp",
-        "Italy - Serie C - Gr.C": "assets/logos/leagues/italy-serie-c-grc.webp"
+        "Italy - Serie C - Gr.C": "assets/logos/leagues/italy-serie-c-grc.webp",
+        "WAFL": "assets/logos/leagues/wafl.webp"
     }
 }
