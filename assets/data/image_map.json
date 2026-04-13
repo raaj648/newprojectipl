@@ -7501,7 +7501,8 @@
         "Luisa Fusil": "assets/logos/upstreams/luisa-fusil.webp",
         "Gheorghe Claudiu Schinteie": "assets/logos/upstreams/gheorghe-claudiu-schinteie.webp",
         "Vanya Virmani": "assets/logos/upstreams/vanya-virmani.webp",
-        "James McGloughlin": "assets/logos/upstreams/james-mcgloughlin.webp"
+        "James McGloughlin": "assets/logos/upstreams/james-mcgloughlin.webp",
+        "Tom Sickenberger": "assets/logos/upstreams/tom-sickenberger.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8406,6 +8407,7 @@
         "UTR PTT Melbourne Women 02, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-02-group-a.webp",
         "World Cup Women": "assets/logos/leagues/world-cup-women.webp",
         "USA - MLB": "assets/logos/leagues/usa-mlb.webp",
-        "WTA Rouen": "assets/logos/leagues/wta-rouen.webp"
+        "WTA Rouen": "assets/logos/leagues/wta-rouen.webp",
+        "AFC Champions League Elite": "assets/logos/leagues/afc-champions-league-elite.webp"
     }
 }
