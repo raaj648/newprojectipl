@@ -7518,7 +7518,8 @@
         "Iva Primorac": "assets/logos/upstreams/iva-primorac.webp",
         "Chak Lam Coleman Wong": "assets/logos/upstreams/chak-lam-coleman-wong.webp",
         "Leonel Cesar Castro": "assets/logos/upstreams/leonel-cesar-castro.webp",
-        "Valentino Aliano": "assets/logos/upstreams/valentino-aliano.webp"
+        "Valentino Aliano": "assets/logos/upstreams/valentino-aliano.webp",
+        "Francesca Dell'Edera": "assets/logos/upstreams/francesca-delledera.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8431,6 +8432,9 @@
         "Munich, Germany": "assets/logos/leagues/munich-germany.webp",
         "Rouen, France": "assets/logos/leagues/rouen-france.webp",
         "UTR PTT Belgrade Men 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-b.webp",
-        "UTR PTT Belgrade Men 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-d.webp"
+        "UTR PTT Belgrade Men 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-d.webp",
+        "UTR PTT Belgrade Men 03, Group C": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-c.webp",
+        "UTR PTT Cordoba Men +H 04, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-b.webp",
+        "UTR PTT Cordoba Men +H 04, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-c.webp"
     }
 }
