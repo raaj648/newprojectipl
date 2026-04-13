@@ -7418,7 +7418,12 @@
         "AS Otr": "assets/logos/upstreams/as-otr.webp",
         "Unisport Sokode": "assets/logos/upstreams/unisport-sokode.webp",
         "Nogomet: Bolgarska liga: Botev Vratsa": "assets/logos/upstreams/nogomet-bolgarska-liga-botev-vratsa.webp",
-        "Balikesir Belediye Spor": "assets/logos/upstreams/balikesir-belediye-spor.webp"
+        "Balikesir Belediye Spor": "assets/logos/upstreams/balikesir-belediye-spor.webp",
+        "Tayisiya Morderger": "assets/logos/upstreams/tayisiya-morderger.webp",
+        "Pia Lovric": "assets/logos/upstreams/pia-lovric.webp",
+        "Miomir Kecmanovic": "assets/logos/upstreams/miomir-kecmanovic.webp",
+        "Anamari Znuderl": "assets/logos/upstreams/anamari-znuderl.webp",
+        "Ivana SebEastova": "assets/logos/upstreams/ivana-sebeastova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8321,6 +8326,7 @@
         "NBA, Play-IN Tournament": "assets/logos/leagues/nba-play-in-tournament.webp",
         "Busan, Korea Republic": "assets/logos/leagues/busan-korea-republic.webp",
         "UTR PTT Melbourne Women 02, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-02-group-a.webp",
-        "World Cup Women": "assets/logos/leagues/world-cup-women.webp"
+        "World Cup Women": "assets/logos/leagues/world-cup-women.webp",
+        "USA - MLB": "assets/logos/leagues/usa-mlb.webp"
     }
 }
