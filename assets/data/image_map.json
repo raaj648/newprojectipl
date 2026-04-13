@@ -7392,7 +7392,18 @@
         "Internacional de Palmira": "assets/logos/upstreams/internacional-de-palmira.webp",
         "CA Banfield": "assets/logos/upstreams/ca-banfield.webp",
         "Patriotas Boyaca": "assets/logos/upstreams/patriotas-boyaca.webp",
-        "Envigado": "assets/logos/upstreams/envigado.webp"
+        "Envigado": "assets/logos/upstreams/envigado.webp",
+        "Gilla FC": "assets/logos/upstreams/gilla-fc.webp",
+        "PPJ": "assets/logos/upstreams/ppj.webp",
+        "Catania Calcio": "assets/logos/upstreams/catania-calcio.webp",
+        "Pro Patria": "assets/logos/upstreams/pro-patria.webp",
+        "Lexie Weir": "assets/logos/upstreams/lexie-weir.webp",
+        "Georgiana Ruhrig": "assets/logos/upstreams/georgiana-ruhrig.webp",
+        "Haruto Ishikawa": "assets/logos/upstreams/haruto-ishikawa.webp",
+        "Giacomo Crisostomo": "assets/logos/upstreams/giacomo-crisostomo.webp",
+        "Vaajakoski": "assets/logos/upstreams/vaajakoski.webp",
+        "JJK Jyvaskyla": "assets/logos/upstreams/jjk-jyvaskyla.webp",
+        "MKS Kalisz": "assets/logos/upstreams/mks-kalisz.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8290,6 +8301,7 @@
         "ATP Munich": "assets/logos/leagues/atp-munich.webp",
         "ATP Barcelona": "assets/logos/leagues/atp-barcelona.webp",
         "WTA Stuttgart": "assets/logos/leagues/wta-stuttgart.webp",
-        "Oeiras 3, Portugal": "assets/logos/leagues/oeiras-3-portugal.webp"
+        "Oeiras 3, Portugal": "assets/logos/leagues/oeiras-3-portugal.webp",
+        "Finland - Cup": "assets/logos/leagues/finland-cup.webp"
     }
 }
