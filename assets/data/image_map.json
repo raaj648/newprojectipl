@@ -7760,7 +7760,10 @@
         "Rigas Zelli": "assets/logos/upstreams/rigas-zelli.webp",
         "Hapk": "assets/logos/upstreams/hapk.webp",
         "Ogre": "assets/logos/upstreams/ogre.webp",
-        "Ventspils": "assets/logos/upstreams/ventspils.webp"
+        "Ventspils": "assets/logos/upstreams/ventspils.webp",
+        "Tenis: Turniej ATP w Barcelonie": "assets/logos/upstreams/tenis-turniej-atp-w-barcelonie.webp",
+        "mecz 2. rundy gry pojedynczej": "assets/logos/upstreams/mecz-2-rundy-gry-pojedynczej.webp",
+        "Fiona Crawley": "assets/logos/upstreams/fiona-crawley.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8683,6 +8686,7 @@
         "Slovakia - Cup": "assets/logos/leagues/slovakia-cup.webp",
         "EUROLEAGUE": "assets/logos/leagues/euroleague.webp",
         "UTR PTT Belgrade Women 04, Group B": "assets/logos/leagues/utr-ptt-belgrade-women-04-group-b.webp",
-        "UTR PTT Cordoba Men +H 04, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-d.webp"
+        "UTR PTT Cordoba Men +H 04, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-d.webp",
+        "Atp Barcelona": "assets/logos/leagues/atp-barcelona.webp"
     }
 }
