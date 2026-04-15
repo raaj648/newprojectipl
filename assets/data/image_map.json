@@ -7796,7 +7796,11 @@
         "CA River Plate": "assets/logos/upstreams/ca-river-plate.webp",
         "Portland Timbers II": "assets/logos/upstreams/portland-timbers-ii.webp",
         "Phoenix Rising": "assets/logos/upstreams/phoenix-rising.webp",
-        "Vissel Kobe, AFC Champions League": "assets/logos/upstreams/vissel-kobe-afc-champions-league.webp"
+        "Vissel Kobe, AFC Champions League": "assets/logos/upstreams/vissel-kobe-afc-champions-league.webp",
+        "PSG --- CN": "assets/logos/upstreams/psg-cn.webp",
+        "Shaktar Donetsk": "assets/logos/upstreams/shaktar-donetsk.webp",
+        "La Guaira": "assets/logos/upstreams/la-guaira.webp",
+        "Al Qadsiah": "assets/logos/upstreams/al-qadsiah.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8724,6 +8728,8 @@
         "Atp Barcelona De Minaur Alex Hamadmedjedovic": "assets/logos/leagues/atp-barcelona-de-minaur-alex-hamadmedjedovic.webp",
         "Stuttgart, Germany": "assets/logos/leagues/stuttgart-germany.webp",
         "Tallahassee, USA": "assets/logos/leagues/tallahassee-usa.webp",
-        "Division 1 Women": "assets/logos/leagues/division-1-women.webp"
+        "Division 1 Women": "assets/logos/leagues/division-1-women.webp",
+        "Copa Libertadores, Group C": "assets/logos/leagues/copa-libertadores-group-c.webp",
+        "Saudi Premier League": "assets/logos/leagues/saudi-premier-league.webp"
     }
 }
