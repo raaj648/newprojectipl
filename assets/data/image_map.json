@@ -7783,7 +7783,20 @@
         "CSKA 1948 Sofia": "assets/logos/upstreams/cska-1948-sofia.webp",
         "UTC de Cajamarca": "assets/logos/upstreams/utc-de-cajamarca.webp",
         "Huancayo": "assets/logos/upstreams/huancayo.webp",
-        "Fiona Ferro": "assets/logos/upstreams/fiona-ferro.webp"
+        "Fiona Ferro": "assets/logos/upstreams/fiona-ferro.webp",
+        "America De Cali": "assets/logos/upstreams/america-de-cali.webp",
+        "Alianza Atl.": "assets/logos/upstreams/alianza-atl.webp",
+        "Fenerbahce W": "assets/logos/upstreams/fenerbahce-w.webp",
+        "Vakifbank W": "assets/logos/upstreams/vakifbank-w.webp",
+        "Biarritz Olympique": "assets/logos/upstreams/biarritz-olympique.webp",
+        "Darragh Kelly": "assets/logos/upstreams/darragh-kelly.webp",
+        "Jay-Jay Wilson": "assets/logos/upstreams/jay-jay-wilson.webp",
+        "Saint Louis City": "assets/logos/upstreams/saint-louis-city.webp",
+        "Tivoli Gardens": "assets/logos/upstreams/tivoli-gardens.webp",
+        "CA River Plate": "assets/logos/upstreams/ca-river-plate.webp",
+        "Portland Timbers II": "assets/logos/upstreams/portland-timbers-ii.webp",
+        "Phoenix Rising": "assets/logos/upstreams/phoenix-rising.webp",
+        "Vissel Kobe, AFC Champions League": "assets/logos/upstreams/vissel-kobe-afc-champions-league.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8710,6 +8723,7 @@
         "Atp Barcelona": "assets/logos/leagues/atp-barcelona.webp",
         "Atp Barcelona De Minaur Alex Hamadmedjedovic": "assets/logos/leagues/atp-barcelona-de-minaur-alex-hamadmedjedovic.webp",
         "Stuttgart, Germany": "assets/logos/leagues/stuttgart-germany.webp",
-        "Tallahassee, USA": "assets/logos/leagues/tallahassee-usa.webp"
+        "Tallahassee, USA": "assets/logos/leagues/tallahassee-usa.webp",
+        "Division 1 Women": "assets/logos/leagues/division-1-women.webp"
     }
 }
