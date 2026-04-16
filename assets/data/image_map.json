@@ -7933,7 +7933,22 @@
         "JBK": "assets/logos/upstreams/jbk.webp",
         "Udelas": "assets/logos/upstreams/udelas.webp",
         "Sorana-Mihaela Cirstea": "assets/logos/upstreams/sorana-mihaela-cirstea.webp",
-        "Cori Gauff": "assets/logos/upstreams/cori-gauff.webp"
+        "Cori Gauff": "assets/logos/upstreams/cori-gauff.webp",
+        "Euroliga de baloncesto (T25/26): M\u00f3naco": "assets/logos/upstreams/euroliga-de-baloncesto-t2526-m\u00f3naco.webp",
+        "Hapoel": "assets/logos/upstreams/hapoel.webp",
+        "CFR CLUJ": "assets/logos/upstreams/cfr-cluj.webp",
+        "Acad\u00e9mico x CD Feirense": "assets/logos/upstreams/acad\u00e9mico-x-cd-feirense.webp",
+        "Segunda Liga": "assets/logos/upstreams/segunda-liga.webp",
+        "UC Sampdoria": "assets/logos/upstreams/uc-sampdoria.webp",
+        "AC Monza": "assets/logos/upstreams/ac-monza.webp",
+        "Rio Ave FC x AFS": "assets/logos/upstreams/rio-ave-fc-x-afs.webp",
+        "Trinidad and Tobago": "assets/logos/upstreams/trinidad-and-tobago.webp",
+        "El Salvador": "assets/logos/upstreams/el-salvador.webp",
+        "Uni\u00f3n Santa Fe": "assets/logos/upstreams/uni\u00f3n-santa-fe.webp",
+        "OTELUL": "assets/logos/upstreams/otelul.webp",
+        "UTA ARAD": "assets/logos/upstreams/uta-arad.webp",
+        "CR Belouizdad - SF 2nd Leg": "assets/logos/upstreams/cr-belouizdad-sf-2nd-leg.webp",
+        "Bristol Bears": "assets/logos/upstreams/bristol-bears.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8875,6 +8890,14 @@
         "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp",
         "UTR PTT Melbourne Women 02": "assets/logos/leagues/utr-ptt-melbourne-women-02.webp",
         "Faroe Islands - Cup": "assets/logos/leagues/faroe-islands-cup.webp",
-        "Wta Stuttgart": "assets/logos/leagues/wta-stuttgart.webp"
+        "Wta Stuttgart": "assets/logos/leagues/wta-stuttgart.webp",
+        "Euroleaguekaunas": "assets/logos/leagues/euroleaguekaunas.webp",
+        "Liga 1pitesti 1": "assets/logos/leagues/liga-1pitesti-1.webp",
+        "Primera Division Uniondesantafe": "assets/logos/leagues/primera-division-uniondesantafe.webp",
+        "Sevens World Series Hong Kong": "assets/logos/leagues/sevens-world-series-hong-kong.webp",
+        "SVNS, Championship": "assets/logos/leagues/svns-championship.webp",
+        "Liga 1": "assets/logos/leagues/liga-1.webp",
+        "Caf Confederations Cup Crbelouizdad": "assets/logos/leagues/caf-confederations-cup-crbelouizdad.webp",
+        "Aviva Premiership Bristol": "assets/logos/leagues/aviva-premiership-bristol.webp"
     }
 }
