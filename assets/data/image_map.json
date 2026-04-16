@@ -7922,7 +7922,8 @@
         "SC Delhi": "assets/logos/upstreams/sc-delhi.webp",
         "Sweden W": "assets/logos/upstreams/sweden-w.webp",
         "Odbojka (\u017d): Prva liga Slovenije: Calcit Volley": "assets/logos/upstreams/odbojka-\u017e-prva-liga-slovenije-calcit-volley.webp",
-        "OTP banka Branik": "assets/logos/upstreams/otp-banka-branik.webp"
+        "OTP banka Branik": "assets/logos/upstreams/otp-banka-branik.webp",
+        "Paris Saint-Germain U19": "assets/logos/upstreams/paris-saint-germain-u19.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8860,6 +8861,7 @@
         "Seven's World Series Women": "assets/logos/leagues/sevens-world-series-women.webp",
         "1. DOL Women": "assets/logos/leagues/1-dol-women.webp",
         "United Rugby Championship": "assets/logos/leagues/united-rugby-championship.webp",
-        "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp"
+        "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp",
+        "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp"
     }
 }
