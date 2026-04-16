@@ -7926,7 +7926,12 @@
         "Paris Saint-Germain U19": "assets/logos/upstreams/paris-saint-germain-u19.webp",
         "Alianza Atl\u00e9tico": "assets/logos/streamed/alianza-atl\u00e9tico.webp",
         "Porto Caravel": "assets/logos/upstreams/porto-caravel.webp",
-        "Kanon Sawashiro": "assets/logos/upstreams/kanon-sawashiro.webp"
+        "Kanon Sawashiro": "assets/logos/upstreams/kanon-sawashiro.webp",
+        "Aryan Karnani": "assets/logos/upstreams/aryan-karnani.webp",
+        "Yiming Dang": "assets/logos/upstreams/yiming-dang.webp",
+        "FC Ylivieska": "assets/logos/upstreams/fc-ylivieska.webp",
+        "JBK": "assets/logos/upstreams/jbk.webp",
+        "Udelas": "assets/logos/upstreams/udelas.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8865,6 +8870,8 @@
         "1. DOL Women": "assets/logos/leagues/1-dol-women.webp",
         "United Rugby Championship": "assets/logos/leagues/united-rugby-championship.webp",
         "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp",
-        "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp"
+        "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp",
+        "UTR PTT Melbourne Women 02": "assets/logos/leagues/utr-ptt-melbourne-women-02.webp",
+        "Faroe Islands - Cup": "assets/logos/leagues/faroe-islands-cup.webp"
     }
 }
