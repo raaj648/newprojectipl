@@ -7988,7 +7988,8 @@
         "Titanes Distrito Nacional": "assets/logos/upstreams/titanes-distrito-nacional.webp",
         "Heroes de Moca": "assets/logos/upstreams/heroes-de-moca.webp",
         "Luke Littler": "assets/logos/upstreams/luke-littler.webp",
-        "Vidabasket Vidin": "assets/logos/upstreams/vidabasket-vidin.webp"
+        "Vidabasket Vidin": "assets/logos/upstreams/vidabasket-vidin.webp",
+        "Gian van Veen": "assets/logos/upstreams/gian-van-veen.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8942,6 +8943,8 @@
         "Dominican Republic - LNB": "assets/logos/leagues/dominican-republic-lnb.webp",
         "UTR PTT Belgrade Men 03, Group A": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-a.webp",
         "UTR PTT Cordoba Men 04": "assets/logos/leagues/utr-ptt-cordoba-men-04.webp",
-        "Premier League Darts": "assets/logos/leagues/premier-league-darts.webp"
+        "Premier League Darts": "assets/logos/leagues/premier-league-darts.webp",
+        "UEFA Europa League": "assets/logos/leagues/uefa-europa-league.webp",
+        "Atp Munich": "assets/logos/leagues/atp-munich.webp"
     }
 }
