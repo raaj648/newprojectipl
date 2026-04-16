@@ -7931,7 +7931,9 @@
         "Yiming Dang": "assets/logos/upstreams/yiming-dang.webp",
         "FC Ylivieska": "assets/logos/upstreams/fc-ylivieska.webp",
         "JBK": "assets/logos/upstreams/jbk.webp",
-        "Udelas": "assets/logos/upstreams/udelas.webp"
+        "Udelas": "assets/logos/upstreams/udelas.webp",
+        "Sorana-Mihaela Cirstea": "assets/logos/upstreams/sorana-mihaela-cirstea.webp",
+        "Cori Gauff": "assets/logos/upstreams/cori-gauff.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -8872,6 +8874,7 @@
         "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp",
         "UEFA Youth League, Knockout stage": "assets/logos/leagues/uefa-youth-league-knockout-stage.webp",
         "UTR PTT Melbourne Women 02": "assets/logos/leagues/utr-ptt-melbourne-women-02.webp",
-        "Faroe Islands - Cup": "assets/logos/leagues/faroe-islands-cup.webp"
+        "Faroe Islands - Cup": "assets/logos/leagues/faroe-islands-cup.webp",
+        "Wta Stuttgart": "assets/logos/leagues/wta-stuttgart.webp"
     }
 }
