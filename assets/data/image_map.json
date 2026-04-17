@@ -8129,7 +8129,10 @@
         "ATP500: BMW Open by Bitpanda": "assets/logos/upstreams/atp500-bmw-open-by-bitpanda.webp",
         "Willem II": "assets/logos/upstreams/willem-ii.webp",
         "Roda": "assets/logos/upstreams/roda.webp",
-        "Madura United": "assets/logos/upstreams/madura-united.webp"
+        "Madura United": "assets/logos/upstreams/madura-united.webp",
+        "FC St Pauli": "assets/logos/upstreams/fc-st-pauli.webp",
+        "MNK Crnica": "assets/logos/upstreams/mnk-crnica.webp",
+        "Pula": "assets/logos/upstreams/pula.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9104,6 +9107,8 @@
         "Legacy Fighting Alliance": "assets/logos/leagues/legacy-fighting-alliance.webp",
         "European Darts Grand Prix": "assets/logos/leagues/european-darts-grand-prix.webp",
         "China - Cup FA": "assets/logos/leagues/china-cup-fa.webp",
-        "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp"
+        "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp",
+        "German Bundesliga": "assets/logos/leagues/german-bundesliga.webp",
+        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp"
     }
 }
