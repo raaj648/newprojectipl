@@ -8085,7 +8085,11 @@
         "Puerto Rico W": "assets/logos/upstreams/puerto-rico-w.webp",
         "Cardiff Metropolitan": "assets/logos/upstreams/cardiff-metropolitan.webp",
         "Hafnarfjordur": "assets/logos/upstreams/hafnarfjordur.webp",
-        "CharlEastown Azzurri": "assets/logos/upstreams/charleastown-azzurri.webp"
+        "CharlEastown Azzurri": "assets/logos/upstreams/charleastown-azzurri.webp",
+        "Melbourne Vic.": "assets/logos/upstreams/melbourne-vic.webp",
+        "Bayern U19": "assets/logos/upstreams/bayern-u19.webp",
+        "Tenis: Munique": "assets/logos/upstreams/tenis-munique.webp",
+        "ATP World Tour 500": "assets/logos/upstreams/atp-world-tour-500.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9055,6 +9059,7 @@
         "UTR PTT Melbourne Men 02, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-men-02-17-20-playoffs.webp",
         "NBA, Playoffs": "assets/logos/leagues/nba-playoffs.webp",
         "One Day International": "assets/logos/leagues/one-day-international.webp",
-        "Cymru Premier": "assets/logos/leagues/cymru-premier.webp"
+        "Cymru Premier": "assets/logos/leagues/cymru-premier.webp",
+        "A-League": "assets/logos/leagues/a-league.webp"
     }
 }
