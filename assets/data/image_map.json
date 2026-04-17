@@ -8136,7 +8136,17 @@
         "O\\'Connor William": "assets/logos/upstreams/oconnor-william.webp",
         "Michael Unterbuchner": "assets/logos/upstreams/michael-unterbuchner.webp",
         "Bubali": "assets/logos/upstreams/bubali.webp",
-        "Racing Club Aruba": "assets/logos/upstreams/racing-club-aruba.webp"
+        "Racing Club Aruba": "assets/logos/upstreams/racing-club-aruba.webp",
+        "Smiltene": "assets/logos/upstreams/smiltene.webp",
+        "Valmiera": "assets/logos/upstreams/valmiera.webp",
+        "Hapoel Jerusalem": "assets/logos/upstreams/hapoel-jerusalem.webp",
+        "Bnei Herzelia": "assets/logos/upstreams/bnei-herzelia.webp",
+        "Olimpia Grudziadz": "assets/logos/upstreams/olimpia-grudziadz.webp",
+        "New England Revolution II": "assets/logos/upstreams/new-england-revolution-ii.webp",
+        "Chicago Fire II": "assets/logos/upstreams/chicago-fire-ii.webp",
+        "Mark Allen": "assets/logos/upstreams/mark-allen.webp",
+        "Xiao Guodong": "assets/logos/upstreams/xiao-guodong.webp",
+        "Promitheas Patras": "assets/logos/upstreams/promitheas-patras.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9113,6 +9123,7 @@
         "China - Cup FA": "assets/logos/leagues/china-cup-fa.webp",
         "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp",
         "German Bundesliga": "assets/logos/leagues/german-bundesliga.webp",
-        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp"
+        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
+        "Israel - Super League": "assets/logos/leagues/israel-super-league.webp"
     }
 }
