@@ -8082,7 +8082,8 @@
         "Argentina 7s W": "assets/logos/upstreams/argentina-7s-w.webp",
         "Elena Rybakina": "assets/logos/upstreams/elena-rybakina.webp",
         "Mexico W": "assets/logos/upstreams/mexico-w.webp",
-        "Puerto Rico W": "assets/logos/upstreams/puerto-rico-w.webp"
+        "Puerto Rico W": "assets/logos/upstreams/puerto-rico-w.webp",
+        "Cardiff Metropolitan": "assets/logos/upstreams/cardiff-metropolitan.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9050,6 +9051,8 @@
         "Spain - Copa del Rey": "assets/logos/leagues/spain-copa-del-rey.webp",
         "Mozzart Bet Superliga, Championship Round": "assets/logos/leagues/mozzart-bet-superliga-championship-round.webp",
         "UTR PTT Melbourne Men 02, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-men-02-17-20-playoffs.webp",
-        "NBA, Playoffs": "assets/logos/leagues/nba-playoffs.webp"
+        "NBA, Playoffs": "assets/logos/leagues/nba-playoffs.webp",
+        "One Day International": "assets/logos/leagues/one-day-international.webp",
+        "Cymru Premier": "assets/logos/leagues/cymru-premier.webp"
     }
 }
