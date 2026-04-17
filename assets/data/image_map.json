@@ -8146,7 +8146,15 @@
         "Chicago Fire II": "assets/logos/upstreams/chicago-fire-ii.webp",
         "Mark Allen": "assets/logos/upstreams/mark-allen.webp",
         "Xiao Guodong": "assets/logos/upstreams/xiao-guodong.webp",
-        "Promitheas Patras": "assets/logos/upstreams/promitheas-patras.webp"
+        "Promitheas Patras": "assets/logos/upstreams/promitheas-patras.webp",
+        "Dalian Yingbo": "assets/logos/upstreams/dalian-yingbo.webp",
+        "Muangthong United": "assets/logos/upstreams/muangthong-united.webp",
+        "WEast Bromwich Albion": "assets/logos/upstreams/weast-bromwich-albion.webp",
+        "Wimbledon": "assets/logos/upstreams/wimbledon.webp",
+        "Malkiya Club": "assets/logos/upstreams/malkiya-club.webp",
+        "Al Shabab Manama": "assets/logos/upstreams/al-shabab-manama.webp",
+        "Uthai Thani": "assets/logos/upstreams/uthai-thani.webp",
+        "Rayong": "assets/logos/upstreams/rayong.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9124,6 +9132,7 @@
         "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp",
         "German Bundesliga": "assets/logos/leagues/german-bundesliga.webp",
         "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
-        "Israel - Super League": "assets/logos/leagues/israel-super-league.webp"
+        "Israel - Super League": "assets/logos/leagues/israel-super-league.webp",
+        "England - League One": "assets/logos/leagues/england-league-one.webp"
     }
 }
