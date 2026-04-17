@@ -8110,7 +8110,10 @@
         "Pepijn Van Leeuwen": "assets/logos/upstreams/pepijn-van-leeuwen.webp",
         "Cooks Hill United": "assets/logos/upstreams/cooks-hill-united.webp",
         "Baskets Juniors TSG WEasterstede": "assets/logos/upstreams/baskets-juniors-tsg-weasterstede.webp",
-        "Tampines": "assets/logos/upstreams/tampines.webp"
+        "Tampines": "assets/logos/upstreams/tampines.webp",
+        "Wessel Nijman": "assets/logos/upstreams/wessel-nijman.webp",
+        "White Ian": "assets/logos/upstreams/white-ian.webp",
+        "Thom Griffioen": "assets/logos/upstreams/thom-griffioen.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9082,6 +9085,7 @@
         "One Day International": "assets/logos/leagues/one-day-international.webp",
         "Cymru Premier": "assets/logos/leagues/cymru-premier.webp",
         "A-League": "assets/logos/leagues/a-league.webp",
-        "Legacy Fighting Alliance": "assets/logos/leagues/legacy-fighting-alliance.webp"
+        "Legacy Fighting Alliance": "assets/logos/leagues/legacy-fighting-alliance.webp",
+        "European Darts Grand Prix": "assets/logos/leagues/european-darts-grand-prix.webp"
     }
 }
