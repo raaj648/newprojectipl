@@ -8100,7 +8100,12 @@
         "Sporting Sala Consilina": "assets/logos/upstreams/sporting-sala-consilina.webp",
         "Sandro Abate": "assets/logos/upstreams/sandro-abate.webp",
         "Hellenic Athletic": "assets/logos/upstreams/hellenic-athletic.webp",
-        "Brad Sy-A-Foek": "assets/logos/upstreams/brad-sy-a-foek.webp"
+        "Brad Sy-A-Foek": "assets/logos/upstreams/brad-sy-a-foek.webp",
+        "Marko Maric": "assets/logos/upstreams/marko-maric.webp",
+        "Taner Trembley": "assets/logos/upstreams/taner-trembley.webp",
+        "Elijah Johns": "assets/logos/upstreams/elijah-johns.webp",
+        "Ben Whittaker": "assets/logos/upstreams/ben-whittaker.webp",
+        "Braian Nahuel Suarez": "assets/logos/upstreams/braian-nahuel-suarez.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9071,6 +9076,7 @@
         "NBA, Playoffs": "assets/logos/leagues/nba-playoffs.webp",
         "One Day International": "assets/logos/leagues/one-day-international.webp",
         "Cymru Premier": "assets/logos/leagues/cymru-premier.webp",
-        "A-League": "assets/logos/leagues/a-league.webp"
+        "A-League": "assets/logos/leagues/a-league.webp",
+        "Legacy Fighting Alliance": "assets/logos/leagues/legacy-fighting-alliance.webp"
     }
 }
