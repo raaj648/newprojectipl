@@ -8124,7 +8124,8 @@
         "GIL Vicente": "assets/logos/streamed/gil-vicente.webp",
         "SV Darmstadt 98": "assets/logos/streamed/sv-darmstadt-98.webp",
         "Yverdon Sport": "assets/logos/streamed/yverdon-sport.webp",
-        "Stade Brestois 29": "assets/logos/streamed/stade-brestois-29.webp"
+        "Stade Brestois 29": "assets/logos/streamed/stade-brestois-29.webp",
+        "India W": "assets/logos/upstreams/india-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9098,6 +9099,7 @@
         "A-League": "assets/logos/leagues/a-league.webp",
         "Legacy Fighting Alliance": "assets/logos/leagues/legacy-fighting-alliance.webp",
         "European Darts Grand Prix": "assets/logos/leagues/european-darts-grand-prix.webp",
-        "China - Cup FA": "assets/logos/leagues/china-cup-fa.webp"
+        "China - Cup FA": "assets/logos/leagues/china-cup-fa.webp",
+        "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp"
     }
 }
