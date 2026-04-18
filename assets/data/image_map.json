@@ -8255,7 +8255,9 @@
         "Braintree Town": "assets/logos/streamed/braintree-town.webp",
         "West Bromwich": "assets/logos/upstreams/west-bromwich.webp",
         "Liaocheng Legend": "assets/logos/upstreams/liaocheng-legend.webp",
-        "Forest Green Rovers": "assets/logos/streamed/forest-green-rovers.webp"
+        "Forest Green Rovers": "assets/logos/streamed/forest-green-rovers.webp",
+        "Al Ansar": "assets/logos/upstreams/al-ansar.webp",
+        "Muras United": "assets/logos/upstreams/muras-united.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
