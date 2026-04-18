@@ -8193,7 +8193,11 @@
         "Trabzon": "assets/logos/upstreams/trabzon.webp",
         "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp",
         "Minnesota Golden Gophers W": "assets/logos/upstreams/minnesota-golden-gophers-w.webp",
-        "Toronto W": "assets/logos/upstreams/toronto-w.webp"
+        "Toronto W": "assets/logos/upstreams/toronto-w.webp",
+        "Enkoping SK": "assets/logos/upstreams/enkoping-sk.webp",
+        "Olympique Marseille": "assets/logos/upstreams/olympique-marseille.webp",
+        "Hapoel Petah Tikva": "assets/logos/upstreams/hapoel-petah-tikva.webp",
+        "Triglav Kranj": "assets/logos/upstreams/triglav-kranj.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9175,6 +9179,7 @@
         "England - League One": "assets/logos/leagues/england-league-one.webp",
         "KNVB Beker": "assets/logos/leagues/knvb-beker.webp",
         "1. Bundesliga": "assets/logos/leagues/1-bundesliga.webp",
-        "Scottish FA Cup": "assets/logos/leagues/scottish-fa-cup.webp"
+        "Scottish FA Cup": "assets/logos/leagues/scottish-fa-cup.webp",
+        "French - Ligue 1": "assets/logos/leagues/french-ligue-1.webp"
     }
 }
