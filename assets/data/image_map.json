@@ -8251,7 +8251,8 @@
         "Chonburi": "assets/logos/upstreams/chonburi.webp",
         "V\u00e4ster\u00e5s": "assets/logos/streamed/v\u00e4ster\u00e5s.webp",
         "Muang Thong Utd": "assets/logos/upstreams/muang-thong-utd.webp",
-        "Guangdong Red Treasure": "assets/logos/upstreams/guangdong-red-treasure.webp"
+        "Guangdong Red Treasure": "assets/logos/upstreams/guangdong-red-treasure.webp",
+        "Braintree Town": "assets/logos/streamed/braintree-town.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9257,6 +9258,7 @@
         "Seven's World Series": "assets/logos/leagues/sevens-world-series.webp",
         "UTR PTT Belgrade Men 03": "assets/logos/leagues/utr-ptt-belgrade-men-03.webp",
         "UTR PTT Belgrade Men 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-1-4-playoffs.webp",
-        "UTR PTT Belgrade Women 04, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-04-5-8-playoffs.webp"
+        "UTR PTT Belgrade Women 04, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-04-5-8-playoffs.webp",
+        "UTR PTT Belgrade Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-9-12-playoffs.webp"
     }
 }
