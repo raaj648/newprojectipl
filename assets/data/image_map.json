@@ -8258,7 +8258,8 @@
         "Forest Green Rovers": "assets/logos/streamed/forest-green-rovers.webp",
         "Al Ansar": "assets/logos/upstreams/al-ansar.webp",
         "Muras United": "assets/logos/upstreams/muras-united.webp",
-        "Lahore": "assets/logos/upstreams/lahore.webp"
+        "Lahore": "assets/logos/upstreams/lahore.webp",
+        "Melilla Ciudad La Salle (W)": "assets/logos/upstreams/melilla-ciudad-la-salle-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9265,6 +9266,7 @@
         "UTR PTT Belgrade Men 03": "assets/logos/leagues/utr-ptt-belgrade-men-03.webp",
         "UTR PTT Belgrade Men 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-1-4-playoffs.webp",
         "UTR PTT Belgrade Women 04, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-04-5-8-playoffs.webp",
-        "UTR PTT Belgrade Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-9-12-playoffs.webp"
+        "UTR PTT Belgrade Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-9-12-playoffs.webp",
+        "UTR PTT Cordoba Men +H 04, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-1-4-playoffs.webp"
     }
 }
