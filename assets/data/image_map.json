@@ -8265,7 +8265,10 @@
         "Reales de la Vega": "assets/logos/upstreams/reales-de-la-vega.webp",
         "NY Cosmos": "assets/logos/upstreams/ny-cosmos.webp",
         "Shabab Al-Ahli": "assets/logos/upstreams/shabab-al-ahli.webp",
-        "Saint Prex Red Devils": "assets/logos/upstreams/saint-prex-red-devils.webp"
+        "Saint Prex Red Devils": "assets/logos/upstreams/saint-prex-red-devils.webp",
+        "Steve Biko": "assets/logos/upstreams/steve-biko.webp",
+        "Brighton --- HD": "assets/logos/upstreams/brighton-hd.webp",
+        "Keila": "assets/logos/upstreams/keila.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9273,6 +9276,7 @@
         "UTR PTT Belgrade Men 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-1-4-playoffs.webp",
         "UTR PTT Belgrade Women 04, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-04-5-8-playoffs.webp",
         "UTR PTT Belgrade Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-9-12-playoffs.webp",
-        "UTR PTT Cordoba Men +H 04, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-1-4-playoffs.webp"
+        "UTR PTT Cordoba Men +H 04, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-1-4-playoffs.webp",
+        "UTR PTT Cordoba Men +H 04, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-9-12-playoffs.webp"
     }
 }
