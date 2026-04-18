@@ -8279,7 +8279,18 @@
         "James Wade": "assets/logos/upstreams/james-wade.webp",
         "Huybrechts Kim": "assets/logos/upstreams/huybrechts-kim.webp",
         "Maksim Shin": "assets/logos/upstreams/maksim-shin.webp",
-        "Nikita Bilozertsev": "assets/logos/upstreams/nikita-bilozertsev.webp"
+        "Nikita Bilozertsev": "assets/logos/upstreams/nikita-bilozertsev.webp",
+        "Hutnik Krakow": "assets/logos/upstreams/hutnik-krakow.webp",
+        "New York Red Bulls II": "assets/logos/upstreams/new-york-red-bulls-ii.webp",
+        "Converge Fiberxers": "assets/logos/upstreams/converge-fiberxers.webp",
+        "Njardvik (W)": "assets/logos/upstreams/njardvik-w.webp",
+        "FK Beitar / Riga Mariners": "assets/logos/upstreams/fk-beitar-riga-mariners.webp",
+        "Maccabi Raanana": "assets/logos/upstreams/maccabi-raanana.webp",
+        "Ironi Ness Ziona": "assets/logos/upstreams/ironi-ness-ziona.webp",
+        "Maccabi Ironi Ramat Gan": "assets/logos/upstreams/maccabi-ironi-ramat-gan.webp",
+        "Lions FC U23": "assets/logos/upstreams/lions-fc-u23.webp",
+        "Gold Coast United U23": "assets/logos/upstreams/gold-coast-united-u23.webp",
+        "Ding Junhui": "assets/logos/upstreams/ding-junhui.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9289,6 +9300,8 @@
         "UTR PTT Belgrade Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-men-03-9-12-playoffs.webp",
         "UTR PTT Cordoba Men +H 04, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-1-4-playoffs.webp",
         "UTR PTT Cordoba Men +H 04, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-9-12-playoffs.webp",
-        "KSW 117: Pawlak vs Khalidov": "assets/logos/leagues/ksw-117-pawlak-vs-khalidov.webp"
+        "KSW 117: Pawlak vs Khalidov": "assets/logos/leagues/ksw-117-pawlak-vs-khalidov.webp",
+        "Australia - NPL U23 - Queensland": "assets/logos/leagues/australia-npl-u23-queensland.webp",
+        "Australia - NPL - Capital (W)": "assets/logos/leagues/australia-npl-capital-w.webp"
     }
 }
