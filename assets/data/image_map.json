@@ -8335,7 +8335,10 @@
         "Eloise Newberry": "assets/logos/upstreams/eloise-newberry.webp",
         "South East United": "assets/logos/upstreams/south-east-united.webp",
         "Xiaowei Li": "assets/logos/upstreams/xiaowei-li.webp",
-        "Yu Shan": "assets/logos/upstreams/yu-shan.webp"
+        "Yu Shan": "assets/logos/upstreams/yu-shan.webp",
+        "Yuxuan Luo": "assets/logos/upstreams/yuxuan-luo.webp",
+        "Yuyao Li": "assets/logos/upstreams/yuyao-li.webp",
+        "Chuyi Yang": "assets/logos/upstreams/chuyi-yang.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9350,6 +9353,7 @@
         "Australia - NPL - Capital (W)": "assets/logos/leagues/australia-npl-capital-w.webp",
         "Canada Premier League": "assets/logos/leagues/canada-premier-league.webp",
         "Fiji - Premier League": "assets/logos/leagues/fiji-premier-league.webp",
-        "Gwangju, Korea Republic, Qualifying": "assets/logos/leagues/gwangju-korea-republic-qualifying.webp"
+        "Gwangju, Korea Republic, Qualifying": "assets/logos/leagues/gwangju-korea-republic-qualifying.webp",
+        "NHL, Playoffs": "assets/logos/leagues/nhl-playoffs.webp"
     }
 }
