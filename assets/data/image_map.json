@@ -8382,7 +8382,8 @@
         "Aziz Dougaz": "assets/logos/upstreams/aziz-dougaz.webp",
         "Millen Hurrion": "assets/logos/upstreams/millen-hurrion.webp",
         "Dalibor Svrcina": "assets/logos/upstreams/dalibor-svrcina.webp",
-        "Alexander Vasilev": "assets/logos/upstreams/alexander-vasilev.webp"
+        "Alexander Vasilev": "assets/logos/upstreams/alexander-vasilev.webp",
+        "Stade Francais Paris": "assets/logos/upstreams/stade-francais-paris.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9403,6 +9404,8 @@
         "UTR PTT Belgrade Women 04, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-04-9-12-playoffs.webp",
         "Savannah, USA, Qualifying": "assets/logos/leagues/savannah-usa-qualifying.webp",
         "Italy Serie A": "assets/logos/leagues/italy-serie-a.webp",
-        "Abidjan, Cote d Ivoire": "assets/logos/leagues/abidjan-cote-d-ivoire.webp"
+        "Abidjan, Cote d Ivoire": "assets/logos/leagues/abidjan-cote-d-ivoire.webp",
+        "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
+        "Rugby Top 14": "assets/logos/leagues/rugby-top-14.webp"
     }
 }
