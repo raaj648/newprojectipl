@@ -8523,7 +8523,12 @@
         "Roberto Herman": "assets/logos/upstreams/roberto-herman.webp",
         "Jack Patrick McGary": "assets/logos/upstreams/jack-patrick-mcgary.webp",
         "Wulfrano Martinez Mora Esdras": "assets/logos/upstreams/wulfrano-martinez-mora-esdras.webp",
-        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp"
+        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp",
+        "Quinta dos Lombos": "assets/logos/upstreams/quinta-dos-lombos.webp",
+        "Shirak Gyumri": "assets/logos/upstreams/shirak-gyumri.webp",
+        "Ararat-Armenia": "assets/logos/upstreams/ararat-armenia.webp",
+        "Noah": "assets/logos/upstreams/noah.webp",
+        "Van": "assets/logos/upstreams/van.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9557,6 +9562,7 @@
         "WCH U18": "assets/logos/leagues/wch-u18.webp",
         "Primera Divisionarg Lanus": "assets/logos/leagues/primera-divisionarg-lanus.webp",
         "Primera Division Huracan": "assets/logos/leagues/primera-division-huracan.webp",
-        "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp"
+        "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp",
+        "Armenia Premier League": "assets/logos/leagues/armenia-premier-league.webp"
     }
 }
