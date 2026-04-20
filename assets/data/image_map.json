@@ -8447,7 +8447,15 @@
         "Ana Frommenwiler": "assets/logos/upstreams/ana-frommenwiler.webp",
         "Lucija Ciric-Bagaric": "assets/logos/upstreams/lucija-ciric-bagaric.webp",
         "Fatih Sisic": "assets/logos/upstreams/fatih-sisic.webp",
-        "Matt Kuhar": "assets/logos/upstreams/matt-kuhar.webp"
+        "Matt Kuhar": "assets/logos/upstreams/matt-kuhar.webp",
+        "Korihait": "assets/logos/upstreams/korihait.webp",
+        "CA Hurac\u00e1n": "assets/logos/upstreams/ca-hurac\u00e1n.webp",
+        "Fenerbahce | Viertelfinale": "assets/logos/upstreams/fenerbahce-viertelfinale.webp",
+        "Live Admiral BL: SV Oberbank Ried": "assets/logos/upstreams/live-admiral-bl-sv-oberbank-ried.webp",
+        "Grazer AK 1902, 28. Runde": "assets/logos/upstreams/grazer-ak-1902-28-runde.webp",
+        "\u0160iroki": "assets/logos/upstreams/\u0161iroki.webp",
+        "Sabine Rutlauka": "assets/logos/upstreams/sabine-rutlauka.webp",
+        "Christopher Kosei Ono": "assets/logos/upstreams/christopher-kosei-ono.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9478,6 +9486,9 @@
         "Cupa Rom\u00e2niei Betano": "assets/logos/leagues/cupa-rom\u00e2niei-betano.webp",
         "Euroleague, Play-in": "assets/logos/leagues/euroleague-play-in.webp",
         "AFC Champions League Elite, Knockout stage": "assets/logos/leagues/afc-champions-league-elite-knockout-stage.webp",
-        "WCH U18": "assets/logos/leagues/wch-u18.webp"
+        "WCH U18": "assets/logos/leagues/wch-u18.webp",
+        "Primera Divisionarg Lanus": "assets/logos/leagues/primera-divisionarg-lanus.webp",
+        "Primera Division Huracan": "assets/logos/leagues/primera-division-huracan.webp",
+        "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp"
     }
 }
