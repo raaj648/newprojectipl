@@ -8552,7 +8552,16 @@
         "Ying Hou": "assets/logos/upstreams/ying-hou.webp",
         "Oliver Sanders": "assets/logos/upstreams/oliver-sanders.webp",
         "Sebastian Gima": "assets/logos/upstreams/sebastian-gima.webp",
-        "Niels Visker": "assets/logos/upstreams/niels-visker.webp"
+        "Niels Visker": "assets/logos/upstreams/niels-visker.webp",
+        "Betis": "assets/logos/upstreams/betis.webp",
+        "Irina-Camelia Begu": "assets/logos/upstreams/irina-camelia-begu.webp",
+        "Celine Naef": "assets/logos/upstreams/celine-naef.webp",
+        "Storm Hunter": "assets/logos/upstreams/storm-hunter.webp",
+        "Gary Wilson": "assets/logos/upstreams/gary-wilson.webp",
+        "Linda Klimovicova": "assets/logos/upstreams/linda-klimovicova.webp",
+        "Miroslava Medvedeva": "assets/logos/upstreams/miroslava-medvedeva.webp",
+        "Anastasia Zakharova": "assets/logos/upstreams/anastasia-zakharova.webp",
+        "Lois Boisson": "assets/logos/upstreams/lois-boisson.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9589,6 +9598,8 @@
         "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp",
         "Armenia Premier League": "assets/logos/leagues/armenia-premier-league.webp",
         "Rome, Italy": "assets/logos/leagues/rome-italy.webp",
-        "Savannah, USA": "assets/logos/leagues/savannah-usa.webp"
+        "Savannah, USA": "assets/logos/leagues/savannah-usa.webp",
+        "Czech - Cup": "assets/logos/leagues/czech-cup.webp",
+        "Moldova - Cup": "assets/logos/leagues/moldova-cup.webp"
     }
 }
