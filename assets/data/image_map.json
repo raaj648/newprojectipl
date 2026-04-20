@@ -8398,7 +8398,9 @@
         "Lulu Sun": "assets/logos/upstreams/lulu-sun.webp",
         "SV Deportivo Nacional": "assets/logos/upstreams/sv-deportivo-nacional.webp",
         "MIrandes": "assets/logos/upstreams/mirandes.webp",
-        "Roland Stuurman": "assets/logos/upstreams/roland-stuurman.webp"
+        "Roland Stuurman": "assets/logos/upstreams/roland-stuurman.webp",
+        "Salon Vilpas Vikings": "assets/logos/upstreams/salon-vilpas-vikings.webp",
+        "Colo Colo": "assets/logos/upstreams/colo-colo.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9425,6 +9427,8 @@
         "Coppa Italia": "assets/logos/leagues/coppa-italia.webp",
         "Coupe de France": "assets/logos/leagues/coupe-de-france.webp",
         "Copa do Brasil": "assets/logos/leagues/copa-do-brasil.webp",
-        "Turkish Cup": "assets/logos/leagues/turkish-cup.webp"
+        "Turkish Cup": "assets/logos/leagues/turkish-cup.webp",
+        "Cupa Rom\u00e2niei Betano": "assets/logos/leagues/cupa-rom\u00e2niei-betano.webp",
+        "Euroleague, Play-in": "assets/logos/leagues/euroleague-play-in.webp"
     }
 }
