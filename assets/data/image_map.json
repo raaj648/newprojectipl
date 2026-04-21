@@ -8612,7 +8612,8 @@
         "Victoria Allen": "assets/logos/upstreams/victoria-allen.webp",
         "Su Jeong Jang": "assets/logos/upstreams/su-jeong-jang.webp",
         "Boxiong Zhang": "assets/logos/upstreams/boxiong-zhang.webp",
-        "Shanghui Li": "assets/logos/upstreams/shanghui-li.webp"
+        "Shanghui Li": "assets/logos/upstreams/shanghui-li.webp",
+        "Katerina Siniakova": "assets/logos/upstreams/katerina-siniakova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9660,6 +9661,7 @@
         "Taca de Portugal": "assets/logos/leagues/taca-de-portugal.webp",
         "UTR PTT Yokohama Men 05, Group B": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-b.webp",
         "UTR PTT Yokohama Men 05, Group D": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-d.webp",
-        "UTR PTT Yokohama Men 05, Group C": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-c.webp"
+        "UTR PTT Yokohama Men 05, Group C": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-c.webp",
+        "WTA Madrid": "assets/logos/leagues/wta-madrid.webp"
     }
 }
