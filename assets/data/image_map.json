@@ -8605,7 +8605,8 @@
         "Hull": "assets/logos/upstreams/hull.webp",
         "Excelsior/Bar. (W)": "assets/logos/upstreams/excelsiorbar-w.webp",
         "Celta de Vigo": "assets/logos/upstreams/celta-de-vigo.webp",
-        "Alevtina Ibragimova": "assets/logos/upstreams/alevtina-ibragimova.webp"
+        "Alevtina Ibragimova": "assets/logos/upstreams/alevtina-ibragimova.webp",
+        "Luke McMillan": "assets/logos/upstreams/luke-mcmillan.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9650,6 +9651,8 @@
         "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp",
         "Turkiye Kupasi, Knockout stage": "assets/logos/leagues/turkiye-kupasi-knockout-stage.webp",
         "Bulgarian Cup": "assets/logos/leagues/bulgarian-cup.webp",
-        "Taca de Portugal": "assets/logos/leagues/taca-de-portugal.webp"
+        "Taca de Portugal": "assets/logos/leagues/taca-de-portugal.webp",
+        "UTR PTT Yokohama Men 05, Group B": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-b.webp",
+        "UTR PTT Yokohama Men 05, Group D": "assets/logos/leagues/utr-ptt-yokohama-men-05-group-d.webp"
     }
 }
