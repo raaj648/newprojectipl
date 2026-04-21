@@ -8567,7 +8567,23 @@
         "Werder Bremen Women": "assets/logos/streamed/werder-bremen-women.webp",
         "VfL Wolfsburg Women": "assets/logos/streamed/vfl-wolfsburg-women.webp",
         "Excelsior W": "assets/logos/upstreams/excelsior-w.webp",
-        "NAC Breda W": "assets/logos/upstreams/nac-breda-w.webp"
+        "NAC Breda W": "assets/logos/upstreams/nac-breda-w.webp",
+        "Hugo Soares": "assets/logos/upstreams/hugo-soares.webp",
+        "Mattias Southcombe": "assets/logos/upstreams/mattias-southcombe.webp",
+        "Omar Kandil": "assets/logos/upstreams/omar-kandil.webp",
+        "Christoph Gayk": "assets/logos/upstreams/christoph-gayk.webp",
+        "Daniil Stepanov": "assets/logos/upstreams/daniil-stepanov.webp",
+        "Nicole Gadient": "assets/logos/upstreams/nicole-gadient.webp",
+        "Darya Volkova": "assets/logos/upstreams/darya-volkova.webp",
+        "Sofia Martianova": "assets/logos/upstreams/sofia-martianova.webp",
+        "Ela Plosnik": "assets/logos/upstreams/ela-plosnik.webp",
+        "Thale Myhre": "assets/logos/upstreams/thale-myhre.webp",
+        "Teodora Vlajic": "assets/logos/upstreams/teodora-vlajic.webp",
+        "Indianna Spink": "assets/logos/upstreams/indianna-spink.webp",
+        "Emily Appleton": "assets/logos/upstreams/emily-appleton.webp",
+        "Min Seong Kim": "assets/logos/upstreams/min-seong-kim.webp",
+        "Xinyuan Xie": "assets/logos/upstreams/xinyuan-xie.webp",
+        "Tianhui Zhang/Zhan Zheng": "assets/logos/upstreams/tianhui-zhangzhan-zheng.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9609,6 +9625,7 @@
         "Moldova - Cup": "assets/logos/leagues/moldova-cup.webp",
         "DFB Pokal": "assets/logos/leagues/dfb-pokal.webp",
         "Ta\u00e7a de Portugal": "assets/logos/leagues/ta\u00e7a-de-portugal.webp",
-        "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp"
+        "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp",
+        "Turkiye Kupasi, Knockout stage": "assets/logos/leagues/turkiye-kupasi-knockout-stage.webp"
     }
 }
