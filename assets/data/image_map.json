@@ -8599,7 +8599,13 @@
         "Nanari Katsumi": "assets/logos/upstreams/nanari-katsumi.webp",
         "Mana Kawamura": "assets/logos/upstreams/mana-kawamura.webp",
         "Nana Kawagishi": "assets/logos/upstreams/nana-kawagishi.webp",
-        "Sera Nishimoto": "assets/logos/upstreams/sera-nishimoto.webp"
+        "Sera Nishimoto": "assets/logos/upstreams/sera-nishimoto.webp",
+        "Athl. Bilbao": "assets/logos/upstreams/athl-bilbao.webp",
+        "Konya": "assets/logos/upstreams/konya.webp",
+        "Hull": "assets/logos/upstreams/hull.webp",
+        "Excelsior/Bar. (W)": "assets/logos/upstreams/excelsiorbar-w.webp",
+        "Celta de Vigo": "assets/logos/upstreams/celta-de-vigo.webp",
+        "Alevtina Ibragimova": "assets/logos/upstreams/alevtina-ibragimova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9642,6 +9648,8 @@
         "DFB Pokal": "assets/logos/leagues/dfb-pokal.webp",
         "Ta\u00e7a de Portugal": "assets/logos/leagues/ta\u00e7a-de-portugal.webp",
         "Portugal - Taca de Portugal": "assets/logos/leagues/portugal-taca-de-portugal.webp",
-        "Turkiye Kupasi, Knockout stage": "assets/logos/leagues/turkiye-kupasi-knockout-stage.webp"
+        "Turkiye Kupasi, Knockout stage": "assets/logos/leagues/turkiye-kupasi-knockout-stage.webp",
+        "Bulgarian Cup": "assets/logos/leagues/bulgarian-cup.webp",
+        "Taca de Portugal": "assets/logos/leagues/taca-de-portugal.webp"
     }
 }
