@@ -8802,7 +8802,12 @@
         "Barsy": "assets/logos/upstreams/barsy.webp",
         "Bba Ludwigsburg": "assets/logos/upstreams/bba-ludwigsburg.webp",
         "Bbc Coburg": "assets/logos/upstreams/bbc-coburg.webp",
-        "SK Rapid": "assets/logos/upstreams/sk-rapid.webp"
+        "SK Rapid": "assets/logos/upstreams/sk-rapid.webp",
+        "Al Okhdood": "assets/logos/streamed/al-okhdood.webp",
+        "Fafe": "assets/logos/streamed/fafe.webp",
+        "Al Riyadh": "assets/logos/streamed/al-riyadh.webp",
+        "N\u00fcrnberg": "assets/logos/streamed/n\u00fcrnberg.webp",
+        "Hamburger SV W": "assets/logos/streamed/hamburger-sv-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
