@@ -8809,7 +8809,9 @@
         "N\u00fcrnberg": "assets/logos/streamed/n\u00fcrnberg.webp",
         "Hamburger SV W": "assets/logos/streamed/hamburger-sv-w.webp",
         "Olimpija U19": "assets/logos/upstreams/olimpija-u19.webp",
-        "KK Zadar U19": "assets/logos/upstreams/kk-zadar-u19.webp"
+        "KK Zadar U19": "assets/logos/upstreams/kk-zadar-u19.webp",
+        "Yannic Nittmann": "assets/logos/upstreams/yannic-nittmann.webp",
+        "Salvador Price": "assets/logos/upstreams/salvador-price.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
