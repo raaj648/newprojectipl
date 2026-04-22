@@ -8716,7 +8716,18 @@
         "Luka Talan Lopatic": "assets/logos/upstreams/luka-talan-lopatic.webp",
         "Juan Parrilla": "assets/logos/upstreams/juan-parrilla.webp",
         "Sam Edwards": "assets/logos/upstreams/sam-edwards.webp",
-        "Niko Klyachkin": "assets/logos/upstreams/niko-klyachkin.webp"
+        "Niko Klyachkin": "assets/logos/upstreams/niko-klyachkin.webp",
+        "Canterbury Rams": "assets/logos/upstreams/canterbury-rams.webp",
+        "Univ. Craiova U19": "assets/logos/upstreams/univ-craiova-u19.webp",
+        "Ceara": "assets/logos/upstreams/ceara.webp",
+        "Radni\u010dki 1923": "assets/logos/upstreams/radni\u010dki-1923.webp",
+        "Trabzonspor | Viertelfinale": "assets/logos/upstreams/trabzonspor-viertelfinale.webp",
+        "F\u00fcchse Berlin": "assets/logos/upstreams/f\u00fcchse-berlin.webp",
+        "Dinamo \u2013 CS U Craiova": "assets/logos/upstreams/dinamo-cs-u-craiova.webp",
+        "MECI FOTBAL CUPA ROM\u00c2NIEI": "assets/logos/upstreams/meci-fotbal-cupa-rom\u00e2niei.webp",
+        "Nogomet: Danska liga: Sonderjyske": "assets/logos/upstreams/nogomet-danska-liga-sonderjyske.webp",
+        "Dinamo Bucure\u015fti": "assets/logos/upstreams/dinamo-bucure\u015fti.webp",
+        "CSU Craiova": "assets/logos/upstreams/csu-craiova.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9772,6 +9783,13 @@
         "ABA League U19": "assets/logos/leagues/aba-league-u19.webp",
         "UTR PTT Clemson Men 01, Group D": "assets/logos/leagues/utr-ptt-clemson-men-01-group-d.webp",
         "Austria Bundesliga": "assets/logos/leagues/austria-bundesliga.webp",
-        "UTR PTT Clemson Men 01, Group C": "assets/logos/leagues/utr-ptt-clemson-men-01-group-c.webp"
+        "UTR PTT Clemson Men 01, Group C": "assets/logos/leagues/utr-ptt-clemson-men-01-group-c.webp",
+        "Cupa Romaniei": "assets/logos/leagues/cupa-romaniei.webp",
+        "Copa Argentina Deportivomoron": "assets/logos/leagues/copa-argentina-deportivomoron.webp",
+        "Liga Sagres Braga": "assets/logos/leagues/liga-sagres-braga.webp",
+        "Super Liga Radnicki1923": "assets/logos/leagues/super-liga-radnicki1923.webp",
+        "Superliga Nordsjaelland Aarhus": "assets/logos/leagues/superliga-nordsjaelland-aarhus.webp",
+        "Turkish Cup Trabzonspor": "assets/logos/leagues/turkish-cup-trabzonspor.webp",
+        "Bundesliga Fuchseberlin": "assets/logos/leagues/bundesliga-fuchseberlin.webp"
     }
 }
