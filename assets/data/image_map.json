@@ -8781,7 +8781,10 @@
         "Amber Maalderink": "assets/logos/upstreams/amber-maalderink.webp",
         "Houston Rockets --- HD": "assets/logos/upstreams/houston-rockets-hd.webp",
         "Elfsborg": "assets/logos/streamed/elfsborg.webp",
-        "Djurg\u00e5rden": "assets/logos/streamed/djurg\u00e5rden.webp"
+        "Djurg\u00e5rden": "assets/logos/streamed/djurg\u00e5rden.webp",
+        "Ilirija U19": "assets/logos/upstreams/ilirija-u19.webp",
+        "KK Partizan Mozzart Bet U19": "assets/logos/upstreams/kk-partizan-mozzart-bet-u19.webp",
+        "Pierre-Hugues Herbert": "assets/logos/upstreams/pierre-hugues-herbert.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9853,6 +9856,7 @@
         "ASEAN Club Championship": "assets/logos/leagues/asean-club-championship.webp",
         "Montenegro - Cup": "assets/logos/leagues/montenegro-cup.webp",
         "Slovenia - Cup": "assets/logos/leagues/slovenia-cup.webp",
-        "UTR PTT Yokohama Men 05": "assets/logos/leagues/utr-ptt-yokohama-men-05.webp"
+        "UTR PTT Yokohama Men 05": "assets/logos/leagues/utr-ptt-yokohama-men-05.webp",
+        "U19 ABA League, Placement Matches": "assets/logos/leagues/u19-aba-league-placement-matches.webp"
     }
 }
