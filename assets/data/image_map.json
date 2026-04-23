@@ -8879,7 +8879,8 @@
         "Brackley Town": "assets/logos/streamed/brackley-town.webp",
         "York": "assets/logos/streamed/york.webp",
         "RB Leipzig W": "assets/logos/streamed/rb-leipzig-w.webp",
-        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp"
+        "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp",
+        "Melaka FC": "assets/logos/upstreams/melaka-fc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9960,6 +9961,7 @@
         "Africa League, Group Sahara": "assets/logos/leagues/africa-league-group-sahara.webp",
         "Netherlands - Eredivisie": "assets/logos/leagues/netherlands-eredivisie.webp",
         "UTR PTT Yokohama Men 05, 1-4 Playoff": "assets/logos/leagues/utr-ptt-yokohama-men-05-1-4-playoff.webp",
-        "UTR PTT Clemson Men 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-clemson-men-01-5-8-playoff.webp"
+        "UTR PTT Clemson Men 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-clemson-men-01-5-8-playoff.webp",
+        "Malaysia Super League": "assets/logos/leagues/malaysia-super-league.webp"
     }
 }
