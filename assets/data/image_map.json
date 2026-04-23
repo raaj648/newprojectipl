@@ -8820,7 +8820,21 @@
         "Naomi Osaka": "assets/logos/upstreams/naomi-osaka.webp",
         "Harbour View": "assets/logos/upstreams/harbour-view.webp",
         "Jesus Amezcua": "assets/logos/upstreams/jesus-amezcua.webp",
-        "Mees Rottgering": "assets/logos/upstreams/mees-rottgering.webp"
+        "Mees Rottgering": "assets/logos/upstreams/mees-rottgering.webp",
+        "Ville de Dakar": "assets/logos/upstreams/ville-de-dakar.webp",
+        "Club Africain": "assets/logos/upstreams/club-africain.webp",
+        "JCA Kings": "assets/logos/upstreams/jca-kings.webp",
+        "Cancun": "assets/logos/upstreams/cancun.webp",
+        "Kasimpasa": "assets/logos/upstreams/kasimpasa.webp",
+        "Kansas City NWSL W": "assets/logos/upstreams/kansas-city-nwsl-w.webp",
+        "Yucatan": "assets/logos/upstreams/yucatan.webp",
+        "Denmark U18": "assets/logos/upstreams/denmark-u18.webp",
+        "Termalica B-B.": "assets/logos/upstreams/termalica-b-b.webp",
+        "1.FC Nurnberg W": "assets/logos/upstreams/1fc-nurnberg-w.webp",
+        "Horneo Alicante": "assets/logos/upstreams/horneo-alicante.webp",
+        "Glamorgan": "assets/logos/upstreams/glamorgan.webp",
+        "Leicestershire": "assets/logos/upstreams/leicestershire.webp",
+        "FC Alverca x FC Arouca": "assets/logos/upstreams/fc-alverca-x-fc-arouca.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9893,6 +9907,10 @@
         "Montenegro - Cup": "assets/logos/leagues/montenegro-cup.webp",
         "Slovenia - Cup": "assets/logos/leagues/slovenia-cup.webp",
         "UTR PTT Yokohama Men 05": "assets/logos/leagues/utr-ptt-yokohama-men-05.webp",
-        "U19 ABA League, Placement Matches": "assets/logos/leagues/u19-aba-league-placement-matches.webp"
+        "U19 ABA League, Placement Matches": "assets/logos/leagues/u19-aba-league-placement-matches.webp",
+        "Liga Mexicana de B\u00e9isbol": "assets/logos/leagues/liga-mexicana-de-b\u00e9isbol.webp",
+        "Bundesliga Women": "assets/logos/leagues/bundesliga-women.webp",
+        "County Championship, Division 1": "assets/logos/leagues/county-championship-division-1.webp",
+        "County Championship": "assets/logos/leagues/county-championship.webp"
     }
 }
