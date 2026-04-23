@@ -8834,7 +8834,10 @@
         "Horneo Alicante": "assets/logos/upstreams/horneo-alicante.webp",
         "Glamorgan": "assets/logos/upstreams/glamorgan.webp",
         "Leicestershire": "assets/logos/upstreams/leicestershire.webp",
-        "FC Alverca x FC Arouca": "assets/logos/upstreams/fc-alverca-x-fc-arouca.webp"
+        "FC Alverca x FC Arouca": "assets/logos/upstreams/fc-alverca-x-fc-arouca.webp",
+        "Spain U17": "assets/logos/streamed/spain-u17.webp",
+        "Ukraine U17": "assets/logos/streamed/ukraine-u17.webp",
+        "JCA": "assets/logos/upstreams/jca.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -9911,6 +9914,7 @@
         "Liga Mexicana de B\u00e9isbol": "assets/logos/leagues/liga-mexicana-de-b\u00e9isbol.webp",
         "Bundesliga Women": "assets/logos/leagues/bundesliga-women.webp",
         "County Championship, Division 1": "assets/logos/leagues/county-championship-division-1.webp",
-        "County Championship": "assets/logos/leagues/county-championship.webp"
+        "County Championship": "assets/logos/leagues/county-championship.webp",
+        "Africa League, Group Sahara": "assets/logos/leagues/africa-league-group-sahara.webp"
     }
 }
