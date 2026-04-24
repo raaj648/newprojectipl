@@ -9057,7 +9057,9 @@
         "Ditlev Jaeger Holm": "assets/logos/upstreams/ditlev-jaeger-holm.webp",
         "Sang Yong Park": "assets/logos/upstreams/sang-yong-park.webp",
         "Betancourt P / De Rozas R J": "assets/logos/upstreams/betancourt-p-de-rozas-r-j.webp",
-        "Hayen A / Roddick J": "assets/logos/upstreams/hayen-a-roddick-j.webp"
+        "Hayen A / Roddick J": "assets/logos/upstreams/hayen-a-roddick-j.webp",
+        "Bombers Fc": "assets/logos/upstreams/bombers-fc.webp",
+        "South East": "assets/logos/upstreams/south-east.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10149,6 +10151,7 @@
         "Women's Super League": "assets/logos/leagues/womens-super-league.webp",
         "USA - WNBA (W) - Preseason": "assets/logos/leagues/usa-wnba-w-preseason.webp",
         "USA - NWSL (W)": "assets/logos/leagues/usa-nwsl-w.webp",
-        "Regionalliga North": "assets/logos/leagues/regionalliga-north.webp"
+        "Regionalliga North": "assets/logos/leagues/regionalliga-north.webp",
+        "Dominica - Premier League": "assets/logos/leagues/dominica-premier-league.webp"
     }
 }
