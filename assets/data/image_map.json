@@ -9039,7 +9039,15 @@
         "PAEEK": "assets/logos/upstreams/paeek.webp",
         "Karmiotissa": "assets/logos/upstreams/karmiotissa.webp",
         "Luawa": "assets/logos/upstreams/luawa.webp",
-        "Spartak Varna": "assets/logos/upstreams/spartak-varna.webp"
+        "Spartak Varna": "assets/logos/upstreams/spartak-varna.webp",
+        "London City Lionesses": "assets/logos/streamed/london-city-lionesses.webp",
+        "Leicester City WFC": "assets/logos/streamed/leicester-city-wfc.webp",
+        "Tottenham Hotspur W": "assets/logos/streamed/tottenham-hotspur-w.webp",
+        "Everton W": "assets/logos/streamed/everton-w.webp",
+        "West Ham W": "assets/logos/streamed/west-ham-w.webp",
+        "Bayer Leverkusen W": "assets/logos/streamed/bayer-leverkusen-w.webp",
+        "SC Freiburg W": "assets/logos/streamed/sc-freiburg-w.webp",
+        "Tae Bin Yoo": "assets/logos/upstreams/tae-bin-yoo.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
