@@ -8943,7 +8943,11 @@
         "Lucas Rocha": "assets/logos/upstreams/lucas-rocha.webp",
         "Mistelbach Mustangs": "assets/logos/upstreams/mistelbach-mustangs.webp",
         "Deportivo Rayo Zuliano": "assets/logos/upstreams/deportivo-rayo-zuliano.webp",
-        "Washington Mystics (W)": "assets/logos/upstreams/washington-mystics-w.webp"
+        "Washington Mystics (W)": "assets/logos/upstreams/washington-mystics-w.webp",
+        "FC St Pauli II U23": "assets/logos/upstreams/fc-st-pauli-ii-u23.webp",
+        "Hannover 96 II U23": "assets/logos/upstreams/hannover-96-ii-u23.webp",
+        "FC Inter Wanica": "assets/logos/upstreams/fc-inter-wanica.webp",
+        "Al Ahly SC": "assets/logos/upstreams/al-ahly-sc.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10033,6 +10037,8 @@
         "USL Cup": "assets/logos/leagues/usl-cup.webp",
         "Super Rygbi Cymru": "assets/logos/leagues/super-rygbi-cymru.webp",
         "Women's Super League": "assets/logos/leagues/womens-super-league.webp",
-        "USA - WNBA (W) - Preseason": "assets/logos/leagues/usa-wnba-w-preseason.webp"
+        "USA - WNBA (W) - Preseason": "assets/logos/leagues/usa-wnba-w-preseason.webp",
+        "USA - NWSL (W)": "assets/logos/leagues/usa-nwsl-w.webp",
+        "Regionalliga North": "assets/logos/leagues/regionalliga-north.webp"
     }
 }
