@@ -9160,7 +9160,9 @@
         "Faye Huo": "assets/logos/upstreams/faye-huo.webp",
         "Justin Hoh": "assets/logos/upstreams/justin-hoh.webp",
         "Titan Baschet": "assets/logos/upstreams/titan-baschet.webp",
-        "CBA": "assets/logos/upstreams/cba.webp"
+        "CBA": "assets/logos/upstreams/cba.webp",
+        "Surrey": "assets/logos/upstreams/surrey.webp",
+        "Essex": "assets/logos/upstreams/essex.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10264,6 +10266,7 @@
         "Frauen-Bundesliga": "assets/logos/leagues/frauen-bundesliga.webp",
         "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp",
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
-        "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp"
+        "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
+        "County Championship One": "assets/logos/leagues/county-championship-one.webp"
     }
 }
