@@ -9142,7 +9142,9 @@
         "Romeo Makboul": "assets/logos/upstreams/romeo-makboul.webp",
         "Brooklyn": "assets/logos/upstreams/brooklyn.webp",
         "New Mexicoo United": "assets/logos/upstreams/new-mexicoo-united.webp",
-        "Greenville Triumph": "assets/logos/upstreams/greenville-triumph.webp"
+        "Greenville Triumph": "assets/logos/upstreams/greenville-triumph.webp",
+        "Newcastle United Jets": "assets/logos/upstreams/newcastle-united-jets.webp",
+        "WEastern Sydney Wanderers": "assets/logos/upstreams/weastern-sydney-wanderers.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10244,6 +10246,7 @@
         "Primera LPF, Apertura": "assets/logos/leagues/primera-lpf-apertura.webp",
         "Regionalliga Northeast": "assets/logos/leagues/regionalliga-northeast.webp",
         "Frauen-Bundesliga": "assets/logos/leagues/frauen-bundesliga.webp",
-        "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp"
+        "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp",
+        "Australia - A-League": "assets/logos/leagues/australia-a-league.webp"
     }
 }
