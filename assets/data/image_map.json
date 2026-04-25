@@ -9178,7 +9178,8 @@
         "Vital'O": "assets/logos/upstreams/vitalo.webp",
         "Le Messager Ngozi": "assets/logos/upstreams/le-messager-ngozi.webp",
         "Exeter": "assets/logos/upstreams/exeter.webp",
-        "Krasava": "assets/logos/upstreams/krasava.webp"
+        "Krasava": "assets/logos/upstreams/krasava.webp",
+        "Mlada Boleslav B": "assets/logos/upstreams/mlada-boleslav-b.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10283,6 +10284,7 @@
         "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp",
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
         "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
-        "County Championship One": "assets/logos/leagues/county-championship-one.webp"
+        "County Championship One": "assets/logos/leagues/county-championship-one.webp",
+        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp"
     }
 }
