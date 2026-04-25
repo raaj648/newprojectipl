@@ -9103,7 +9103,13 @@
         "CSM Bucuresti": "assets/logos/upstreams/csm-bucuresti.webp",
         "Team Esbjerg": "assets/logos/upstreams/team-esbjerg.webp",
         "St Johnstone": "assets/logos/upstreams/st-johnstone.webp",
-        "Harlem Boomers": "assets/logos/upstreams/harlem-boomers.webp"
+        "Harlem Boomers": "assets/logos/upstreams/harlem-boomers.webp",
+        "CA Aldosivi": "assets/logos/upstreams/ca-aldosivi.webp",
+        "AFC Uta Arad": "assets/logos/upstreams/afc-uta-arad.webp",
+        "1. FC Magdeburg II": "assets/logos/upstreams/1-fc-magdeburg-ii.webp",
+        "CRKSV Jong Colombia": "assets/logos/upstreams/crksv-jong-colombia.webp",
+        "C.r.k.s.v. Jong Holland": "assets/logos/upstreams/crksv-jong-holland.webp",
+        "Ville De Dakar": "assets/logos/upstreams/ville-de-dakar.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10201,6 +10207,9 @@
         "First Professional League, Relegation Round": "assets/logos/leagues/first-professional-league-relegation-round.webp",
         "Brasileiro U20": "assets/logos/leagues/brasileiro-u20.webp",
         "Primera B Metropolitana": "assets/logos/leagues/primera-b-metropolitana.webp",
-        "Handball": "assets/logos/leagues/handball.webp"
+        "Handball": "assets/logos/leagues/handball.webp",
+        "Primera LPF, Apertura": "assets/logos/leagues/primera-lpf-apertura.webp",
+        "Regionalliga Northeast": "assets/logos/leagues/regionalliga-northeast.webp",
+        "Frauen-Bundesliga": "assets/logos/leagues/frauen-bundesliga.webp"
     }
 }
