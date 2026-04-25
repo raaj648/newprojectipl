@@ -9181,7 +9181,12 @@
         "Krasava": "assets/logos/upstreams/krasava.webp",
         "Mlada Boleslav B": "assets/logos/upstreams/mlada-boleslav-b.webp",
         "1899 Hoffenheim W": "assets/logos/streamed/1899-hoffenheim-w.webp",
-        "FC Koln W": "assets/logos/streamed/fc-koln-w.webp"
+        "FC Koln W": "assets/logos/streamed/fc-koln-w.webp",
+        "Bai Bureh Warriors": "assets/logos/upstreams/bai-bureh-warriors.webp",
+        "Slifa FC": "assets/logos/upstreams/slifa-fc.webp",
+        "Mighty Blackpool": "assets/logos/upstreams/mighty-blackpool.webp",
+        "Kodai Naraoka": "assets/logos/upstreams/kodai-naraoka.webp",
+        "Unnati Hooda": "assets/logos/upstreams/unnati-hooda.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10287,6 +10292,7 @@
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
         "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
         "County Championship One": "assets/logos/leagues/county-championship-one.webp",
-        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp"
+        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp",
+        "Spain - Segunda FEB": "assets/logos/leagues/spain-segunda-feb.webp"
     }
 }
