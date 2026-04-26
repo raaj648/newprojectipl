@@ -9327,7 +9327,11 @@
         "Chitipa United": "assets/logos/upstreams/chitipa-united.webp",
         "Bullom Stars FC": "assets/logos/upstreams/bullom-stars-fc.webp",
         "Diamond Stars": "assets/logos/upstreams/diamond-stars.webp",
-        "Courtney John Lock": "assets/logos/upstreams/courtney-john-lock.webp"
+        "Courtney John Lock": "assets/logos/upstreams/courtney-john-lock.webp",
+        "Yanited": "assets/logos/upstreams/yanited.webp",
+        "Gold Devils FC": "assets/logos/upstreams/gold-devils-fc.webp",
+        "Sebastian Sorger": "assets/logos/upstreams/sebastian-sorger.webp",
+        "Yu-Hsun Huang": "assets/logos/upstreams/yu-hsun-huang.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10444,6 +10448,7 @@
         "Ostrava, Czech Republic, Qualifying": "assets/logos/leagues/ostrava-czech-republic-qualifying.webp",
         "Mauthausen, Austria, Qualifying": "assets/logos/leagues/mauthausen-austria-qualifying.webp",
         "Latvia Virsliga": "assets/logos/leagues/latvia-virsliga.webp",
-        "Saint-Malo, France, Qualifying": "assets/logos/leagues/saint-malo-france-qualifying.webp"
+        "Saint-Malo, France, Qualifying": "assets/logos/leagues/saint-malo-france-qualifying.webp",
+        "Baller League UK": "assets/logos/leagues/baller-league-uk.webp"
     }
 }
