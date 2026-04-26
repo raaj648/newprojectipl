@@ -9215,7 +9215,10 @@
         "Hoffenheim W": "assets/logos/upstreams/hoffenheim-w.webp",
         "Koln W": "assets/logos/upstreams/koln-w.webp",
         "Karvan": "assets/logos/upstreams/karvan.webp",
-        "Germany U18": "assets/logos/upstreams/germany-u18.webp"
+        "Germany U18": "assets/logos/upstreams/germany-u18.webp",
+        "Karag\u00fcmr\u00fck": "assets/logos/upstreams/karag\u00fcmr\u00fck.webp",
+        "Brooklyn (W)": "assets/logos/upstreams/brooklyn-w.webp",
+        "Dominik Recek": "assets/logos/upstreams/dominik-recek.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
