@@ -9304,7 +9304,10 @@
         "Siti Zulaikha": "assets/logos/upstreams/siti-zulaikha.webp",
         "PIrania (W)": "assets/logos/upstreams/pirania-w.webp",
         "Asem Chisinau (W)": "assets/logos/upstreams/asem-chisinau-w.webp",
-        "Yu Jin Sim": "assets/logos/upstreams/yu-jin-sim.webp"
+        "Yu Jin Sim": "assets/logos/upstreams/yu-jin-sim.webp",
+        "Red Lions": "assets/logos/upstreams/red-lions.webp",
+        "Mitundu Baptist": "assets/logos/upstreams/mitundu-baptist.webp",
+        "Bernex": "assets/logos/upstreams/bernex.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10420,6 +10423,7 @@
         "EHF - European Cup": "assets/logos/leagues/ehf-european-cup.webp",
         "Ostrava, Czech Republic, Qualifying": "assets/logos/leagues/ostrava-czech-republic-qualifying.webp",
         "Mauthausen, Austria, Qualifying": "assets/logos/leagues/mauthausen-austria-qualifying.webp",
-        "Latvia Virsliga": "assets/logos/leagues/latvia-virsliga.webp"
+        "Latvia Virsliga": "assets/logos/leagues/latvia-virsliga.webp",
+        "Saint-Malo, France, Qualifying": "assets/logos/leagues/saint-malo-france-qualifying.webp"
     }
 }
