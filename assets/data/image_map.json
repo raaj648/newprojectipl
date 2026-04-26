@@ -9257,7 +9257,14 @@
         "Union Berlin U19": "assets/logos/upstreams/union-berlin-u19.webp",
         "Milena Steinkamp": "assets/logos/upstreams/milena-steinkamp.webp",
         "Nika Radisic": "assets/logos/upstreams/nika-radisic.webp",
-        "Polina Skliar": "assets/logos/upstreams/polina-skliar.webp"
+        "Polina Skliar": "assets/logos/upstreams/polina-skliar.webp",
+        "Supanida Katethong": "assets/logos/upstreams/supanida-katethong.webp",
+        "Cristina Teruel": "assets/logos/upstreams/cristina-teruel.webp",
+        "Enogat Roy": "assets/logos/upstreams/enogat-roy.webp",
+        "Mohamed Abdelaziz Ouchefoun": "assets/logos/upstreams/mohamed-abdelaziz-ouchefoun.webp",
+        "Ines Costero": "assets/logos/upstreams/ines-costero.webp",
+        "Moh. Zaki Ubaidillah": "assets/logos/upstreams/moh-zaki-ubaidillah.webp",
+        "Tanawat Yimjit": "assets/logos/upstreams/tanawat-yimjit.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10368,6 +10375,8 @@
         "Cage Warriors 205: Burlinson vs. Clancy Jr.": "assets/logos/leagues/cage-warriors-205-burlinson-vs-clancy-jr.webp",
         "WNBA Basketball": "assets/logos/leagues/wnba-basketball.webp",
         "ECHL, Playoffs": "assets/logos/leagues/echl-playoffs.webp",
-        "VFL": "assets/logos/leagues/vfl.webp"
+        "VFL": "assets/logos/leagues/vfl.webp",
+        "Twenty20 International": "assets/logos/leagues/twenty20-international.webp",
+        "EHF - European Cup": "assets/logos/leagues/ehf-european-cup.webp"
     }
 }
