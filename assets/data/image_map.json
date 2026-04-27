@@ -9490,7 +9490,9 @@
         "Buxton": "assets/logos/streamed/buxton.webp",
         "Scarborough Athletic": "assets/logos/streamed/scarborough-athletic.webp",
         "Hemel Hempstead Town": "assets/logos/streamed/hemel-hempstead-town.webp",
-        "Weston-super-Mare": "assets/logos/streamed/weston-super-mare.webp"
+        "Weston-super-Mare": "assets/logos/streamed/weston-super-mare.webp",
+        "Akranes": "assets/logos/upstreams/akranes.webp",
+        "Valur": "assets/logos/upstreams/valur.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
