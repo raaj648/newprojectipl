@@ -9339,7 +9339,11 @@
         "Isabel Pascual Montalvo": "assets/logos/upstreams/isabel-pascual-montalvo.webp",
         "Aleksandra Stevanovic": "assets/logos/upstreams/aleksandra-stevanovic.webp",
         "Inter Bogot": "assets/logos/upstreams/inter-bogot.webp",
-        "CD Santa Cruz": "assets/logos/upstreams/cd-santa-cruz.webp"
+        "CD Santa Cruz": "assets/logos/upstreams/cd-santa-cruz.webp",
+        "Unics Kazan": "assets/logos/upstreams/unics-kazan.webp",
+        "MBA Moscow": "assets/logos/upstreams/mba-moscow.webp",
+        "Quintana Roo": "assets/logos/upstreams/quintana-roo.webp",
+        "Vardar": "assets/logos/upstreams/vardar.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10458,6 +10462,7 @@
         "Latvia Virsliga": "assets/logos/leagues/latvia-virsliga.webp",
         "Saint-Malo, France, Qualifying": "assets/logos/leagues/saint-malo-france-qualifying.webp",
         "Baller League UK": "assets/logos/leagues/baller-league-uk.webp",
-        "Abidjan 2, Cote d Ivoire, Qualifying": "assets/logos/leagues/abidjan-2-cote-d-ivoire-qualifying.webp"
+        "Abidjan 2, Cote d Ivoire, Qualifying": "assets/logos/leagues/abidjan-2-cote-d-ivoire-qualifying.webp",
+        "VTB United League": "assets/logos/leagues/vtb-united-league.webp"
     }
 }
