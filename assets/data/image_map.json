@@ -9486,7 +9486,11 @@
         "Bhantal FC": "assets/logos/upstreams/bhantal-fc.webp",
         "Fram": "assets/logos/upstreams/fram.webp",
         "Vestmannaeyjar": "assets/logos/upstreams/vestmannaeyjar.webp",
-        "Estoril U23": "assets/logos/upstreams/estoril-u23.webp"
+        "Estoril U23": "assets/logos/upstreams/estoril-u23.webp",
+        "Buxton": "assets/logos/streamed/buxton.webp",
+        "Scarborough Athletic": "assets/logos/streamed/scarborough-athletic.webp",
+        "Hemel Hempstead Town": "assets/logos/streamed/hemel-hempstead-town.webp",
+        "Weston-super-Mare": "assets/logos/streamed/weston-super-mare.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
