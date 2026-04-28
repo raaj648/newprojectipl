@@ -9515,7 +9515,8 @@
         "Enisey, G2": "assets/logos/upstreams/enisey-g2.webp",
         "L.A. Lakers - NBA Season 2025\u20132026": "assets/logos/upstreams/la-lakers-nba-season-20252026.webp",
         "Bars Kazan": "assets/logos/upstreams/bars-kazan.webp",
-        "Finland U18": "assets/logos/upstreams/finland-u18.webp"
+        "Finland U18": "assets/logos/upstreams/finland-u18.webp",
+        "Taisto": "assets/logos/upstreams/taisto.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10648,6 +10649,7 @@
         "Womens Scottish Premier League": "assets/logos/leagues/womens-scottish-premier-league.webp",
         "ABA League 2": "assets/logos/leagues/aba-league-2.webp",
         "Scottish Women's Premier League": "assets/logos/leagues/scottish-womens-premier-league.webp",
-        "Bambusa Kvindeligaen": "assets/logos/leagues/bambusa-kvindeligaen.webp"
+        "Bambusa Kvindeligaen": "assets/logos/leagues/bambusa-kvindeligaen.webp",
+        "Finland Cup": "assets/logos/leagues/finland-cup.webp"
     }
 }
