@@ -9504,7 +9504,10 @@
         "Hannover-Burgdorf": "assets/logos/upstreams/hannover-burgdorf.webp",
         "Ringkobing W": "assets/logos/upstreams/ringkobing-w.webp",
         "EH Aalborg W": "assets/logos/upstreams/eh-aalborg-w.webp",
-        "Bremen (W)": "assets/logos/upstreams/bremen-w.webp"
+        "Bremen (W)": "assets/logos/upstreams/bremen-w.webp",
+        "Toronto Tempo": "assets/logos/streamed/toronto-tempo.webp",
+        "Connecticut Sun": "assets/logos/streamed/connecticut-sun.webp",
+        "Atlanta Dream": "assets/logos/streamed/atlanta-dream.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
