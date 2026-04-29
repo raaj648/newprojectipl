@@ -9542,7 +9542,10 @@
         "Yokohama F Marinos": "assets/logos/upstreams/yokohama-f-marinos.webp",
         "Dallas Wings": "assets/logos/streamed/dallas-wings.webp",
         "Dewa United": "assets/logos/upstreams/dewa-united.webp",
-        "Andranik": "assets/logos/upstreams/andranik.webp"
+        "Andranik": "assets/logos/upstreams/andranik.webp",
+        "Vikingur": "assets/logos/upstreams/vikingur.webp",
+        "Hoyvik": "assets/logos/upstreams/hoyvik.webp",
+        "Toftir": "assets/logos/upstreams/toftir.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10681,6 +10684,7 @@
         "Serbian Cup": "assets/logos/leagues/serbian-cup.webp",
         "Khlomsk Lokomotivyaroslavl": "assets/logos/leagues/khlomsk-lokomotivyaroslavl.webp",
         "UEFA Conference League, Knockout stage": "assets/logos/leagues/uefa-conference-league-knockout-stage.webp",
-        "Mozzart Kup Srbije": "assets/logos/leagues/mozzart-kup-srbije.webp"
+        "Mozzart Kup Srbije": "assets/logos/leagues/mozzart-kup-srbije.webp",
+        "Faroe Islands Premier League": "assets/logos/leagues/faroe-islands-premier-league.webp"
     }
 }
