@@ -9557,7 +9557,11 @@
         "Tim Mork": "assets/logos/upstreams/tim-mork.webp",
         "Dallas Wings (W)": "assets/logos/upstreams/dallas-wings-w.webp",
         "Tondela --- HD": "assets/logos/upstreams/tondela-hd.webp",
-        "Stal Stalowa Wola": "assets/logos/upstreams/stal-stalowa-wola.webp"
+        "Stal Stalowa Wola": "assets/logos/upstreams/stal-stalowa-wola.webp",
+        "Gravelines-Dunkerque": "assets/logos/upstreams/gravelines-dunkerque.webp",
+        "Granada W": "assets/logos/upstreams/granada-w.webp",
+        "Baroka": "assets/logos/upstreams/baroka.webp",
+        "Rhein-Neckar": "assets/logos/upstreams/rhein-neckar.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10699,6 +10703,7 @@
         "Mozzart Kup Srbije": "assets/logos/leagues/mozzart-kup-srbije.webp",
         "Faroe Islands Premier League": "assets/logos/leagues/faroe-islands-premier-league.webp",
         "Basketball EuroCup": "assets/logos/leagues/basketball-eurocup.webp",
-        "Cagliari, Italy": "assets/logos/leagues/cagliari-italy.webp"
+        "Cagliari, Italy": "assets/logos/leagues/cagliari-italy.webp",
+        "Austria - Cup": "assets/logos/leagues/austria-cup.webp"
     }
 }
