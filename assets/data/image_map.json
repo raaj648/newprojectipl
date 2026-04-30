@@ -9578,7 +9578,9 @@
         "Carlos Lopez Montagud": "assets/logos/upstreams/carlos-lopez-montagud.webp",
         "Iliyan Radulov": "assets/logos/upstreams/iliyan-radulov.webp",
         "Jedinstvo Ub": "assets/logos/upstreams/jedinstvo-ub.webp",
-        "Ratchanok Intanon": "assets/logos/upstreams/ratchanok-intanon.webp"
+        "Ratchanok Intanon": "assets/logos/upstreams/ratchanok-intanon.webp",
+        "New South Wales W": "assets/logos/upstreams/new-south-wales-w.webp",
+        "Queensland W": "assets/logos/upstreams/queensland-w.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
@@ -10721,6 +10723,7 @@
         "Faroe Islands Premier League": "assets/logos/leagues/faroe-islands-premier-league.webp",
         "Basketball EuroCup": "assets/logos/leagues/basketball-eurocup.webp",
         "Cagliari, Italy": "assets/logos/leagues/cagliari-italy.webp",
-        "Austria - Cup": "assets/logos/leagues/austria-cup.webp"
+        "Austria - Cup": "assets/logos/leagues/austria-cup.webp",
+        "State of Origin Women": "assets/logos/leagues/state-of-origin-women.webp"
     }
 }
