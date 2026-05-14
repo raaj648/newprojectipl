@@ -9667,7 +9667,14 @@
         "AIK": "assets/logos/streamed/aik.webp",
         "San Martin S.J.": "assets/logos/streamed/san-martin-sj.webp",
         "Turkey U18": "assets/logos/streamed/turkey-u18.webp",
-        "Hungary U18": "assets/logos/streamed/hungary-u18.webp"
+        "Hungary U18": "assets/logos/streamed/hungary-u18.webp",
+        "Finland Ice Hockey": "assets/logos/streamed/finland-ice-hockey.webp",
+        "Germany Ice Hockey": "assets/logos/streamed/germany-ice-hockey.webp",
+        "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
+        "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp",
+        "Switzerland Ice Hockey": "assets/logos/streamed/switzerland-ice-hockey.webp",
+        "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
+        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
