@@ -9689,7 +9689,11 @@
         "Slovenia Ice Hockey": "assets/logos/streamed/slovenia-ice-hockey.webp",
         "Manchester Thunder": "assets/logos/streamed/manchester-thunder.webp",
         "Hull Kingston Rovers": "assets/logos/streamed/hull-kingston-rovers.webp",
-        "Germany": "assets/logos/streamed/germany.webp"
+        "Germany": "assets/logos/streamed/germany.webp",
+        "Kyrgyz Republic U20": "assets/logos/streamed/kyrgyz-republic-u20.webp",
+        "Afghanistan U20": "assets/logos/streamed/afghanistan-u20.webp",
+        "Tajikistan U20": "assets/logos/streamed/tajikistan-u20.webp",
+        "Egypt U19": "assets/logos/streamed/egypt-u19.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
