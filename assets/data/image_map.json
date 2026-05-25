@@ -9715,7 +9715,14 @@
         "Stade Lausanne-Ouchy": "assets/logos/streamed/stade-lausanne-ouchy.webp",
         "Middlesex t20": "assets/logos/streamed/middlesex-t20.webp",
         "Surrey t20": "assets/logos/streamed/surrey-t20.webp",
-        "Burundi": "assets/logos/streamed/burundi.webp"
+        "Burundi": "assets/logos/streamed/burundi.webp",
+        "Croatia U17": "assets/logos/streamed/croatia-u17.webp",
+        "Belgium U17": "assets/logos/streamed/belgium-u17.webp",
+        "Estonia U17": "assets/logos/streamed/estonia-u17.webp",
+        "Italy U17": "assets/logos/streamed/italy-u17.webp",
+        "France U17": "assets/logos/streamed/france-u17.webp",
+        "Montenegro U17": "assets/logos/streamed/montenegro-u17.webp",
+        "Denmark U17": "assets/logos/streamed/denmark-u17.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
