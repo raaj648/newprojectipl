@@ -9725,7 +9725,9 @@
         "Denmark U17": "assets/logos/streamed/denmark-u17.webp",
         "New South Wales Blues": "assets/logos/streamed/new-south-wales-blues.webp",
         "Queensland Maroons": "assets/logos/streamed/queensland-maroons.webp",
-        "India": "assets/logos/streamed/india.webp"
+        "India": "assets/logos/streamed/india.webp",
+        "Finland": "assets/logos/streamed/finland.webp",
+        "Vechta": "assets/logos/streamed/vechta.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
