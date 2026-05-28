@@ -9735,7 +9735,11 @@
         "Slovenia U18": "assets/logos/streamed/slovenia-u18.webp",
         "Colombia U20": "assets/logos/streamed/colombia-u20.webp",
         "Costa Rica U20": "assets/logos/streamed/costa-rica-u20.webp",
-        "Sporting JAX": "assets/logos/streamed/sporting-jax.webp"
+        "Sporting JAX": "assets/logos/streamed/sporting-jax.webp",
+        "Mexico U17": "assets/logos/streamed/mexico-u17.webp",
+        "England U17": "assets/logos/streamed/england-u17.webp",
+        "Lebanon": "assets/logos/streamed/lebanon.webp",
+        "Nicaragua": "assets/logos/streamed/nicaragua.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
