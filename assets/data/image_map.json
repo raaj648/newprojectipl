@@ -9773,7 +9773,9 @@
         "Cambodia": "assets/logos/streamed/cambodia.webp",
         "Cyprus": "assets/logos/streamed/cyprus.webp",
         "Liechtenstein": "assets/logos/streamed/liechtenstein.webp",
-        "France": "assets/logos/streamed/france.webp"
+        "France": "assets/logos/streamed/france.webp",
+        "Junior FC": "assets/logos/streamed/junior-fc.webp",
+        "Sweden U20": "assets/logos/streamed/sweden-u20.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
