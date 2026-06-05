@@ -9799,7 +9799,16 @@
         "Firenze Red Lions": "assets/logos/streamed/firenze-red-lions.webp",
         "Berlin Thunder": "assets/logos/streamed/berlin-thunder.webp",
         "Vienna Vikings": "assets/logos/streamed/vienna-vikings.webp",
-        "Rhein Fire": "assets/logos/streamed/rhein-fire.webp"
+        "Rhein Fire": "assets/logos/streamed/rhein-fire.webp",
+        "China PR U23": "assets/logos/streamed/china-pr-u23.webp",
+        "Thailand U23": "assets/logos/streamed/thailand-u23.webp",
+        "South Korea U23": "assets/logos/streamed/south-korea-u23.webp",
+        "Myanmar": "assets/logos/streamed/myanmar.webp",
+        "Republic of Ireland U21": "assets/logos/streamed/republic-of-ireland-u21.webp",
+        "Rwanda": "assets/logos/streamed/rwanda.webp",
+        "Armenia": "assets/logos/streamed/armenia.webp",
+        "Cayman Islands": "assets/logos/streamed/cayman-islands.webp",
+        "Bermuda": "assets/logos/streamed/bermuda.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
