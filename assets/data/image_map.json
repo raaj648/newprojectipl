@@ -9843,7 +9843,12 @@
         "Iraq U20": "assets/logos/streamed/iraq-u20.webp",
         "Italy U21": "assets/logos/streamed/italy-u21.webp",
         "Georgia U19": "assets/logos/streamed/georgia-u19.webp",
-        "Qatar U23": "assets/logos/streamed/qatar-u23.webp"
+        "Qatar U23": "assets/logos/streamed/qatar-u23.webp",
+        "Russia U19": "assets/logos/streamed/russia-u19.webp",
+        "Algeria U23": "assets/logos/streamed/algeria-u23.webp",
+        "Mauritania U23": "assets/logos/streamed/mauritania-u23.webp",
+        "Brazil U17": "assets/logos/streamed/brazil-u17.webp",
+        "United States U17": "assets/logos/streamed/united-states-u17.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
