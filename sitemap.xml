@@ -61,48 +61,6 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=santa-clara-vs-leça-2c730d75</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=rally-tv-e7360aab</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=france-vs-spain-d7b4b32c</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=larne-vs-tre-fiori-d5b8b07f</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=chicago-bulls-vs-washington-wizards-3d4422ed</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=the-new-saints-vs-sabah-baku-046b8f88</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=wwe-nxt-3c26b7d3</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://liveipl.fit/watch/?livestream=connecticut-sun-w-vs-portland-fire-w-c9598bb3</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
@@ -115,31 +73,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=inter-club-descaldes-vs-lincoln-red-imps-34db4fbe</loc>
+        <loc>https://liveipl.fit/watch/?livestream=rally-tv-e7360aab</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=la-fiorita-vs-una-strassen-77c83f7d</loc>
+        <loc>https://liveipl.fit/watch/?livestream=larne-vs-tre-fiori-d5b8b07f</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=kups-vs-vardar-4aa1343a</loc>
+        <loc>https://liveipl.fit/watch/?livestream=shamrock-rovers-vs-floriana-9421aa67</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=golden-state-warriors-vs-memphis-grizzlies-0a3798c3</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=houston-rockets-vs-philadelphia-76ers-53b78868</loc>
+        <loc>https://liveipl.fit/watch/?livestream=oklahoma-city-thunder-vs-denver-nuggets-ee285296</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -151,25 +103,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=saburtalo-vs-flora-tallinn-c3d95615</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=tour-de-france-stage-10-4a108dd0</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=toronto-tempo-w-vs-washington-mystics-w-a1e0d5bb</loc>
-        <lastmod>2026-07-14</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=los-angeles-lakers-vs-los-angeles-clippers-997f4874</loc>
+        <loc>https://liveipl.fit/watch/?livestream=santa-clara-vs-leça-2c730d75</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -187,25 +121,37 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://liveipl.fit/watch/?livestream=riga-fc-vs-ararat-armenia-58f20d3a</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=houston-rockets-vs-philadelphia-76ers-53b78868</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://liveipl.fit/watch/?livestream=gyori-eto-fc-vs-vikingur-reykjavik-c2ecf8ff</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=uci-tour-de-france-uci-world-tour-b820d6ee</loc>
+        <loc>https://liveipl.fit/watch/?livestream=tour-de-france-stage-10-4a108dd0</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=shamrock-rovers-vs-floriana-9421aa67</loc>
+        <loc>https://liveipl.fit/watch/?livestream=the-new-saints-vs-sabah-baku-046b8f88</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=tour-de-france-stage-11-4704ff96</loc>
+        <loc>https://liveipl.fit/watch/?livestream=saburtalo-vs-flora-tallinn-c3d95615</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -223,13 +169,67 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=oklahoma-city-thunder-vs-denver-nuggets-ee285296</loc>
+        <loc>https://liveipl.fit/watch/?livestream=uci-tour-de-france-uci-world-tour-b820d6ee</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=riga-fc-vs-ararat-armenia-58f20d3a</loc>
+        <loc>https://liveipl.fit/watch/?livestream=toronto-tempo-w-vs-washington-mystics-w-a1e0d5bb</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=los-angeles-lakers-vs-los-angeles-clippers-997f4874</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=france-vs-spain-d7b4b32c</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=kups-vs-vardar-4aa1343a</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=la-fiorita-vs-una-strassen-77c83f7d</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=chicago-bulls-vs-washington-wizards-3d4422ed</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=inter-club-descaldes-vs-lincoln-red-imps-34db4fbe</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=wwe-nxt-3c26b7d3</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=golden-state-warriors-vs-memphis-grizzlies-0a3798c3</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=tour-de-france-stage-11-4704ff96</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
