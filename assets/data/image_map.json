@@ -10553,7 +10553,13 @@
         "Stade Mouscronnois": "assets/logos/streamed/stade-mouscronnois.webp",
         "Mons": "assets/logos/streamed/mons.webp",
         "Vilanova": "assets/logos/streamed/vilanova.webp",
-        "Langreo": "assets/logos/streamed/langreo.webp"
+        "Langreo": "assets/logos/streamed/langreo.webp",
+        "Pittsburgh Steelers": "assets/logos/streamed/pittsburgh-steelers.webp",
+        "Green Bay Packers": "assets/logos/streamed/green-bay-packers.webp",
+        "Cincinnati Bengals": "assets/logos/streamed/cincinnati-bengals.webp",
+        "Detroit Lions": "assets/logos/streamed/detroit-lions.webp",
+        "New England Patriots": "assets/logos/streamed/new-england-patriots.webp",
+        "Indianapolis Colts": "assets/logos/streamed/indianapolis-colts.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
