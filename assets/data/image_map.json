@@ -10723,7 +10723,17 @@
         "Chelsea U21": "assets/logos/streamed/chelsea-u21.webp",
         "Sheffield Wed": "assets/logos/streamed/sheffield-wed.webp",
         "Finland Basketball": "assets/logos/streamed/finland-basketball.webp",
-        "Sweden Basketball": "assets/logos/streamed/sweden-basketball.webp"
+        "Sweden Basketball": "assets/logos/streamed/sweden-basketball.webp",
+        "Hungary Basketball": "assets/logos/streamed/hungary-basketball.webp",
+        "Estonia Basketball": "assets/logos/streamed/estonia-basketball.webp",
+        "Israel Basketball": "assets/logos/streamed/israel-basketball.webp",
+        "Poland Basketball": "assets/logos/streamed/poland-basketball.webp",
+        "Germany Basketball": "assets/logos/streamed/germany-basketball.webp",
+        "Netherlands Basketball": "assets/logos/streamed/netherlands-basketball.webp",
+        "Croatia Basketball": "assets/logos/streamed/croatia-basketball.webp",
+        "Latvia Basketball": "assets/logos/streamed/latvia-basketball.webp",
+        "France Basketball": "assets/logos/streamed/france-basketball.webp",
+        "Slovenia Basketball": "assets/logos/streamed/slovenia-basketball.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
