@@ -10809,7 +10809,9 @@
         "Northern Colorado": "assets/logos/streamed/northern-colorado.webp",
         "Weber State": "assets/logos/streamed/weber-state.webp",
         "Cal Poly": "assets/logos/streamed/cal-poly.webp",
-        "Idaho": "assets/logos/streamed/idaho.webp"
+        "Idaho": "assets/logos/streamed/idaho.webp",
+        "Australia Basketball": "assets/logos/streamed/australia-basketball.webp",
+        "Philippines Basketball": "assets/logos/streamed/philippines-basketball.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
