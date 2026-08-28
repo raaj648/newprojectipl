@@ -10822,7 +10822,18 @@
         "Turkey Basketball": "assets/logos/streamed/turkey-basketball.webp",
         "Lithuania Basketball": "assets/logos/streamed/lithuania-basketball.webp",
         "Spain Basketball": "assets/logos/streamed/spain-basketball.webp",
-        "Portugal Basketball": "assets/logos/streamed/portugal-basketball.webp"
+        "Portugal Basketball": "assets/logos/streamed/portugal-basketball.webp",
+        "TCU": "assets/logos/streamed/tcu.webp",
+        "North Carolina": "assets/logos/streamed/north-carolina.webp",
+        "USC": "assets/logos/streamed/usc.webp",
+        "San Jose State": "assets/logos/streamed/san-jose-state.webp",
+        "Virginia": "assets/logos/streamed/virginia.webp",
+        "NC State": "assets/logos/streamed/nc-state.webp",
+        "North Dakota State": "assets/logos/streamed/north-dakota-state.webp",
+        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp",
+        "Florida State": "assets/logos/streamed/florida-state.webp",
+        "New Mexico State": "assets/logos/streamed/new-mexico-state.webp",
+        "Hawaii": "assets/logos/streamed/hawaii.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
