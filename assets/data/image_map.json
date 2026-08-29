@@ -10833,7 +10833,10 @@
         "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp",
         "Florida State": "assets/logos/streamed/florida-state.webp",
         "New Mexico State": "assets/logos/streamed/new-mexico-state.webp",
-        "Hawaii": "assets/logos/streamed/hawaii.webp"
+        "Hawaii": "assets/logos/streamed/hawaii.webp",
+        "UNLV": "assets/logos/streamed/unlv.webp",
+        "Memphis": "assets/logos/streamed/memphis.webp",
+        "Atlas Femenil": "assets/logos/streamed/atlas-femenil.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
