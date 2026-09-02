@@ -10885,7 +10885,10 @@
         "HEBC Hamburg": "assets/logos/streamed/hebc-hamburg.webp",
         "Liverpool U21": "assets/logos/streamed/liverpool-u21.webp",
         "Wake Forest": "assets/logos/streamed/wake-forest.webp",
-        "Akron": "assets/logos/streamed/akron.webp"
+        "Akron": "assets/logos/streamed/akron.webp",
+        "Diriyah": "assets/logos/streamed/diriyah.webp",
+        "Qadisiya": "assets/logos/streamed/qadisiya.webp",
+        "Massachusetts": "assets/logos/streamed/massachusetts.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
