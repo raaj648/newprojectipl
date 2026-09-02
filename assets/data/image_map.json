@@ -10888,7 +10888,12 @@
         "Akron": "assets/logos/streamed/akron.webp",
         "Diriyah": "assets/logos/streamed/diriyah.webp",
         "Qadisiya": "assets/logos/streamed/qadisiya.webp",
-        "Massachusetts": "assets/logos/streamed/massachusetts.webp"
+        "Massachusetts": "assets/logos/streamed/massachusetts.webp",
+        "Kennesaw State": "assets/logos/streamed/kennesaw-state.webp",
+        "Buffalo": "assets/logos/streamed/buffalo.webp",
+        "Delaware": "assets/logos/streamed/delaware.webp",
+        "UCF": "assets/logos/streamed/ucf.webp",
+        "Bethune-Cookman": "assets/logos/streamed/bethune-cookman.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
