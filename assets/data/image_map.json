@@ -10893,7 +10893,14 @@
         "Buffalo": "assets/logos/streamed/buffalo.webp",
         "Delaware": "assets/logos/streamed/delaware.webp",
         "UCF": "assets/logos/streamed/ucf.webp",
-        "Bethune-Cookman": "assets/logos/streamed/bethune-cookman.webp"
+        "Bethune-Cookman": "assets/logos/streamed/bethune-cookman.webp",
+        "Georgia Tech": "assets/logos/streamed/georgia-tech.webp",
+        "Missouri": "assets/logos/streamed/missouri.webp",
+        "Arkansas-Pine Bluff": "assets/logos/streamed/arkansas-pine-bluff.webp",
+        "UAB": "assets/logos/streamed/uab.webp",
+        "Utah": "assets/logos/streamed/utah.webp",
+        "London City Lionesses W": "assets/logos/streamed/london-city-lionesses-w.webp",
+        "Purdue": "assets/logos/streamed/purdue.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
