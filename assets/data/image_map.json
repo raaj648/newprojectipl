@@ -10954,7 +10954,9 @@
         "Clemson": "assets/logos/streamed/clemson.webp",
         "Florida": "assets/logos/streamed/florida.webp",
         "Florida Atlantic": "assets/logos/streamed/florida-atlantic.webp",
-        "Miami (OH)": "assets/logos/streamed/miami-oh.webp"
+        "Miami (OH)": "assets/logos/streamed/miami-oh.webp",
+        "Marist": "assets/logos/streamed/marist.webp",
+        "Georgia State": "assets/logos/streamed/georgia-state.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
