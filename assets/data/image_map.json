@@ -10957,7 +10957,21 @@
         "Miami (OH)": "assets/logos/streamed/miami-oh.webp",
         "Marist": "assets/logos/streamed/marist.webp",
         "Georgia State": "assets/logos/streamed/georgia-state.webp",
-        "Franklin Pierce": "assets/logos/streamed/franklin-pierce.webp"
+        "Franklin Pierce": "assets/logos/streamed/franklin-pierce.webp",
+        "BYU": "assets/logos/streamed/byu.webp",
+        "Northwestern": "assets/logos/streamed/northwestern.webp",
+        "Maryland": "assets/logos/streamed/maryland.webp",
+        "Hampton": "assets/logos/streamed/hampton.webp",
+        "Central Michigan": "assets/logos/streamed/central-michigan.webp",
+        "Nevada": "assets/logos/streamed/nevada.webp",
+        "Western Kentucky": "assets/logos/streamed/western-kentucky.webp",
+        "California": "assets/logos/streamed/california.webp",
+        "UCLA": "assets/logos/streamed/ucla.webp",
+        "Washington": "assets/logos/streamed/washington.webp",
+        "Washington State": "assets/logos/streamed/washington-state.webp",
+        "Notre Dame": "assets/logos/streamed/notre-dame.webp",
+        "Ole Miss": "assets/logos/streamed/ole-miss.webp",
+        "Louisville": "assets/logos/streamed/louisville.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
