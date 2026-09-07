@@ -11021,7 +11021,18 @@
         "Lane": "assets/logos/streamed/lane.webp",
         "SMU": "assets/logos/streamed/smu.webp",
         "Florida A and M": "assets/logos/streamed/florida-a-and-m.webp",
-        "Pogon": "assets/logos/streamed/pogon.webp"
+        "Pogon": "assets/logos/streamed/pogon.webp",
+        "AEK Athens Youth": "assets/logos/streamed/aek-athens-youth.webp",
+        "LASK Youth": "assets/logos/streamed/lask-youth.webp",
+        "Porto U19": "assets/logos/streamed/porto-u19.webp",
+        "Manchester City U19": "assets/logos/streamed/manchester-city-u19.webp",
+        "Aston Villa Youth": "assets/logos/streamed/aston-villa-youth.webp",
+        "Lille U19": "assets/logos/streamed/lille-u19.webp",
+        "Real Betis U19": "assets/logos/streamed/real-betis-u19.webp",
+        "Borussia Dortmund U19": "assets/logos/streamed/borussia-dortmund-u19.webp",
+        "Villarreal U19": "assets/logos/streamed/villarreal-u19.webp",
+        "Internazionale U19": "assets/logos/streamed/internazionale-u19.webp",
+        "Tottenham Hotspur U21": "assets/logos/streamed/tottenham-hotspur-u21.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
