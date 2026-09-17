@@ -11085,7 +11085,13 @@
         "Niki Volos": "assets/logos/streamed/niki-volos.webp",
         "Marko": "assets/logos/streamed/marko.webp",
         "FC Ararat-Armenia": "assets/logos/streamed/fc-ararat-armenia.webp",
-        "Viktoria Plze\u0148": "assets/logos/streamed/viktoria-plze\u0148.webp"
+        "Viktoria Plze\u0148": "assets/logos/streamed/viktoria-plze\u0148.webp",
+        "Frankfurt Lowen": "assets/logos/streamed/frankfurt-lowen.webp",
+        "Krefeld Pinguine": "assets/logos/streamed/krefeld-pinguine.webp",
+        "Grizzly Wolfsburg": "assets/logos/streamed/grizzly-wolfsburg.webp",
+        "Iserlohn Roosters": "assets/logos/streamed/iserlohn-roosters.webp",
+        "N\u00fcrnberg Ice Tigers": "assets/logos/streamed/n\u00fcrnberg-ice-tigers.webp",
+        "Augsburger Panther": "assets/logos/streamed/augsburger-panther.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
