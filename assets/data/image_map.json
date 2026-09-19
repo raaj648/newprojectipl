@@ -11111,7 +11111,13 @@
         "St. Thomas": "assets/logos/streamed/st-thomas.webp",
         "Yale": "assets/logos/streamed/yale.webp",
         "Penn": "assets/logos/streamed/penn.webp",
-        "Delta State": "assets/logos/streamed/delta-state.webp"
+        "Delta State": "assets/logos/streamed/delta-state.webp",
+        "Melbourne United": "assets/logos/streamed/melbourne-united.webp",
+        "Perth Wildcats": "assets/logos/streamed/perth-wildcats.webp",
+        "South East Melbourne Phoenix": "assets/logos/streamed/south-east-melbourne-phoenix.webp",
+        "New Zealand Breakers": "assets/logos/streamed/new-zealand-breakers.webp",
+        "Illawarra Hawks": "assets/logos/streamed/illawarra-hawks.webp",
+        "Cairns Taipans": "assets/logos/streamed/cairns-taipans.webp"
     },
     "leagues": {
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
