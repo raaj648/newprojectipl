@@ -61,19 +61,25 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=atlanta-braves-vs-philadelphia-phillies-b47a7931</loc>
+        <loc>https://liveipl.fit/watch/?livestream=boylesports-world-grand-prix-round-2-day-2-174429aa</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=fox-league-68bdabc3</loc>
+        <loc>https://liveipl.fit/watch/?livestream=world-rally-championship-2026-rally-italia-2fa2eda4</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=houston-astros-vs-chicago-white-sox-b1bc8c86</loc>
+        <loc>https://liveipl.fit/watch/?livestream=dana-whites-contender-series-season-10-week-8-e564de27</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=toronto-maple-leafs-vs-new-york-islanders-8811c8dc</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -85,13 +91,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=dallas-wings-vs-golden-state-valkyries-f0b64e81</loc>
+        <loc>https://liveipl.fit/watch/?livestream=san-diego-padres-vs-chicago-cubs-b0474661</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=san-diego-padres-vs-chicago-cubs-b0474661</loc>
+        <loc>https://liveipl.fit/watch/?livestream=rally-tv-e7360aab</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=colorado-avalanche-vs-los-angeles-kings-0e8dbebc</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=philadelphia-flyers-vs-pittsburgh-penguins-55daa97d</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -109,13 +127,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=nfl-network-e7360aab</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=world-rally-championship-2026-rally-italia-2fa2eda4</loc>
+        <loc>https://liveipl.fit/watch/?livestream=atlanta-braves-vs-philadelphia-phillies-b47a7931</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -133,7 +145,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=rally-tv-e7360aab</loc>
+        <loc>https://liveipl.fit/watch/?livestream=nfl-network-e7360aab</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=sydney-kings-vs-brisbane-bullets-591da537</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=new-york-yankees-vs-boston-red-sox-f817f25e</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -151,37 +175,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=boylesports-world-grand-prix-round-2-day-2-174429aa</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=toronto-maple-leafs-vs-new-york-islanders-8811c8dc</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=colorado-avalanche-vs-los-angeles-kings-0e8dbebc</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=new-york-yankees-vs-boston-red-sox-f817f25e</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=sydney-kings-vs-brisbane-bullets-591da537</loc>
-        <lastmod>2026-09-30</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=philadelphia-flyers-vs-pittsburgh-penguins-55daa97d</loc>
+        <loc>https://liveipl.fit/watch/?livestream=dallas-wings-vs-golden-state-valkyries-f0b64e81</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -193,7 +187,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=dana-whites-contender-series-season-10-week-8-e564de27</loc>
+        <loc>https://liveipl.fit/watch/?livestream=fox-league-68bdabc3</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=houston-astros-vs-chicago-white-sox-b1bc8c86</loc>
         <lastmod>2026-09-30</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
