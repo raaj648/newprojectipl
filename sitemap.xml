@@ -61,7 +61,13 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=seattle-seahawks-vs-san-francisco-49ers-b2c93a95</loc>
+        <loc>https://liveipl.fit/watch/?livestream=los-angeles-rams-vs-buffalo-bills-5600e252</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=fox-cricket-51ea9024</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -73,19 +79,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=cleveland-cavaliers-vs-orlando-magic-820dcfc6</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=coventry-city-vs-newcastle-united-586e20dd</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=milwaukee-brewers-vs-los-angeles-dodgers-461f9e69</loc>
+        <loc>https://liveipl.fit/watch/?livestream=washington-wizards-vs-brooklyn-nets-808a87b3</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -97,67 +91,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=tna-bound-for-glory-e2677f2e</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=elfsborg-vs-halmstad-3e93255b</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=washington-wizards-vs-brooklyn-nets-808a87b3</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=willow-cricket-51ea9024</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=arizona-cardinals-vs-detroit-lions-b796635d</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=denver-nuggets-vs-chicago-bulls-a846f5d1</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-eff2e1c4</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=torino-vs-udinese-1530da9e</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=fox-league-68bdabc3</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=st-louis-city-sc-vs-la-galaxy-b017039b</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=atlanta-falcons-vs-baltimore-ravens-c475072f</loc>
+        <loc>https://liveipl.fit/watch/?livestream=seattle-seahawks-vs-san-francisco-49ers-b2c93a95</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -169,49 +103,37 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=philadelphia-flyers-vs-carolina-hurricanes-b76cae44</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=nfl-network-e7360aab</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=tennis-channel-e7360aab</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=nhl-network-e7360aab</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://liveipl.fit/watch/?livestream=washington-capitals-vs-seattle-kraken-80e1f1e9</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=los-angeles-chargers-vs-denver-broncos-700264aa</loc>
+        <loc>https://liveipl.fit/watch/?livestream=sky-sports-golf-e7360aab</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=atalanta-vs-venezia-57ba71ff</loc>
+        <loc>https://liveipl.fit/watch/?livestream=cleveland-cavaliers-vs-orlando-magic-820dcfc6</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=new-jersey-devils-vs-ottawa-senators-20bd9b38</loc>
+        <loc>https://liveipl.fit/watch/?livestream=denver-nuggets-vs-chicago-bulls-a846f5d1</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=nfl-redzone-2448deeb</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=atlético-de-san-luis-vs-santos-laguna-3e023c5a</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -223,7 +145,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=fox-cricket-51ea9024</loc>
+        <loc>https://liveipl.fit/watch/?livestream=charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-eff2e1c4</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=willow-cricket-51ea9024</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=fox-league-68bdabc3</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -241,7 +175,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=atlético-de-san-luis-vs-santos-laguna-3e023c5a</loc>
+        <loc>https://liveipl.fit/watch/?livestream=tennis-channel-e7360aab</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=nhl-network-e7360aab</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -253,7 +193,85 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://liveipl.fit/watch/?livestream=st-louis-city-sc-vs-la-galaxy-b017039b</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=torino-vs-udinese-1530da9e</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=los-angeles-chargers-vs-denver-broncos-700264aa</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=milwaukee-brewers-vs-los-angeles-dodgers-461f9e69</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=coventry-city-vs-newcastle-united-586e20dd</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=new-jersey-devils-vs-ottawa-senators-20bd9b38</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=philadelphia-flyers-vs-carolina-hurricanes-b76cae44</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://liveipl.fit/watch/?livestream=pachuca-vs-necaxa-f5bcec71</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=atlanta-falcons-vs-baltimore-ravens-c475072f</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=atalanta-vs-venezia-57ba71ff</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=elfsborg-vs-halmstad-3e93255b</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=buffalo-sabres-vs-florida-panthers-6c81380b</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=arizona-cardinals-vs-detroit-lions-b796635d</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=tna-bound-for-glory-e2677f2e</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -265,7 +283,13 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://liveipl.fit/watch/?livestream=sky-sports-golf-e7360aab</loc>
+        <loc>https://liveipl.fit/watch/?livestream=atlanta-hawks-vs-oklahoma-city-thunder-70e5b996</loc>
+        <lastmod>2026-10-12</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://liveipl.fit/watch/?livestream=nfl-network-e7360aab</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
@@ -278,24 +302,6 @@
     </url>
     <url>
         <loc>https://liveipl.fit/watch/?livestream=london-lions-vs-portland-trail-blazers-9441fe73</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=nfl-redzone-2448deeb</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=buffalo-sabres-vs-florida-panthers-6c81380b</loc>
-        <lastmod>2026-10-12</lastmod>
-        <changefreq>hourly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://liveipl.fit/watch/?livestream=atlanta-hawks-vs-oklahoma-city-thunder-70e5b996</loc>
         <lastmod>2026-10-12</lastmod>
         <changefreq>hourly</changefreq>
         <priority>0.6</priority>
